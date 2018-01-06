@@ -129,9 +129,19 @@ tokens will not be reused.
 
 =head2 by_symbol
 
+=head2 by_ticker
+
+Alias for L</"by_symbol">.
+
 =head2 by_name
 
 =head2 by_safename
+
+=head2 by_slug
+
+Alias for L</"by_safename">.
+
+=head2 all_symbols
 
 =head2 all_data
 

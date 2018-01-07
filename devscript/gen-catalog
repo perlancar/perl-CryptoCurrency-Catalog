@@ -54,6 +54,8 @@ LOAD_SCRAPE_RESULT: {
             $name = $completion{$name};
         }
 
+        $name =~ /\.\.\./ and die "Name '$name' still contains ellipsis";
+
         $by_symbol{$symbol} and die "Duplicate symbol $symbol";
         $by_symbol{$symbol} = {name => $name, safename => $safename};
 

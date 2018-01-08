@@ -215,6 +215,7 @@ ANT	Aragon	aragon
 ANTI	AntiBitcoin	antibitcoin
 ANTX	Antimatter	antimatter
 APC	AlpaCoin	alpacoin
+APPC	AppCoins	appcoins
 APW	AppleCoin	applecoin-apw
 APX	APX	apx
 ARB	ARbit	arbit
@@ -383,6 +384,7 @@ CAB	Cabbage	cabbage
 CACH	CacheCoin	cachecoin
 CAG	Change	change
 CALC	CaliphCoin	caliphcoin
+CAN	CanYaCoin	canyacoin
 CANN	CannabisCoin	cannabiscoin
 CAPP	Cappasity	cappasity
 CARBON	Carboncoin	carboncoin
@@ -1289,6 +1291,7 @@ TAG	TagCoin	tagcoin
 TAGR	TAGRcoin	tagrcoin
 TAJ	TajCoin	tajcoin
 TALK	BTCtalkcoin	btctalkcoin
+TAU	Lamden	lamden
 TCC	The ChampCoin	the-champcoin
 TCOIN	T-coin	t-coin
 TCR	TheCreed	thecreed

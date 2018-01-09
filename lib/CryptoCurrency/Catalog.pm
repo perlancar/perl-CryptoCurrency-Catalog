@@ -111,8 +111,7 @@ sub all_data {
 
 This class attempts to provide a list/catalog of cryptocurrencies. The main
 source for this catalog is the Cryptocurrency Market Capitalizations website
-(L<https://coinmarketcap.com/>, or CMC for short). This catalog is updated to
-the list on CMC as of Jan 6, 2018 (1384 coins and tokens).
+(L<https://coinmarketcap.com/>, or CMC for short).
 
 CMC does not provide unique symbols nor unique names, only unique "safenames"
 (slugs). Whenever there is a clash, this catalog modifies the clashing symbol
@@ -147,6 +146,8 @@ Alias for L</"by_safename">.
 
 
 =head1 SEE ALSO
+
+L<CryptoExchange::Catalog>
 
 =cut
 

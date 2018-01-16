@@ -1,0 +1,86 @@
+#!/usr/bin/env perl
+
+use 5.010001;
+use strict;
+use warnings;
+use FindBin '$Bin';
+use Log::ger;
+use Log::ger::App;
+
+{
+    my $archived_pm_dir = [sort(glob "$Bin/../archive/*")]->[-1] . "/lib";
+    local @INC = ($archived_pm_dir, @INC);
+    require CryptoCurrency::Catalog;
+    log_warn("Loading CryptoCurrency::Catalog version %s", $CryptoCurrency::Catalog::VERSION);
+    log_debug("%%INC = %s", \%INC);
+    die "Didn't load the desired last archived version" unless $INC{"CryptoCurrency/Catalog.pm"} eq "$archived_pm_dir/CryptoCurrency/Catalog.pm";
+}
+
+my $cat;
+
+$cat = CryptoCurrency::Catalog->new;
+my @old_data = $cat->all_data;
+
+delete $INC{"CryptoCurrency/Catalog.pm"};
+{
+    local @INC = ("$Bin/../lib", @INC);
+    require CryptoCurrency::Catalog;
+    undef $CryptoCurrency::Catalog::VERSION;
+    log_warn("Loading CryptoCurrency::Catalog version %s", ($CryptoCurrency::Catalog::VERSION // 'dev'));
+    log_debug("%%INC = %s", \%INC);
+    die "Didn't load the desired dev version" unless $INC{"CryptoCurrency/Catalog.pm"} eq "$Bin/../lib/CryptoCurrency/Catalog.pm";
+}
+
+$cat = CryptoCurrency::Catalog->new;
+my @new_data = $cat->all_data;
+
+#use Data::Dump;
+#dd \@old_data;
+#dd \@new_data;
+
+my $indent = "          ";
+
+my %old_safenames;
+for my $e (@old_data) {
+    $old_safenames{ $e->{safename} } = $e;
+}
+
+my %new_safenames;
+for my $e (@new_data) {
+    $new_safenames{ $e->{safename} } = $e;
+}
+
+say "${indent}- New coins:";
+for my $n (sort keys %new_safenames) {
+    next if $old_safenames{$n};
+    my $e = $new_safenames{$n};
+    say "${indent}  + $e->{name} ($e->{symbol})";
+}
+say "";
+
+say "${indent}- Removed coins:";
+for my $n (sort keys %old_safenames) {
+    next if $new_safenames{$n};
+    my $e = $old_safenames{$n};
+    say "${indent}  + $e->{name} ($e->{symbol})";
+}
+say "";
+
+say "${indent}- Changed coins:";
+for my $n (sort keys %new_safenames) {
+    my $e2 = $new_safenames{$n};
+    my $e1 = $old_safenames{$n};
+    next unless $e1;
+    my @chgs;
+    if ($e1->{name} ne $e2->{name}) {
+        push @chgs, "changed name from $e1->{name}";
+    }
+    if ($e1->{symbol} ne $e2->{symbol}) {
+        push @chgs, "changed symbol from $e1->{symbol}";
+    }
+    next unless @chgs;
+    say "${indent}  + $e2->{name} ($e2->{symbol}) ".join(", ", @chgs);
+}
+say "";
+
+say "${indent}- Total coins now ".(scalar keys %new_safenames)." (from ".(scalar %old_safenames).")";

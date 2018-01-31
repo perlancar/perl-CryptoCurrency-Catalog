@@ -8,7 +8,7 @@ use strict;
 use warnings;
 
 my %by_symbol;
-my %by_name;
+my %by_name_lc;
 my %by_safename;
 my @all_data;
 
@@ -21,7 +21,7 @@ sub new {
             my @ff = split /\t/, $line;
             my ($symbol, $name, $safename) = @ff;
             $by_symbol{$symbol}     = \@ff;
-            $by_name{$name}         = \@ff;
+            $by_name_lc{lc $name}   = \@ff;
             $by_safename{$safename} = \@ff;
             push @all_data, \@ff;
         }
@@ -47,11 +47,11 @@ sub by_ticker { by_symbol(@_) }
 sub by_name {
     my ($self, $name) = @_;
     die "Can't find cryptocurrency with name '$name'"
-        unless $by_name{$name};
+        unless my $rec = $by_name_lc{lc $name};
     return {
-        name=>$name,
-        symbol=>$by_name{$name}[0],
-        safename=>$by_name{$name}[2],
+        name=>$rec->[1],
+        symbol=>$rec->[0],
+        safename=>$rec->[2],
     };
 }
 

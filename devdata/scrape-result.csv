@@ -4,1504 +4,1514 @@ ETH	Ethereum	ethereum
 XRP	Ripple	ripple
 BCH	Bitcoin Cash	bitcoin-cash
 ADA	Cardano	cardano
-NEO	NEO	neo
-XLM	Stellar	stellar
 LTC	Litecoin	litecoin
+XLM	Stellar	stellar
+NEO	NEO	neo
 EOS	EOS	eos
-XEM	NEM	nem
 MIOTA	IOTA	iota
+XEM	NEM	nem
 DASH	Dash	dash
 XMR	Monero	monero
-TRX	TRON	tron
 LSK	Lisk	lisk
-ICX	ICON	icon
-QTUM	Qtum	qtum
-VEN	VeChain	vechain
+TRX	TRON	tron
 ETC	Ethereum Classic	ethereum-classic
 BTG	Bitcoin Gold	bitcoin-gold
-PPT	Populous	populous
-XRB	RaiBlocks	raiblocks
 USDT	Tether	tether
+QTUM	Qtum	qtum
+VEN	VeChain	vechain
+ICX	ICON	icon
+ZEC	Zcash	zcash
+XRB	Nano	raiblocks
 OMG	OmiseGO	omisego
 STEEM	Steem	steem
-ZEC	Zcash	zcash
-STRAT	Stratis	stratis
+PPT	Populous	populous
 BNB	Binance Coin	binance-coin
 BCN	Bytecoin	bytecoin-bcn
-SC	Siacoin	siacoin
-BTS	BitShares	bitshares
-XVG	Verge	verge
 SNT	Status	status
-ZRX	0x	0x
-WTC	Walton	walton
-ARDR	Ardor	ardor
+XVG	Verge	verge
+SC	Siacoin	siacoin
+STRAT	Stratis	stratis
 MKR	Maker	maker
-REP	Augur	augur
-WAVES	Waves	waves
-VERI	Veritaseum	veritaseum
-KCS	KuCoin Shares	kucoin-shares
-RHOC	RChain	rchain
-DOGE	Dogecoin	dogecoin
-DCR	Decred	decred
+BTS	BitShares	bitshares
 AE	Aeternity	aeternity
-KMD	Komodo	komodo
+REP	Augur	augur
+VERI	Veritaseum	veritaseum
+DOGE	Dogecoin	dogecoin
+WTC	Walton	walton
+WAVES	Waves	waves
+ZRX	0x	0x
+DGD	DigixDAO	digixdao
+RHOC	RChain	rchain
 HSR	Hshare	hshare
-GAS	Gas	gas
-DRGN	Dragonchain	dragonchain
-ARK	Ark	ark
-LRC	Loopring	loopring
+DCR	Decred	decred
+ARDR	Ardor	ardor
+KCS	KuCoin Shares	kucoin-shares
+R	Revain	revain
+KMD	Komodo	komodo
 KNC	Kyber Network	kyber-network
+ARK	Ark	ark
+ETN	Electroneum	electroneum
+GAS	Gas	gas
+LRC	Loopring	loopring
+DCN	Dentacoin	dentacoin
+DRGN	Dragonchain	dragonchain
 BAT	Basic Attenti...	basic-attention-token
 DGB	DigiByte	digibyte
-ETN	Electroneum	electroneum
-ELF	aelf	aelf
-DGD	DigixDAO	digixdao
-PIVX	PIVX	pivx
-QASH	QASH	qash
-DCN	Dentacoin	dentacoin
-NAS	Nebulas	nebulas-token
-GBYTE	Byteball Bytes	byteball
-IGNIS	Ignis	ignis
-GNT	Golem	golem-network-tokens
 BTM	Bytom	bytom
-IOST	IOStoken	iostoken
+ZIL	Zilliqa	zilliqa
 ZCL	ZClassic	zclassic
-R	Revain	revain
-CNX	Cryptonex	cryptonex
-FUN	FunFair	funfair
-CND	Cindicator	cindicator
+PIVX	PIVX	pivx
+GBYTE	Byteball Bytes	byteball
 ETHOS	Ethos	ethos
-SMART	SmartCash	smartcash
-AION	Aion	aion
-FCT	Factom	factom
+QASH	QASH	qash
+ELF	aelf	aelf
+NAS	Nebulas	nebulas-token
 PLR	Pillar	pillar
-DENT	Dent	dent
-SALT	SALT	salt
-POWR	Power Ledger	power-ledger
-GXS	GXShares	gxshares
-MONA	MonaCoin	monacoin
-NXT	Nxt	nxt
-SYS	Syscoin	syscoin
-XZC	ZCoin	zcoin
-NXS	Nexus	nexus
-KIN	Kin	kin
-MAID	MaidSafeCoin	maidsafecoin
-RDD	ReddCoin	reddcoin
-ENG	Enigma	enigma-project
-REQ	Request Network	request-network
-SRN	SIRIN LABS Token	sirin-labs-token
-PAY	TenX	tenx
 BTX	Bitcore	bitcore
-ICN	Iconomi	iconomi
-WAX	WAX	wax
-PART	Particl	particl
-GNO	Gnosis	gnosis-gno
-MED	MediBloc	medibloc
-LINK	ChainLink	chainlink
-GAME	GameCredits	gamecredits
-QSP	Quantstamp	quantstamp
-NEBL	Neblio	neblio
-EMC	Emercoin	emercoin
-RDN	Raiden Networ...	raiden-network-token
+CNX	Cryptonex	cryptonex
+GNT	Golem	golem-network-tokens
+POWR	Power Ledger	power-ledger
+SYS	Syscoin	syscoin
+GXS	GXShares	gxshares
+CND	Cindicator	cindicator
+IOST	IOStoken	iostoken
+FUN	FunFair	funfair
+DENT	Dent	dent
+MONA	MonaCoin	monacoin
+FCT	Factom	factom
+SALT	SALT	salt
+AION	Aion	aion
+SMART	SmartCash	smartcash
+KIN	Kin	kin
+ENG	Enigma	enigma-project
+XZC	ZCoin	zcoin
 BNT	Bancor	bancor
-SUB	Substratum	substratum
-POE	Po.et	poet
-XDN	DigitalNote	digitalnote
-CVC	Civic	civic
-HPB	High Performa...	high-performance-blockchain
-BLOCK	Blocknet	blocknet
-XPA	XPlay	xplay
-STORJ	Storj	storj
-BTCD	BitcoinDark	bitcoindark
-TNB	Time New Bank	time-new-bank
-SPHTX	SophiaTX	sophiatx
-UBQ	Ubiq	ubiq
-ENJ	Enjin Coin	enjin-coin
-ANT	Aragon	aragon
-RLC	iExec RLC	rlc
-PAC	PACcoin	paccoin
-DEW	DEW	dew
-PPP	PayPie	paypie
-AST	AirSwap	airswap
-STORM	Storm	storm
-VTC	Vertcoin	vertcoin
+PART	Particl	particl
+ECN	E-coin	e-coin
+AGI	SingularityNET	singularitynet
 XP	Experience Po...	experience-points
-SKY	Skycoin	skycoin
-ITC	IoT Chain	iot-chain
-BIX	Bibox Token	bibox-token
-SAN	Santiment Net...	santiment
-BCO	BridgeCoin	bridgecoin
-ZEN	ZenCash	zencash
-LEND	ETHLend	ethlend
-ACT	Achain	achain
-VEE	BLOCKv	blockv
-MCO	Monaco	monaco
-NAV	NAV Coin	nav-coin
+WAX	WAX	wax
+PAY	TenX	tenx
+NXT	Nxt	nxt
+MAID	MaidSafeCoin	maidsafecoin
+REQ	Request Network	request-network
+QSP	Quantstamp	quantstamp
+RDD	ReddCoin	reddcoin
+IGNIS	Ignis	ignis
+EMC	Emercoin	emercoin
+NXS	Nexus	nexus
+XPA	XPlay	xplay
+SUB	Substratum	substratum
+ICN	Iconomi	iconomi
+GNO	Gnosis	gnosis-gno
+LINK	ChainLink	chainlink
+NEBL	Neblio	neblio
+GAME	GameCredits	gamecredits
+CVC	Civic	civic
+XDN	DigitalNote	digitalnote
+BTCD	BitcoinDark	bitcoindark
+VTC	Vertcoin	vertcoin
+HPB	High Performa...	high-performance-blockchain
+RDN	Raiden Networ...	raiden-network-token
+STORJ	Storj	storj
+BLOCK	Blocknet	blocknet
+POE	Po.et	poet
+STORM	Storm	storm
 UNITY	SuperNET	supernet-unity
-SNGLS	SingularDTV	singulardtv
-THETA	Theta Token	theta-token
-RPX	Red Pulse	red-pulse
-RCN	Ripio Credit ...	ripio-credit-network
-DTR	Dynamic Tradi...	dynamic-trading-rights
-CMT	CyberMiles	cybermiles
-COB	Cobinhood	cobinhood
+SKY	Skycoin	skycoin
+DEW	DEW	dew
+ACT	Achain	achain
+ZEN	ZenCash	zencash
+TNB	Time New Bank	time-new-bank
+MED	MediBloc	medibloc
+SRN	SIRIN LABS Token	sirin-labs-token
+ANT	Aragon	aragon
 MANA	Decentraland	decentraland
-VIBE	VIBE	vibe
-AMB	Ambrosus	amber
-XAS	Asch	asch
-OST	Simple Token	simple-token
-DBC	DeepBrain Chain	deepbrain-chain
+ENJ	Enjin Coin	enjin-coin
+RLC	iExec RLC	rlc
 HTML	HTMLCOIN	html-coin
-BAY	BitBay	bitbay
-TEL	Telcoin	telcoin
-PPC	Peercoin	peercoin
-XCP	Counterparty	counterparty
-SNM	SONM	sonm
-TNC	Trinity Netwo...	trinity-network-credit
+BLZ	Bluzelle	bluzelle
+UBQ	Ubiq	ubiq
+DTR	Dynamic Tradi...	dynamic-trading-rights
+SAN	Santiment Net...	santiment
+VEE	BLOCKv	blockv
+BCO	BridgeCoin	bridgecoin
+NAV	NAV Coin	nav-coin
+SPHTX	SophiaTX	sophiatx
 AGRS	Agoras Tokens	agoras-tokens
-EMC2	Einsteinium	einsteinium
-APPC	AppCoins	appcoins
-XBY	XTRABYTES	xtrabytes
-ADX	AdEx	adx-net
-INS	INS Ecosystem	ins-ecosystem
-NULS	Nuls	nuls
-WABI	WaBi	wabi
-MLN	Melon	melon
+MCO	Monaco	monaco
+COB	Cobinhood	cobinhood
+AST	AirSwap	airswap
+VIBE	VIBE	vibe
+PAC	PACcoin	paccoin
+LEND	ETHLend	ethlend
+ITC	IoT Chain	iot-chain
+C20	CRYPTO20	c20
+BIX	Bibox Token	bibox-token
+SPANK	SpankChain	spankchain
+RPX	Red Pulse	red-pulse
+XAS	Asch	asch
+RCN	Ripio Credit ...	ripio-credit-network
+SNGLS	SingularDTV	singulardtv
+DBC	DeepBrain Chain	deepbrain-chain
 MDS	MediShares	medishares
-INT	Internet Node...	internet-node-token
+PPC	Peercoin	peercoin
+PRL	Oyster	oyster
+XBY	XTRABYTES	xtrabytes
+CMT	CyberMiles	cybermiles
+SNM	SONM	sonm
+AMB	Ambrosus	amber
+PPP	PayPie	paypie
+MTL	Metal	metal
+OST	Simple Token	simple-token
+EMC2	Einsteinium	einsteinium
+TEL	Telcoin	telcoin
+ADX	AdEx	adx-net
+XCP	Counterparty	counterparty
+THETA	Theta Token	theta-token
+QRL	Quantum Resis...	quantum-resistant-ledger
+UTK	UTRUST	utrust
+BAY	BitBay	bitbay
+WABI	WaBi	wabi
+EDG	Edgeless	edgeless
+NULS	Nuls	nuls
+TNC	Trinity Netwo...	trinity-network-credit
+VIA	Viacoin	viacoin
+CTR	Centra	centra
+MLN	Melon	melon
+NLG	Gulden	gulden
+DATA	Streamr DATAcoin	streamr-datacoin
+APPC	AppCoins	appcoins
+MGO	MobileGo	mobilego
+INS	INS Ecosystem	ins-ecosystem
 UKG	Unikoin Gold	unikoin-gold
 MOD	Modum	modum
-DATA	Streamr DATAcoin	streamr-datacoin
+TNT	Tierion	tierion
+TRIG	Triggers	triggers
+EDO	Eidoo	eidoo
+NGC	NAGA	naga
+FUEL	Etherparty	etherparty
 ION	ION	ion
 ETP	Metaverse ETP	metaverse
-SPANK	SpankChain	spankchain
-EDG	Edgeless	edgeless
-CTR	Centra	centra
-TNT	Tierion	tierion
-FUEL	Etherparty	etherparty
-QRL	Quantum Resis...	quantum-resistant-ledger
-MTL	Metal	metal
-UTK	UTRUST	utrust
-ECA	Electra	electra
-IDH	indaHash	indahash
-LBC	LBRY Credits	library-credit
-EDO	Eidoo	eidoo
-CAPP	Cappasity	cappasity
-VIA	Viacoin	viacoin
-LUN	Lunyr	lunyr
+WINGS	Wings	wings
+WGR	Wagerr	wagerr
+GVT	Genesis Vision	genesis-vision
 CDT	CoinDash	coindash
+ECA	Electra	electra
+LBC	LBRY Credits	library-credit
+ATM	ATMChain	attention-token-of-media
+SOC	All Sports	all-sports
+INT	Internet Node...	internet-node-token
+QLC	QLINK	qlink
+IDH	indaHash	indahash
+AEON	Aeon	aeon
+BURST	Burst	burst
+ECC	ECC	eccoin
 BRD	Bread	bread
 DNT	district0x	district0x
-ATM	ATMChain	attention-token-of-media
-WINGS	Wings	wings
-BURST	Burst	burst
-QBT	Qbao	qbao
-TKN	TokenCard	tokencard
-NLG	Gulden	gulden
-LKK	Lykke	lykke
-GVT	Genesis Vision	genesis-vision
-NGC	NAGA	naga
-HST	Decision Token	decision-token
-BITCNY	bitCNY	bitcny
-RISE	Rise	rise
-ECC	ECC	eccoin
-DCT	DECENT	decent
-ADT	adToken	adtoken
-WGR	Wagerr	wagerr
-GRID	Grid+	grid
 CLOAK	CloakCoin	cloakcoin
-AEON	Aeon	aeon
-DPY	Delphy	delphy
-SLS	SaluS	salus
-1ST	FirstBlood	firstblood
-TRIG	Triggers	triggers
-QLC	QLINK	qlink
-MGO	MobileGo	mobilego
-VIB	Viberate	viberate
-PURA	Pura	pura
-TAAS	TaaS	taas
-GRS	Groestlcoin	groestlcoin
-BDG	BitDegree	bitdegree
-ECN	E-coin	e-coin
-SXDT	Spectre.ai Di...	spectre-dividend
-PRL	Oyster	oyster
-VOX	Voxels	voxels
-COSS	COSS	coss
-HVN	Hive	hive
-SWFTC	SwftCoin	swftcoin
-BCC	BitConnect	bitconnect
-INK	Ink	ink
 MNX	MinexCoin	minexcoin
 MER	Mercury	mercury
-GTO	Gifto	gifto
-SHIFT	Shift	shift
-DAT	Datum	datum
-CFI	Cofound.it	cofound-it
-TIO	Trade Token	trade-token
-NMC	Namecoin	namecoin
-IOC	I/O Coin	iocoin
-TRST	WeTrust	trust
+DCT	DECENT	decent
+SLS	SaluS	salus
+ADT	adToken	adtoken
+HST	Decision Token	decision-token
+HVN	Hive	hive
 TSL	Energo	energo
-EVX	Everex	everex
-DLT	Agrello	agrello-delta
-THC	HempCoin	hempcoin
-JINN	Jinn	jinn
-CRW	Crown	crown
-MTH	Monetha	monetha
-DMD	Diamond	diamond
-XSPEC	Spectrecoin	spectrecoin
-PRE	Presearch	presearch
-KEY	Selfkey	selfkey
-KRM	Karma	karma
-DRT	DomRaider	domraider
-TIX	Blocktix	blocktix
-YOYOW	YOYOW	yoyow
-PEPECASH	Pepe Cash	pepe-cash
-NET	Nimiq	nimiq
-WRC	Worldcore	worldcore
-SAFEX	Safe Exchange...	safe-exchange-coin
-DIME	Dimecoin	dimecoin
-HMQ	Humaniq	humaniq
-POT	PotCoin	potcoin
-BLT	Bloom	bloomtoken
-TAU	Lamden	lamden
-FTC	Feathercoin	feathercoin
-SBD	Steem Dollars	steem-dollars
-FLASH	Flash	flash
-CAN	CanYaCoin	canyacoin
-SIB	SIBCoin	sibcoin
-IXT	iXledger	ixledger
-LA	LAToken	latoken
-NSR	NuShares	nushares
-DNA	EncrypGen	encrypgen
-SNC	SunContract	suncontract
-VRC	VeriCoin	vericoin
-PRO	Propy	propy
-AMP	Synereo	synereo
-ZSC	Zeusshield	zeusshield
-CAT	BitClave	bitclave
-NEU	Neumark	neumark
-GTC	Game.com	game
-PASC	Pascal Coin	pascal-coin
-XWC	WhiteCoin	whitecoin
-FAIR	FairCoin	faircoin
-BOT	Bodhi	bodhi
-GUP	Matchpool	guppy
-MSP	Mothership	mothership
-MOT	Olympus Labs	olympus-labs
-HGT	HelloGold	hellogold
-MDA	Moeda Loyalty...	moeda-loyalty-points
-XEL	Elastic	elastic
-POSW	PoSW Coin	posw-coin
-BCPT	BlockMason Cr...	blockmason
-MOON	Mooncoin	mooncoin
-ARN	Aeron	aeron
 ONION	DeepOnion	deeponion
-XSH	SHIELD	shield-xsh
-NLC2	NoLimitCoin	nolimitcoin
-PPY	Peerplays	peerplays-ppy
-OTN	Open Trading ...	open-trading-network
-BLK	BlackCoin	blackcoin
-ORME	Ormeus Coin	ormeus-coin
-GRC	GridCoin	gridcoin
-SLR	SolarCoin	solarcoin
-STX	Stox	stox
-EXP	Expanse	expanse
-COV	Covesting	covesting
-QUN	QunQun	qunqun
-NMR	Numeraire	numeraire
-VIU	Viuly	viuly
-OK	OKCash	okcash
+GRS	Groestlcoin	groestlcoin
+CV	carVertical	carvertical
+YOYOW	YOYOW	yoyow
+TRAC	OriginTrail	origintrail
+LKK	Lykke	lykke
+CAPP	Cappasity	cappasity
+PRE	Presearch	presearch
+COSS	COSS	coss
+TKN	TokenCard	tokencard
+SAFEX	Safe Exchange...	safe-exchange-coin
+DAT	Datum	datum
+CRW	Crown	crown
+1ST	FirstBlood	firstblood
+OCN	Odyssey	odyssey
+TAAS	TaaS	taas
+VIB	Viberate	viberate
+LUN	Lunyr	lunyr
+PURA	Pura	pura
+GTO	Gifto	gifto
+SBD	Steem Dollars	steem-dollars
+QBT	Qbao	qbao
+INK	Ink	ink
+THC	HempCoin	hempcoin
+XSPEC	Spectrecoin	spectrecoin
+DPY	Delphy	delphy
+FTC	Feathercoin	feathercoin
+NMC	Namecoin	namecoin
+MOON	Mooncoin	mooncoin
+IOC	I/O Coin	iocoin
+BITCNY	bitCNY	bitcny
+BDG	BitDegree	bitdegree
+POT	PotCoin	potcoin
+SHIFT	Shift	shift
+CFI	Cofound.it	cofound-it
+DMD	Diamond	diamond
+TAU	Lamden	lamden
+TRST	WeTrust	trust
+XWC	WhiteCoin	whitecoin
+KRM	Karma	karma
+SWFTC	SwftCoin	swftcoin
+NET	Nimiq	nimiq
+VOX	Voxels	voxels
+MTH	Monetha	monetha
+DIME	Dimecoin	dimecoin
+BLT	Bloom	bloomtoken
+TIX	Blocktix	blocktix
+PEPECASH	Pepe Cash	pepe-cash
+IPL	InsurePal	insurepal
+COLX	ColossusCoinXT	colossuscoinxt
+ZSC	Zeusshield	zeusshield
+SIB	SIBCoin	sibcoin
+AMP	Synereo	synereo
+HMQ	Humaniq	humaniq
+EVX	Everex	everex
+TIO	Trade Token	trade-token
+IXT	iXledger	ixledger
+FLASH	Flash	flash
+VRC	VeriCoin	vericoin
+KEY	Selfkey	selfkey
+LA	LAToken	latoken
+RISE	Rise	rise
 ART	Maecenas	maecenas
-AIR	AirToken	airtoken
-PST	Primas	primas
-RADS	Radium	radium
-GOLOS	Golos	golos
-CREDO	Credo	credo
-MUE	MonetaryUnit	monetaryunit
-XNN	Xenon	xenon
-VOISE	Voise	voisecom
-SNOV	Snovio	snovio
-BBR	Boolberry	boolberry
-OAX	OAX	oax
-TGT	Target Coin	target-coin
-OMNI	Omni	omni
-RVT	Rivetz	rivetz
+WRC	Worldcore	worldcore
+FAIR	FairCoin	faircoin
+DLT	Agrello	agrello-delta
+SNC	SunContract	suncontract
+CAT	BitClave	bitclave
+PASC	Pascal Coin	pascal-coin
 LEO	LEOcoin	leocoin
-LIFE	LIFE	life
-AURA	Aurora DAO	aurora-dao
-NEOS	NeosCoin	neoscoin
-BCAP	BCAP	bcap
+ORME	Ormeus Coin	ormeus-coin
+UNO	Unobtanium	unobtanium
+MDA	Moeda Loyalty...	moeda-loyalty-points
+PPY	Peerplays	peerplays-ppy
+XSH	SHIELD	shield-xsh
+GUP	Matchpool	guppy
+NLC2	NoLimitCoin	nolimitcoin
+PHR	Phore	phore
+MOT	Olympus Labs	olympus-labs
+PRO	Propy	propy
+XEL	Elastic	elastic
+NEU	Neumark	neumark
+DRT	DomRaider	domraider
+POSW	PoSW Coin	posw-coin
+GRC	GridCoin	gridcoin
+BITB	Bean Cash	bean-cash
+BLK	BlackCoin	blackcoin
+QUN	QunQun	qunqun
+BOT	Bodhi	bodhi
+DNA	EncrypGen	encrypgen
+EXP	Expanse	expanse
+NVST	NVO	nvo
+MYB	MyBit Token	mybit-token
+CAN	CanYaCoin	canyacoin
+GTC	Game.com	game
+SOAR	Soarcoin	soarcoin
+BBR	Boolberry	boolberry
+HGT	HelloGold	hellogold
+BCPT	BlockMason Cr...	blockmason
+BCC	BitConnect	bitconnect
+ARN	Aeron	aeron
+RADS	Radium	radium
+NSR	NuShares	nushares
+AIR	AirToken	airtoken
+OTN	Open Trading ...	open-trading-network
 SWT	Swarm City	swarm-city
+COV	Covesting	covesting
+PKT	Playkey	playkey
+SNOV	Snovio	snovio
+ZOI	Zoin	zoin
+UNIT	Universal Cur...	universal-currency
+NYC	NewYorkCoin	newyorkcoin
+NMR	Numeraire	numeraire
+MSP	Mothership	mothership
+STX	Stox	stox
+SLR	SolarCoin	solarcoin
+HKN	Hacken	hacken
+OK	OKCash	okcash
+VOISE	Voise	voisecom
+OMNI	Omni	omni
+GET	GET Protocol	guts-tickets
+MUE	MonetaryUnit	monetaryunit
+MEE	CoinMeet	coinmeet
+UQC	Uquid Coin	uquid-coin
+RBY	Rubycoin	rubycoin
+TGT	Target Coin	target-coin
+XMY	Myriad	myriad
+EBTC	eBitcoin	ebtcnew
+CSNO	BitDice	bitdice
+WCT	Waves Communi...	waves-community-token
+OCT	OracleChain	oraclechain
+ENRG	Energycoin	energycoin
+OAX	OAX	oax
+PUT	Profile Utili...	profile-utility-token
 BNTY	Bounty0x	bounty0x
 BMC	Blackmoon	blackmoon
-PHR	Phore	phore
-CSNO	BitDice	bitdice
-PKT	Playkey	playkey
-NVST	NVO	nvo
-PRG	Paragon	paragon
-EBTC	eBitcoin	ebtcnew
-UNO	Unobtanium	unobtanium
-GAT	Gatcoin	gatcoin
-MYB	MyBit Token	mybit-token
-XMY	Myriad	myriad
-HUSH	Hush	hush
-NXC	Nexium	nexium
-RBY	Rubycoin	rubycoin
-PLU	Pluton	pluton
-ZOI	Zoin	zoin
+GOLOS	Golos	golos
 KICK	KickCoin	kickico
-OCT	OracleChain	oraclechain
-PRA	ProChain	prochain
-LUX	LUXCoin	luxcoin
-BSD	BitSend	bitsend
-GAM	Gambit	gambit
-BITB	Bean Cash	bean-cash
-ENRG	Energycoin	energycoin
-BLUE	BLUE	ethereum-blue
-SOAR	Soarcoin	soarcoin
-PTOY	Patientory	patientory
-BITUSD	bitUSD	bitusd
-XRL	Rialto	rialto
-OXY	Oxycoin	oxycoin
-WILD	Wild Crypto	wild-crypto
-NYC	NewYorkCoin	newyorkcoin
-PND	Pandacoin	pandacoin-pnd
-DBIX	DubaiCoin	dubaicoin-dbix
-WCT	Waves Communi...	waves-community-token
-CLAM	Clams	clams
-GET	GET Protocol	guts-tickets
-ATB	ATBCoin	atbcoin
-HDG	Hedge	hedge
-DTB	Databits	databits
 DICE	Etheroll	etheroll
-COLX	ColossusCoinXT	colossuscoinxt
-ALIS	ALIS	alis
-XPM	Primecoin	primecoin
-ARY	Block Array	block-array
-BPT	Blockport	blockport
-LMC	LoMoCoin	lomocoin
-FLO	FlorinCoin	florincoin
-RNT	OneRoot Network	oneroot-network
-DOVU	Dovu	dovu
-IFT	InvestFeed	investfeed
-FLDC	FoldingCoin	foldingcoin
-AVT	Aventus	aventus
-PAYX	Paypex	paypex
-PLBT	Polybius	polybius
-REC	Regalcoin	regalcoin
-DIVX	Divi	divi
-UQC	Uquid Coin	uquid-coin
-ELIX	Elixir	elixir
-DBET	DecentBet	decent-bet
-HEAT	HEAT	heat-ledger
-UNIT	Universal Cur...	universal-currency
-INCNT	Incent	incent
-TIME	Chronobank	chronobank
-AIX	Aigang	aigang
-RC	RussiaCoin	russiacoin
-QAU	Quantum	quantum
-KLC	KiloCoin	kilocoin
-SPF	SportyFi	sportyfi
-SYNX	Syndicate	syndicate
-ESP	Espers	espers
-LEV	Leverj	leverj
-COVAL	Circuits of V...	circuits-of-value
-XAUR	Xaurum	xaurum
-BIS	Bismuth	bismuth
-EVE	Devery	devery
-HKN	Hacken	hacken
-GCR	Global Curren...	global-currency-reserve
-MUSIC	Musicoin	musicoin
+LUX	LUXCoin	luxcoin
+PST	Primas	primas
+AURA	Aurora DAO	aurora-dao
+BSD	BitSend	bitsend
+OXY	Oxycoin	oxycoin
+LIFE	LIFE	life
 GBX	GoByte	gobyte
-LOC	LockChain	lockchain
-SEQ	Sequence	sequence
-LINDA	Linda	linda
-ODN	Obsidian	obsidian
-NTRN	Neutron	neutron
-ICOS	ICOS	icos
-PIRL	Pirl	pirl
-OBITS	OBITS	obits
-CRC	CrowdCoin	crowdcoin
-ABY	ArtByte	artbyte
-PINK	PinkCoin	pinkcoin
-BCY	Bitcrystals	bitcrystals
-MINT	Mintcoin	mintcoin
-NIO	Autonio	autonio
-HAC	Hackspace Cap...	hackspace-capital
-CVCOIN	CVCoin	cvcoin
+BIS	Bismuth	bismuth
+PRG	Paragon	paragon
+LMC	LoMoCoin	lomocoin
+NXC	Nexium	nexium
 POLL	ClearPoll	clearpoll
-XUC	Exchange Union	exchange-union
-CAG	Change	change
-XLR	Solaris	solaris
-FLIXX	Flixxo	flixxo
-SPHR	Sphere	sphere
-CURE	Curecoin	curecoin
-RMC	Russian Miner...	russian-mining-coin
-CRED	Verify	verify
-RIC	Riecoin	riecoin
-IOP	Internet of P...	internet-of-people
-SXUT	Spectre.ai Ut...	spectre-utility
-B2B	B2B	b2bx
-REX	REX	real-estate-tokens
-BQ	bitqy	bitqy
-XMCC	Monoeci	monacocoin
-PFR	Payfair	payfair
-CAT	BlockCAT	blockcat
-PIX	Lampix	lampix
-AUR	Auroracoin	auroracoin
-ASTRO	Astro	astro
-LCT	LendConnect	lendconnect
-MYST	Mysterium	mysterium
-XTO	Tao	tao
-PBL	Publica	publica
-XST	Stealthcoin	stealthcoin
-EDR	E-Dinar Coin	e-dinar-coin
-HBT	Hubii Network	hubii-network
-ADL	Adelphoi	adelphoi
-EAC	EarthCoin	earthcoin
-EVC	EventChain	eventchain
-BDL	Bitdeal	bitdeal
-BTM	Bitmark	bitmark
-CPAY	Cryptopay	cryptopay
-DOPE	DopeCoin	dopecoin
-MEME	Memetic / Pep...	memetic
-PZM	PRIZM	prizm
-XVC	Vcash	vcash
-USNBT	NuBits	nubits
-SUMO	Sumokoin	sumokoin
+CLAM	Clams	clams
+PLBT	Polybius	polybius
+LOC	LockChain	lockchain
+VIU	Viuly	viuly
+NEOS	NeosCoin	neoscoin
+XPM	Primecoin	primecoin
+ATB	ATBCoin	atbcoin
+PRA	ProChain	prochain
+BLUE	BLUE	ethereum-blue
+GAM	Gambit	gambit
+BITUSD	bitUSD	bitusd
+XAUR	Xaurum	xaurum
+ICOS	ICOS	icos
 ECOB	Ecobit	ecobit
-AC	AsiaCoin	asiacoin
-ADST	AdShares	adshares
-SPRTS	Sprouts	sprouts
-TX	TransferCoin	transfercoin
-TCC	The ChampCoin	the-champcoin
-HORSE	Ethorse	ethorse
-GMT	Mercury Protocol	mercury-protocol
-BET	DAO.Casino	dao-casino
-VRM	VeriumReserve	veriumreserve
-HYP	HyperStake	hyperstake
-ERO	Eroscoin	eroscoin
-TIE	TIES Network	ties-network
-BRK	Breakout	breakout
-ONG	onG.social	ongsocial
-BWK	Bulwark	bulwark
-PTC	Pesetacoin	pesetacoin
-ALQO	ALQO	alqo
-DRP	DCORP	dcorp
+XNN	Xenon	xenon
+QAU	Quantum	quantum
+BQ	bitqy	bitqy
+COVAL	Circuits of V...	circuits-of-value
+PND	Pandacoin	pandacoin-pnd
+RVT	Rivetz	rivetz
+INCNT	Incent	incent
+BPT	Blockport	blockport
+TIME	Chronobank	chronobank
+DBET	DecentBet	decent-bet
+FLDC	FoldingCoin	foldingcoin
+MINT	Mintcoin	mintcoin
+AIT	AICHAIN	aichain
+RNT	OneRoot Network	oneroot-network
+ALIS	ALIS	alis
+AUR	Auroracoin	auroracoin
+FLO	FlorinCoin	florincoin
+DTB	Databits	databits
+AVT	Aventus	aventus
+PTOY	Patientory	patientory
+GAT	Gatcoin	gatcoin
+EDR	E-Dinar Coin	e-dinar-coin
+DBIX	DubaiCoin	dubaicoin-dbix
 DAI	Dai	dai
-CRB	Creditbit	creditbit
+XUC	Exchange Union	exchange-union
+PIRL	Pirl	pirl
+IFT	InvestFeed	investfeed
+DIVX	Divi	divi
+HDG	Hedge	hedge
+RMC	Russian Miner...	russian-mining-coin
+PLU	Pluton	pluton
+MYST	Mysterium	mysterium
+ODN	Obsidian	obsidian
+USNBT	NuBits	nubits
+CAT	BlockCAT	blockcat
+PZM	PRIZM	prizm
+MUSIC	Musicoin	musicoin
+ELIX	Elixir	elixir
+SYNX	Syndicate	syndicate
+NTRN	Neutron	neutron
+DYN	Dynamic	dynamic
+ESP	Espers	espers
+LINDA	Linda	linda
+HAC	Hackspace Cap...	hackspace-capital
+OBITS	OBITS	obits
+SEQ	Sequence	sequence
+GCR	Global Curren...	global-currency-reserve
+XRL	Rialto	rialto
+XLR	Solaris	solaris
+POLIS	Polis	polis
+BCY	Bitcrystals	bitcrystals
+HAT	Hawala.Today	hawala-today
+SPF	SportyCo	sportyco
+TIPS	FedoraCoin	fedoracoin
+XST	Stealthcoin	stealthcoin
+ABY	ArtByte	artbyte
+FLIXX	Flixxo	flixxo
+CURE	Curecoin	curecoin
+CVCOIN	CVCoin	cvcoin
+DRP	DCORP	dcorp
+CAG	Change	change
+ARY	Block Array	block-array
+LEV	Leverj	leverj
+RC	RussiaCoin	russiacoin
+IOP	Internet of P...	internet-of-people
+DOPE	DopeCoin	dopecoin
+SPHR	Sphere	sphere
+PARETO	Pareto Network	pareto-network
+AIX	Aigang	aigang
+PBL	Publica	publica
+BWK	Bulwark	bulwark
+PINK	PinkCoin	pinkcoin
+BTCZ	BitcoinZ	bitcoinz
+EVR	Everus	everus
+DOVU	Dovu	dovu
+PFR	Payfair	payfair
+XMCC	Monoeci	monacocoin
+HORSE	Ethorse	ethorse
+XTO	Tao	tao
+NIO	Autonio	autonio
+SPRTS	Sprouts	sprouts
+EAC	EarthCoin	earthcoin
+ASTRO	Astro	astro
+ING	Iungo	iungo
+SXUT	Spectre.ai Ut...	spectre-utility
+ALQO	ALQO	alqo
+PIX	Lampix	lampix
+TCC	The ChampCoin	the-champcoin
+XVC	Vcash	vcash
+1337	Elite	1337coin
+PLC	PlusCoin	pluscoin
+CRED	Verify	verify
+TOA	ToaCoin	toacoin
+SUMO	Sumokoin	sumokoin
+UNY	Unity Ingot	unity-ingot
 NVC	Novacoin	novacoin
-BTDX	Bitcloud	bitcloud
+UFO	UFO Coin	ufo-coin
+HEAT	HEAT	heat-ledger
+B2B	B2B	b2bx
+HUSH	Hush	hush
+AC	AsiaCoin	asiacoin
+MEME	Memetic / Pep...	memetic
+TIE	TIES Network	ties-network
+ATMS	Atmos	atmos
+ONG	onG.social	ongsocial
+HYP	HyperStake	hyperstake
+VRM	VeriumReserve	veriumreserve
 WISH	MyWish	mywish
-BELA	Bela	belacoin
+ERO	Eroscoin	eroscoin
+SNRG	Synergy	synergy
+BTM	Bitmark	bitmark
 PLAY	HEROcoin	herocoin
 QWARK	Qwark	qwark
-BUN	BunnyCoin	bunnycoin
-DGPT	DigiPulse	digipulse
-TFL	TrueFlip	trueflip
-MAGE	MagicCoin	magiccoin
-POLIS	Polis	polis
-BLITZ	Blitzcash	blitzcash
-GLD	GoldCoin	goldcoin
-TIPS	FedoraCoin	fedoracoin
-SNRG	Synergy	synergy
-TOA	ToaCoin	toacoin
-AMM	MicroMoney	micromoney
-ATMS	Atmos	atmos
-PROC	ProCurrency	procurrency
-TZC	TrezarCoin	trezarcoin
-UFO	UFO Coin	ufo-coin
-SEND	Social Send	social-send
-FYP	FlypMe	flypme
-XBC	Bitcoin Plus	bitcoin-plus
-INN	Innova	innova
-KORE	Kore	korecoin
-ATL	ATLANT	atlant
+ADST	AdShares	adshares
 DOT	Dotcoin	dotcoin
-SPR	SpreadCoin	spreadcoin
-GCN	GCN Coin	gcn-coin
-SSS	Sharechain	sharechain
-BPL	Blockpool	blockpool
-ADC	AudioCoin	audiocoin
-TES	TeslaCoin	teslacoin
-VSX	Vsync	vsync-vsx
-MTNC	Masternodecoin	masternodecoin
-SCL	Social	social
-CANN	CannabisCoin	cannabiscoin
-REAL	REAL	real
-QVT	Qvolta	qvolta
-BBT	BitBoost	bitboost
-BTCZ	BitcoinZ	bitcoinz
-OPT	Opus	opus
-1337	Elite	1337coin
-MAG	Magnet	magnet
-EXCL	ExclusiveCoin	exclusivecoin
 ERC	EuropeCoin	europecoin
-INXT	Internxt	internxt
-ITNS	IntenseCoin	intensecoin
-BRX	Breakout Stake	breakout-stake
-NKA	IncaKoin	incakoin
-2GIVE	2GIVE	2give
-BON	Bonpay	bonpay
-FRST	FirstCoin	firstcoin
-ZRC	ZrCoin	zrcoin
-ZEIT	Zeitcoin	zeitcoin
-XGOX	XGOX	xgox
-ETT	EncryptoTel [...	encryptotel
-FRD	Farad	farad
-HWC	HollyWoodCoin	hollywoodcoin
-BUZZ	BuzzCoin	buzzcoin
-CHIPS	CHIPS	chips
-TKS	Tokes	tokes
-RUP	Rupee	rupee
-EVR	Everus	everus
-SMART	SmartBillions	smartbillions
-IND	Indorse Token	indorse-token
-PHO	Photon	photon
-APX	APX	apx
-PUT	PutinCoin	putincoin
-ZER	Zero	zero
-PDC	Project Decorum	project-decorum
-UFR	Upfiring	upfiring
+BBT	BitBoost	bitboost
+INN	Innova	innova
 VTR	vTorrent	vtorrent
-ALT	Altcoin	altcoin-alt
-CHC	ChainCoin	chaincoin
-PRIX	Privatix	privatix
+SSS	Sharechain	sharechain
+BDL	Bitdeal	bitdeal
+CPAY	Cryptopay	cryptopay
+OPT	Opus	opus
+TZC	TrezarCoin	trezarcoin
+RIC	Riecoin	riecoin
+BRX	Breakout Stake	breakout-stake
+DGPT	DigiPulse	digipulse
+XBC	Bitcoin Plus	bitcoin-plus
+PTC	Pesetacoin	pesetacoin
+STA	Starta	starta
 ZNY	Bitzeny	bitzeny
+CANN	CannabisCoin	cannabiscoin
+BTDX	Bitcloud	bitcloud
+SCL	Social	social
+GLD	GoldCoin	goldcoin
+CL	Coinlancer	coinlancer
+TX	TransferCoin	transfercoin
+FLIK	FLiK	flik
+KORE	Kore	korecoin
+CHIPS	CHIPS	chips
+ATL	ATLANT	atlant
+ADC	AudioCoin	audiocoin
+HWC	HollyWoodCoin	hollywoodcoin
+BLITZ	Blitzcash	blitzcash
+CRB	Creditbit	creditbit
+BPL	Blockpool	blockpool
+CRC	CrowdCoin	crowdcoin
+BRK	Breakout	breakout
+EVE	Devery	devery
+INXT	Internxt	internxt
+BET	DAO.Casino	dao-casino
+BELA	Bela	belacoin
+TFL	TrueFlip	trueflip
+BUZZ	BuzzCoin	buzzcoin
 HOLD	Interstellar ...	interstellar-holdings
+SEND	Social Send	social-send
+2GIVE	2GIVE	2give
+GCN	GCN Coin	gcn-coin
+XGOX	XGOX	xgox
+ZRC	ZrCoin	zrcoin
+EXCL	ExclusiveCoin	exclusivecoin
+KRB	Karbo	karbowanec
+SPR	SpreadCoin	spreadcoin
+MAG	Magnet	magnet
+BUN	BunnyCoin	bunnycoin
+AMM	MicroMoney	micromoney
+MONK	Monkey Project	monkey-project
+MCAP	MCAP	mcap
+NOTE	DNotes	dnotes
+CHC	ChainCoin	chaincoin
+WILD	Wild Crypto	wild-crypto
+RUP	Rupee	rupee
+TKS	Tokes	tokes
+VSX	Vsync	vsync-vsx
+MAGE	MagicCoin	magiccoin
+APX	APX	apx
+DNR	Denarius	denarius-dnr
+CREA	Creativecoin	creativecoin
+MTNC	Masternodecoin	masternodecoin
+PUT	PutinCoin	putincoin
+TES	TeslaCoin	teslacoin
+QVT	Qvolta	qvolta
+PRIX	Privatix	privatix
+FRD	Farad	farad
+TRCT	Tracto	tracto
+STAK	STRAKS	straks
 PYLNT	Pylon Network	pylon-network
 TRUST	TrustPlus	trustplus
-CREA	Creativecoin	creativecoin
-TRC	Terracoin	terracoin
-KRB	Karbo	karbowanec
-DYN	Dynamic	dynamic
-NOTE	DNotes	dnotes
-XMG	Magi	magi
-VIVO	VIVO	vivo
-MONK	Monkey Project	monkey-project
-ZEPH	Zephyr	zephyr
-FLIK	FLiK	flik
-STA	Starta	starta
-CDX	Commodity Ad ...	commodity-ad-network
-GOOD	Goodomy	goodomy
+BON	Bonpay	bonpay
+RAIN	Condensate	condensate
+UFR	Upfiring	upfiring
+REC	Regalcoin	regalcoin
+PDC	Project Decorum	project-decorum
 START	Startcoin	startcoin
-MXT	MarteXcoin	martexcoin
-WAND	WandX	wandx
-MBRS	Embers	embers
-ETBS	Ethbits	ethbits
-EGC	EverGreenCoin	evergreencoin
-GRE	Greencoin	greencoin
-EFYT	Ergo	ergo
+IND	Indorse Token	indorse-token
+TRC	Terracoin	terracoin
+ALT	Altcoin	altcoin-alt
 SXC	Sexcoin	sexcoin
-DNR	Denarius	denarius-dnr
-GJC	Global Jobcoin	global-jobcoin
-MCAP	MCAP	mcap
-YOC	Yocoin	yocoin
-BLU	BlueCoin	bluecoin
+PROC	ProCurrency	procurrency
+VIVO	VIVO	vivo
+WAND	WandX	wandx
 HUC	HunterCoin	huntercoin
-PURE	Pure	pure
-TRCT	Tracto	tracto
-ELLA	Ellaism	ellaism
-NOBL	NobleCoin	noblecoin
-PLC	PlusCoin	pluscoin
-CARBON	Carboncoin	carboncoin
 EFL	e-Gulden	e-gulden
-ERC20	ERC20	erc20
-OPC	OP Coin	op-coin
-AHT	Bowhead	bowhead
+DFT	DraftCoin	draftcoin
+NKA	IncaKoin	incakoin
+GOOD	Goodomy	goodomy
+EGC	EverGreenCoin	evergreencoin
+ZEPH	Zephyr	zephyr
+MXT	MarteXcoin	martexcoin
+VSL	vSlice	vslice
+ITNS	IntenseCoin	intensecoin
 PKB	ParkByte	parkbyte
-STAK	STRAKS	straks
-EPY	Emphy	emphy
-QRK	Quark	quark
-ADZ	Adzcoin	adzcoin
-IXC	Ixcoin	ixcoin
+LDOGE	LiteDoge	litedoge
+ZER	Zero	zero
+SMLY	SmileyCoin	smileycoin
+PURE	Pure	pure
+GJC	Global Jobcoin	global-jobcoin
+XMG	Magi	magi
+CBX	Crypto Bullion	cryptogenic-bullion
 ANC	Anoncoin	anoncoin
+CMPCO	CampusCoin	campuscoin
+CARBON	Carboncoin	carboncoin
 ELTCOIN	ELTCOIN	eltcoin
 DAY	Chronologic	chronologic
-EBST	eBoost	eboostcoin
-FOR	FORCE	force
-PING	CryptoPing	cryptoping
-RAIN	Condensate	condensate
-CBX	Crypto Bullion	cryptogenic-bullion
-42	42-coin	42-coin
-LDOGE	LiteDoge	litedoge
-DP	DigitalPrice	digitalprice
-EQT	EquiTrader	equitrader
-XFT	Footy Cash	footy-cash
-ACC	Accelerator N...	accelerator-network
-CFT	CryptoForecast	cryptoforecast
+BLU	BlueCoin	bluecoin
 FYN	FundYourselfNow	fundyourselfnow
-BASH	LuckChain	luckchain
-ICOO	ICO OpenLedger	ico-openledger
-RIYA	Etheriya	etheriya
-V	Version	version
-DFT	DraftCoin	draftcoin
-NDC	NEVERDIE	neverdie
-CNT	Centurion	centurion
-PBT	Primalbase Token	primalbase
-CRM	Cream	cream
-STU	bitJob	student-coin
-RKC	Royal Kingdom...	royal-kingdom-coin
-SMLY	SmileyCoin	smileycoin
+EBST	eBoost	eboostcoin
+FYP	FlypMe	flypme
+MBRS	Embers	embers
+ADL	Adelphoi	adelphoi
+ZEIT	Zeitcoin	zeitcoin
+PING	CryptoPing	cryptoping
+ELLA	Ellaism	ellaism
+GRE	Greencoin	greencoin
+LCT	LendConnect	lendconnect
+YOC	Yocoin	yocoin
+HBC	HomeBlockCoin	homeblockcoin
+EFYT	Ergo	ergo
 OCL	Oceanlab	oceanlab
-MOIN	Moin	moin
-XLC	LeviarCoin	leviarcoin
+PBT	Primalbase Token	primalbase
 ITT	Intelligent T...	intelligent-trading-tech
-RNS	Renos	renos
-IFLT	InflationCoin	inflationcoin
-KBR	Kubera Coin	kubera-coin
-DAR	Darcrus	darcrus
-FUCK	FuckToken	fucktoken
-QBIC	Qbic	qbic
-ELE	Elementrem	elementrem
-NIMFA	Nimfamoney	nimfamoney
-GIM	Gimli	gimli
-WDC	WorldCoin	worldcoin
-DCY	Dinastycoin	dinastycoin
+STU	bitJob	student-coin
+EQT	EquiTrader	equitrader
+V	Version	version
+GCC	TheGCCcoin	thegcccoin
+ADZ	Adzcoin	adzcoin
+42	42-coin	42-coin
+QRK	Quark	quark
+FOR	FORCE	force
+DP	DigitalPrice	digitalprice
+OPC	OP Coin	op-coin
 UIS	Unitus	unitus
-CMPCO	CampusCoin	campuscoin
-FLT	FlutterCoin	fluttercoin
-UNB	UnbreakableCoin	unbreakablecoin
-HPC	Happycoin	happycoin
-CDN	Canada eCoin	canada-ecoin
-FJC	FujiCoin	fujicoin
-LINX	Linx	linx
-SIFT	Smart Investm...	smart-investment-fund-token
-LGD	Legends Room	legends-room
+FRST	FirstCoin	firstcoin
 ARC	ArcticCoin	arcticcoin
-CTX	CarTaxi Token	cartaxi-token
-ABJ	Abjcoin	abjcoin
-POP	PopularCoin	popularcoin
-SCORE	Scorecoin	scorecoin
-XCN	Cryptonite	cryptonite
-MZC	MazaCoin	mazacoin
-HTC	HitCoin	hitcoin
-BYC	Bytecent	bytecent
-MEC	Megacoin	megacoin
-ECASH	Ethereum Cash	ethereumcash
-BRO	Bitradio	bitradio
-INFX	Influxcoin	influxcoin
-BTA	Bata	bata
-XCPO	Copico	copico
-KLN	Kolion	kolion
-FST	Fastcoin	fastcoin
-DSR	Desire	desire
-KEK	KekCoin	kekcoin
-STN	Steneum Coin	steneum-coin
-LNK	Link Platform	link-platform
-UNIFY	Unify	unify
-SKIN	SkinCoin	skincoin
-CJ	Cryptojacks	cryptojacks
-AU	AurumCoin	aurumcoin
-SMC	SmartCoin	smartcoin
-GRWI	Growers Inter...	growers-international
-INSN	InsaneCoin	insanecoin-insn
-ETG	Ethereum Gold	ethereum-gold
-JET	Jetcoin	jetcoin
-ROC	Rasputin Onli...	rasputin-online-coin
-BTCS	Bitcoin Scrypt	bitcoin-scrypt
-DRXNE	DROXNE	droxne
-NET	NetCoin	netcoin
-ZENI	Zennies	zennies
-BLAS	BlakeStar	blakestar
-EBET	EthBet	ethbet
-ATS	Authorship	authorship
-CCRB	CryptoCarbon	cryptocarbon
-EBCH	eBitcoinCash	ebitcoin-cash
-MNE	Minereum	minereum
-HODL	HOdlcoin	hodlcoin
-ACE	Ace	ace
-TTC	TittieCoin	tittiecoin
-ZET	Zetacoin	zetacoin
-BBP	BiblePay	biblepay
-MRT	Miners&#39; Rewar...	miners-reward-token
-HAL	Halcyon	halcyon
-KOBO	Kobocoin	kobocoin
-UTC	UltraCoin	ultracoin
-I0C	I0Coin	i0coin
-DGC	Digitalcoin	digitalcoin
-PIGGY	Piggycoin	piggycoin
-LANA	LanaCoin	lanacoin
-UNI	Universe	universe
-STRC	StarCredits	starcredits
-NEWB	Newbium	newbium
-SCT	Soma	soma
-DEM	Deutsche eMark	deutsche-emark
-GUN	Guncoin	guncoin
-BTB	BitBar	bitbar
-SKC	Skeincoin	skeincoin
-CPC	Capricoin	capricoin
-FC2	FuelCoin	fuelcoin
-SUR	Suretly	suretly
-FUNC	FUNCoin	funcoin
-HBN	HoboNickels	hobonickels
-LOG	Woodcoin	woodcoin
-FCN	Fantomcoin	fantomcoin
-VISIO	Visio	visio
-XPD	PetroDollar	petrodollar
-CFD	Confido	confido
-OTX	Octanox	octanox
+CRM	Cream	cream
+CDN	Canada eCoin	canada-ecoin
+IFLT	InflationCoin	inflationcoin
 MAC	Machinecoin	machinecoin
-WGO	WavesGo	wavesgo
-MOTO	Motocoin	motocoin
-NYAN	Nyancoin	nyancoin
-XCXT	CoinonatX	coinonatx
-ENT	Eternity	eternity
-BITS	Bitstar	bitstar
-BTCRED	Bitcoin Red	bitcoin-red
-ATOM	Atomic Coin	atomic-coin
-808	808Coin	808coin
-WTT	Giga Watt Token	giga-watt-token
-KURT	Kurrent	kurrent
-GLT	GlobalToken	globaltoken
-GAIA	GAIA	gaia
-Q2C	QubitCoin	qubitcoin
-VIDZ	PureVidz	purevidz
-RLT	RouletteToken	roulettetoken
-XJO	Joulecoin	joulecoin
-EL	Elcoin	elcoin-el
-DFS	DFSCoin	dfscoin
-TRI	Triangles	triangles
-MDC	Madcoin	madcoin
-GB	GoldBlocks	goldblocks
-NETKO	Netko	netko
-BTWTY	Bit20	bit20
-IETH	iEthereum	iethereum
-LEA	LeaCoin	leacoin
-BLC	Blakecoin	blakecoin
-SGR	Sugar Exchange	sugar-exchange
-BIGUP	BigUp	bigup
-TRUMP	TrumpCoin	trumpcoin
-SLG	Sterlingcoin	sterlingcoin
-DAXX	DaxxCoin	daxxcoin
-CCT	Crystal Clear 	crystal-clear
-TKR	CryptoInsight	trackr
-WHL	WhaleCoin	whalecoin
-SAGA	SagaCoin	sagacoin
-RBT	Rimbit	rimbit
-VLT	Veltor	veltor
-TIT	Titcoin	titcoin
-XPTX	PlatinumBAR	platinumbar
-ARI	Aricoin	aricoin
-BUCKS	SwagBucks	swagbucks
-XBL	Billionaire T...	billionaire-token
-PAK	Pakcoin	pakcoin
-ACC	AdCoin	adcoin
-XRE	RevolverCoin	revolvercoin
-DSH	Dashcoin	dashcoin
-HERO	Sovereign Hero	sovereign-hero
-OPAL	Opal	opal
-GRIM	Grimcoin	grimcoin
-PXC	Phoenixcoin	phoenixcoin
-SUPER	SuperCoin	supercoin
-HAT	Hawala.Today	hawala-today
-PR	Prototanium	prototanium
-CCO	Ccore	ccore
-MOJO	MojoCoin	mojocoin
-NTO	Fujinto	fujinto
-XCT	C-Bit	c-bit
-FLY	Flycoin	flycoin
-8BIT	8Bit	8bit
-CUBE	DigiCube	digicube
-AMS	AmsterdamCoin	amsterdamcoin
-XHI	HiCoin	hicoin
-NUKO	Nekonium	nekonium
-CNO	Coin(O)	coin
-DDF	DigitalDevelo...	digital-developers-fund
+XFT	Footy Cash	footy-cash
+NOBL	NobleCoin	noblecoin
+DCY	Dinastycoin	dinastycoin
+FST	Fastcoin	fastcoin
+KBR	Kubera Coin	kubera-coin
+CDX	Commodity Ad ...	commodity-ad-network
+JET	Jetcoin	jetcoin
+UNB	UnbreakableCoin	unbreakablecoin
+LINX	Linx	linx
+XCPO	Copico	copico
+KLC	KiloCoin	kilocoin
+AHT	Bowhead	bowhead
+ELE	Elementrem	elementrem
+WDC	WorldCoin	worldcoin
+UNIFY	Unify	unify
+HTC	HitCoin	hitcoin
+FLT	FlutterCoin	fluttercoin
+BYC	Bytecent	bytecent
 MCRN	MACRON	macron
-TRK	Truckcoin	truckcoin
-PCOIN	Pioneer Coin	pioneer-coin
-LTB	LiteBar	litebar
-SRC	SecureCoin	securecoin
-SDRN	Senderon	senderon
-RED	RedCoin	redcoin
-STV	Sativacoin	sativacoin
-ASAFE2	AllSafe	allsafe
-ZZC	ZoZoCoin	zozocoin
-ETHD	Ethereum Dark	ethereum-dark
-UET	Useless Ether...	useless-ethereum-token
-888	OctoCoin	octocoin
-POST	PostCoin	postcoin
-ARG	Argentum	argentum
-CHAN	ChanCoin	chancoin
-ICN	iCoin	icoin
-VC	VirtualCoin	virtualcoin
-CRX	Chronos	chronos
-ONX	Onix	onix
-MARS	Marscoin	marscoin
-EVIL	Evil Coin	evil-coin
-SWING	Swing	swing
-CASH	Cashcoin	cashcoin
-BOLI	Bolivarcoin	bolivarcoin
-GAP	Gapcoin	gapcoin
+BTA	Bata	bata
+FJC	FujiCoin	fujicoin
+PHO	Photon	photon
+CTX	CarTaxi Token	cartaxi-token
+MOIN	Moin	moin
+SKIN	SkinCoin	skincoin
+RNS	Renos	renos
+INSN	InsaneCoin	insanecoin-insn
+BTCS	Bitcoin Scrypt	bitcoin-scrypt
+POP	PopularCoin	popularcoin
+FUCK	FuckToken	fucktoken
+MRT	Miners&#39; Rewar...	miners-reward-token
+RIYA	Etheriya	etheriya
+MBI	Monster Byte	monster-byte
+MZC	MAZA	mazacoin
+INFX	Influxcoin	influxcoin
+SKC	Skeincoin	skeincoin
+CCRB	CryptoCarbon	cryptocarbon
+KEK	KekCoin	kekcoin
+BRO	Bitradio	bitradio
+LGD	Legends Room	legends-room
+GRWI	Growers Inter...	growers-international
+XLC	LeviarCoin	leviarcoin
+SUR	Suretly	suretly
+XCN	Cryptonite	cryptonite
+ABJ	Abjcoin	abjcoin
+RKC	Royal Kingdom...	royal-kingdom-coin
+EBCH	eBitcoinCash	ebitcoin-cash
+ECASH	Ethereum Cash	ethereumcash
+NET	NetCoin	netcoin
+SCORE	Scorecoin	scorecoin
+ZENI	Zennies	zennies
+ERC20	ERC20	erc20
+LANA	LanaCoin	lanacoin
+SCT	Soma	soma
+SMC	SmartCoin	smartcoin
+QBIC	Qbic	qbic
+ATS	Authorship	authorship
+EBET	EthBet	ethbet
+ETG	Ethereum Gold	ethereum-gold
+XCXT	CoinonatX	coinonatx
+ACE	Ace	ace
+ZET	Zetacoin	zetacoin
+MEC	Megacoin	megacoin
+I0C	I0Coin	i0coin
+KLN	Kolion	kolion
+HODL	HOdlcoin	hodlcoin
+GUN	Guncoin	guncoin
+HAL	Halcyon	halcyon
+CJ	Cryptojacks	cryptojacks
+TOKC	TOKYO	tokyo
+DSR	Desire	desire
+TKR	CryptoInsight	trackr
+TTC	TittieCoin	tittiecoin
+METAL	MetalCoin	metalcoin
+PIGGY	Piggycoin	piggycoin
+BXT	BitTokens	bittokens
+XBL	Billionaire T...	billionaire-token
+OTX	Octanox	octanox
+BLC	Blakecoin	blakecoin
+CPC	Capricoin	capricoin
+BLAS	BlakeStar	blakestar
+DGC	Digitalcoin	digitalcoin
+EL	Elcoin	elcoin-el
+BIGUP	BigUp	bigup
+XPD	PetroDollar	petrodollar
 AMMO	Ammo Reloaded	ammo-rewards
-XRA	Ratecoin	ratecoin
-GRT	Grantcoin	grantcoin
-BCF	Bitcoin Fast	bitcoinfast
-XIOS	Xios	xios
-MNM	Mineum	mineum
-ZCG	Zlancer	zcash-gold
-BERN	BERNcash	berncash
-HNC	Helleniccoin	helleniccoin
-BITBTC	bitBTC	bitbtc
-EMD	Emerald Crypto	emerald
-PXI	Prime-XI	prime-xi
-UNY	Unity Ingot	unity-ingot
-DIX	Dix Asset	dix-asset
-C2	Coin2.1	coin2-1
-POS	PoSToken	postoken
-NTWK	Network Token	network-token
-TRDT	Trident Group	trident
-TAG	TagCoin	tagcoin
-CHESS	ChessCoin	chesscoin
-SOON	SoonCoin	sooncoin
-CCN	CannaCoin	cannacoin
-BTG	Bitgem	bitgem
-YTN	YENTEN	yenten
-ALTCOM	SONO	altcommunity-coin
-DUO	ParallelCoin	parallelcoin
-EOT	EOT Token	eot-token
-LCP	Litecoin Plus	litecoin-plus
-DLC	Dollarcoin	dollarcoin
-LBTC	LiteBitcoin	litebitcoin
-PHS	Philosopher S...	philosopher-stones
-HXX	Hexx	hexx
-BSTY	GlobalBoost-Y	globalboost-y
-TEK	TEKcoin	tekcoin
-ERY	Eryllium	eryllium
-SPACE	SpaceCoin	spacecoin
-BITSILVER	bitSilver	bitsilver
-BUMBA	BumbaCoin	bumbacoin
-ARCO	AquariusCoin	aquariuscoin
-CAT	Catcoin	catcoin
-MNC	Mincoin	mincoin
-KAYI	Kayicoin	kayicoin
-COAL	BitCoal	bitcoal
-STARS	StarCash Network	starcash-network
-BRIA	BriaCoin	briacoin
-BITGOLD	bitGold	bitgold
-DALC	Dalecoin	dalecoin
-IMS	Independent M...	independent-money-system
-REE	ReeCoin	reecoin
-611	SixEleven	sixeleven
-AIB	Advanced Inte...	advanced-internet-blocks
-RPC	RonPaulCoin	ronpaulcoin
-KED	Darsek	darsek
-HONEY	Honey	honey
-BAS	BitAsean	bitasean
-QCN	QuazarCoin	quazarcoin
-BTPL	Bitcoin Planet	bitcoin-planet
+DFS	DFSCoin	dfscoin
+DRXNE	DROXNE	droxne
+ARI	Aricoin	aricoin
+808	808Coin	808coin
+XPTX	PlatinumBAR	platinumbar
+TRUMP	TrumpCoin	trumpcoin
+TIT	Titcoin	titcoin
+TRI	Triangles	triangles
+CFT	CryptoForecast	cryptoforecast
+BLZ	BlazeCoin	blazecoin
+VIDZ	PureVidz	purevidz
+ENT	Eternity	eternity
+Q2C	QubitCoin	qubitcoin
+TROLL	Trollcoin	trollcoin
+BTCRED	Bitcoin Red	bitcoin-red
+OPAL	Opal	opal
+FC2	FuelCoin	fuelcoin
+ITI	iTicoin	iticoin
+MRJA	GanjaCoin	ganjacoin
+IETH	iEthereum	iethereum
+BITS	Bitstar	bitstar
+DEM	Deutsche eMark	deutsche-emark
+STN	Steneum Coin	steneum-coin
+BTWTY	Bit20	bit20
+HERO	Sovereign Hero	sovereign-hero
+RBT	Rimbit	rimbit
+CFD	Confido	confido
+MNE	Minereum	minereum
+BBP	BiblePay	biblepay
+CTO	Crypto	crypto
+WGO	WavesGo	wavesgo
+RLT	RouletteToken	roulettetoken
+VISIO	Visio	visio
+XJO	Joulecoin	joulecoin
+FUNC	FUNCoin	funcoin
+UTC	UltraCoin	ultracoin
+MOJO	MojoCoin	mojocoin
+SAGA	SagaCoin	sagacoin
+GB	GoldBlocks	goldblocks
+FLY	Flycoin	flycoin
+MDC	Madcoin	madcoin
+HPC	Happycoin	happycoin
+WHL	WhaleCoin	whalecoin
+LTB	LiteBar	litebar
+PXC	Phoenixcoin	phoenixcoin
+USC	Ultimate Secu...	ultimate-secure-cash
+NEWB	Newbium	newbium
+GLT	GlobalToken	globaltoken
+BTSR	BTSR	btsr
+PAK	Pakcoin	pakcoin
+8BIT	8Bit	8bit
+ARG	Argentum	argentum
+DAXX	DaxxCoin	daxxcoin
+XPY	PayCoin	paycoin2
+GAP	Gapcoin	gapcoin
+CUBE	DigiCube	digicube
+SHDW	Shadow Token	shadow-token
+DSH	Dashcoin	dashcoin
+XHI	HiCoin	hicoin
+DDF	DigitalDevelo...	digital-developers-fund
+SRC	SecureCoin	securecoin
+CASH	Cashcoin	cashcoin
+CCT	Crystal Clear 	crystal-clear
+SDRN	Senderon	senderon
+ACC	AdCoin	adcoin
+CNO	Coin(O)	coin
+MOTO	Motocoin	motocoin
+GRLC	Garlicoin	garlicoin
+SGR	Sugar Exchange	sugar-exchange
+ETHD	Ethereum Dark	ethereum-dark
+KUSH	KushCoin	kushcoin
+ZZC	ZoZoCoin	zozocoin
+PASL	Pascal Lite	pascal-lite
+RED	RedCoin	redcoin
 VOT	VoteCoin	votecoin
-MAO	Mao Zedong	mao-zedong
-EUC	Eurocoin	eurocoin
-ICOB	ICOBID	icobid
-300	300 Token	300-token
-EVO	Evotion	evotion
-MST	MustangCoin	mustangcoin
-CACH	CacheCoin	cachecoin
-GPU	GPU Coin	gpu-coin
-BRAT	BROTHER	brat
-MAR	Marijuanacoin	marijuanacoin
-CNNC	Cannation	cannation
-XBTS	Beatcoin	beatcoin
-CON	PayCon	paycon
-CPN	CompuCoin	compucoin
-NEVA	NevaCoin	nevacoin
-FUZZ	FuzzBalls	fuzzballs
-NRO	Neuro	neuro
-CXT	Coinonat	coinonat
-EAGLE	EagleCoin	eaglecoin
-SOJ	Sojourn	sojourn
-XCRE	Creatio	creatio
-VPRC	VapersCoin	vaperscoin
-OFF	Cthulhu Offer...	cthulhu-offerings
-BLN	Bolenum	bolenum
-GTC	Global Tour Coin	global-tour-coin
-ECO	EcoCoin	ecocoin
-ACOIN	Acoin	acoin
-MAY	Theresa May Coin	theresa-may-coin
-RMC	Remicoin	remicoin
-XCO	X-Coin	x-coin
-SOIL	SOILcoin	soilcoin
-BIP	BipCoin	bipcoin
-KRONE	Kronecoin	kronecoin
-DRS	Digital Rupees	digital-rupees
-FLAX	Flaxscript	flaxscript
-GP	GoldPieces	goldpieces
-GPL	Gold Pressed ...	gold-pressed-latinum
-$$$	Money	money
-EGAS	ETHGAS	ethgas
-SONG	SongCoin	songcoin
-BNX	BnrtxCoin	bnrtxcoin
-TYCHO	Tychocoin	tychocoin
-IMX	Impact	impact
-ALL	Allion	allion
-BENJI	BenjiRolls	benjirolls
-DIBC	DIBCOIN	dibcoin
-VUC	Virta Unique ...	virta-unique-coin
+NTO	Fujinto	fujinto
+TEK	TEKcoin	tekcoin
+PXI	Prime-XI	prime-xi
+XRE	RevolverCoin	revolvercoin
+CRX	Chronos	chronos
+ASAFE2	AllSafe	allsafe
+PCOIN	Pioneer Coin	pioneer-coin
+XCT	C-Bit	c-bit
+BCF	Bitcoin Fast	bitcoinfast
+CHAN	ChanCoin	chancoin
+ARCO	AquariusCoin	aquariuscoin
 TAJ	TajCoin	tajcoin
-LUNA	Luna Coin	luna-coin
-SFC	Solarflarecoin	solarflarecoin
-JS	JavaScript Token	javascript-token
-QBC	Quebecoin	quebecoin
-SPT	Spots	spots
+BITBTC	bitBTC	bitbtc
+BRIT	BritCoin	britcoin
+DIX	Dix Asset	dix-asset
+BTG	Bitgem	bitgem
+PHS	Philosopher S...	philosopher-stones
+ZCG	Zlancer	zcash-gold
+POST	PostCoin	postcoin
+BOLI	Bolivarcoin	bolivarcoin
+ONX	Onix	onix
+EOT	EOT Token	eot-token
+DUO	ParallelCoin	parallelcoin
+CCN	CannaCoin	cannacoin
+REE	ReeCoin	reecoin
+888	OctoCoin	octocoin
+HXX	Hexx	hexx
+HNC	Helleniccoin	helleniccoin
+RUPX	Rupaya	rupaya
+LCP	Litecoin Plus	litecoin-plus
+UNITS	GameUnits	gameunits
+ATOM	Atomic Coin	atomic-coin
+CHESS	ChessCoin	chesscoin
+EUC	Eurocoin	eurocoin
+BITGOLD	bitGold	bitgold
+BSTY	GlobalBoost-Y	globalboost-y
+C2	Coin2.1	coin2-1
+611	SixEleven	sixeleven
+LEA	LeaCoin	leacoin
+FRC	Freicoin	freicoin
+LBTC	LiteBitcoin	litebitcoin
+SPACE	SpaceCoin	spacecoin
+HONEY	Honey	honey
+NEVA	NevaCoin	nevacoin
+DALC	Dalecoin	dalecoin
+MAO	Mao Zedong	mao-zedong
+YTN	YENTEN	yenten
+GPL	Gold Pressed ...	gold-pressed-latinum
+TAG	TagCoin	tagcoin
+COAL	BitCoal	bitcoal
+300	300 Token	300-token
+BRIA	BriaCoin	briacoin
+KAYI	Kayicoin	kayicoin
+DIBC	DIBCOIN	dibcoin
+QTL	Quatloo	quatloo
+XBTS	Beatcoin	beatcoin
+MST	MustangCoin	mustangcoin
+GTC	Global Tour Coin	global-tour-coin
 HMP	HempCoin	hempcoin-hmp
-BITEUR	bitEUR	biteur
-BOAT	BOAT	doubloon
-MSCN	Master Swiscoin	master-swiscoin
-ROOFS	Roofs	roofs
-LTCU	LiteCoin Ultra	litecoin-ultra
+RMC	Remicoin	remicoin
+CACH	CacheCoin	cachecoin
+BRAT	BROTHER	brat
+ALTCOM	SONO	altcommunity-coin
+ERY	Eryllium	eryllium
+MAR	Marijuanacoin	marijuanacoin
+EAGLE	EagleCoin	eaglecoin
+VLT	Veltor	veltor
+IMS	Independent M...	independent-money-system
+IMX	Impact	impact
+ACOIN	Acoin	acoin
+ECO	EcoCoin	ecocoin
 CMT	Comet	comet
-GBC	GBCGoldCoin	gbcgoldcoin
-WOMEN	WomenCoin	women
-ICON	Iconic	iconic
-KNC	KingN Coin	kingn-coin
+LUNA	Luna Coin	luna-coin
+NRO	Neuro	neuro
+XCRE	Creatio	creatio
+CON	PayCon	paycon
+OFF	Cthulhu Offer...	cthulhu-offerings
+GP	GoldPieces	goldpieces
+AIB	Advanced Inte...	advanced-internet-blocks
+STARS	StarCash Network	starcash-network
+XCO	X-Coin	x-coin
+BIP	BipCoin	bipcoin
+ALL	Allion	allion
+BAS	BitAsean	bitasean
+FLAX	Flaxscript	flaxscript
+QBC	Quebecoin	quebecoin
+BITEUR	bitEUR	biteur
+$$$	Money	money
+SFC	Solarflarecoin	solarflarecoin
+BNX	BnrtxCoin	bnrtxcoin
+UET	Useless Ether...	useless-ethereum-token
+COXST	CoExistCoin	coexistcoin
+CXT	Coinonat	coinonat
+KRONE	Kronecoin	kronecoin
+WARP	WARP	warp
+SONG	SongCoin	songcoin
+ADCN	Asiadigicoin	asiadigicoin
+BENJI	BenjiRolls	benjirolls
+SCS	Speedcash	speedcash
+EXN	ExchangeN	exchangen
+MSCN	Master Swiscoin	master-swiscoin
+MILO	MiloCoin	milocoin
+LTCU	LiteCoin Ultra	litecoin-ultra
 GEERT	GeertCoin	geertcoin
-ZYD	Zayedcoin	zayedcoin
+WOMEN	WomenCoin	women
+VPRC	VapersCoin	vaperscoin
+LTCR	Litecred	litecred
 SLEVIN	Slevin	slevin
 ACP	AnarchistsPrime	anarchistsprime
-XCS	CybCSec	cybcsec
-SH	Shilling	shilling
-PRC	PRCoin	prcoin
 G3N	G3N	genstake
 VRS	Veros	veros
-EXN	ExchangeN	exchangen
-AGLC	AgrolifeCoin	agrolifecoin
-DES	Destiny	destiny
-DOLLAR	Dollar Online	dollar-online
-ARGUS	Argus	argus
-VOLT	Bitvolt	bitvolt
-SOCC	SocialCoin	socialcoin-socc
-CRTM	Corethum	corethum
-LIR	LetItRide	letitride
-AERM	Aerium	aerium
-CTIC3	Coimatic 3.0	coimatic-3
-RSGP	RSGPcoin	rsgpcoin
-CTIC2	Coimatic 2.0	coimatic-2
-NANOX	Project-X	project-x
-VLTC	Vault Coin	vault-coin
-XRC	Rawcoin	rawcoin2
-LVPS	LevoPlus	levoplus
-CREVA	CrevaCoin	crevacoin
-BIOB	BioBar	biobar
 COUPE	Coupecoin	coupecoin
+ELS	Elysium	elysium
+SOCC	SocialCoin	socialcoin-socc
+DOLLAR	Dollar Online	dollar-online
+PRC	PRCoin	prcoin
+ARGUS	Argus	argus
+XRC	Rawcoin	rawcoin2
+CREVA	CrevaCoin	crevacoin
+AERM	Aerium	aerium
+LVPS	LevoPlus	levoplus
+TSTR	Tristar Coin	tristar-coin
 MGM	Magnum	magnum
 GSR	GeyserCoin	geysercoin
-EXRN	EXRNchain	exrnchain
-CALC	CaliphCoin	caliphcoin
-TSTR	Tristar Coin	tristar-coin
+VLTC	Vault Coin	vault-coin
 HMC	HarmonyCoin	harmonycoin-hmc
 DMB	Digital Money...	digital-money-bits
-ABN	Abncoin	abncoin
-APW	AppleCoin	applecoin-apw
-VTA	Virtacoin	virtacoin
+EBT	Ebittree Coin	ebittree-coin
+PAYX	Paypex	paypex
+JINN	Jinn	jinn
+GRID	Grid+	grid
+SXDT	Spectre.ai Di...	spectre-dividend
+BCAP	BCAP	bcap
+CREDO	Credo	credo
+STAR	Starbase	starbase
+HBT	Hubii Network	hubii-network
+GMT	Mercury Protocol	mercury-protocol
 PGL	Prospectors Gold	prospectors-gold
-VSL	vSlice	vslice
-GCC	TheGCCcoin	thegcccoin
+REAL	REAL	real
+EVC	EventChain	eventchain
+VTA	Virtacoin	virtacoin
+SMART	SmartBillions	smartbillions
+ETT	EncryptoTel [...	encryptotel
+REX	REX	real-estate-tokens
+IXC	Ixcoin	ixcoin
+ETBS	Ethbits	ethbits
+BASH	LuckChain	luckchain
+DAR	Darcrus	darcrus
+FIMK	FIMKrypto	fimkrypto
+ACC	Accelerator N...	accelerator-network
+GIM	Gimli	gimli
 EMV	Ethereum Movi...	ethereum-movie-venture
-CRYPT	CryptCoin	cryptcoin
-RUSTBITS	Rustbits	rustbits
-USC	Ultimate Secu...	ultimate-secure-cash
-JNS	Janus	janus
+NDC	NEVERDIE	neverdie
+ICOO	ICO OpenLedger	ico-openledger
+AU	AurumCoin	aurumcoin
 PIPL	PiplCoin	piplcoin
 SDC	ShadowCash	shadowcash
+LNK	Link Platform	link-platform
+SIFT	Smart Investm...	smart-investment-fund-token
+ROC	Rasputin Onli...	rasputin-online-coin
+STRC	StarCredits	starcredits
 INPAY	InPay	inpay
+RUSTBITS	Rustbits	rustbits
+EPY	Emphy	emphy
 ORB	Orbitcoin	orbitcoin
-MBI	Monster Byte	monster-byte
-BPC	Bitpark Coin	bitpark-coin
+NETKO	Netko	netko
+CNT	Centurion	centurion
+WTT	Giga Watt Token	giga-watt-token
+KOBO	Kobocoin	kobocoin
 SHORTY	Shorty	shorty
-YASH	YashCoin	yashcoin
-ITI	iTicoin	iticoin
-PASL	Pascal Lite	pascal-lite
-B@	Bankcoin	bankcoin
-TROLL	Trollcoin	trollcoin
-METAL	MetalCoin	metalcoin
+UNI	Universe	universe
+BTB	BitBar	bitbar
+FCN	Fantomcoin	fantomcoin
+NIMFA	Nimfamoney	nimfamoney
+GAIA	GAIA	gaia
+LOG	Woodcoin	woodcoin
 UNIC	UniCoin	unicoin
-AMBER	AmberCoin	ambercoin
-BTCR	Bitcurrency	bitcurrency
-BLOCKPAY	BlockPay	blockpay
-FIMK	FIMKrypto	fimkrypto
-TSE	Tattoocoin (S...	tattoocoin
-BRIT	BritCoin	britcoin
-CASINO	Casino	casino
-TGC	Tigercoin	tigercoin
-SIGT	Signatum	signatum
-XPY	PayCoin	paycoin2
+HBN	HoboNickels	hobonickels
+NYAN	Nyancoin	nyancoin
+SUPER	SuperCoin	supercoin
+BPC	Bitpark Coin	bitpark-coin
 TALK	BTCtalkcoin	btctalkcoin
-KUSH	KushCoin	kushcoin
+KURT	Kurrent	kurrent
+JNS	Janus	janus
 MAX	MaxCoin	maxcoin
-CV2	Colossuscoin V2	colossuscoin-v2
-BXT	BitTokens	bittokens
-STS	Stress	stress
-VAL	Valorbit	valorbit
-WAY	WayGuide	wayguide
-GLC	GlobalCoin	globalcoin
+SLG	Sterlingcoin	sterlingcoin
 BITZ	Bitz	bitz
-J	Joincoin	joincoin
-FNC	FinCoin	fincoin
-QTL	Quatloo	quatloo
-PX	PX	px
+ICN	iCoin	icoin
+AMS	AmsterdamCoin	amsterdamcoin
+BUCKS	SwagBucks	swagbucks
+SIGT	Signatum	signatum
+PR	Prototanium	prototanium
+TRK	Truckcoin	truckcoin
+BTCR	Bitcurrency	bitcurrency
+CV2	Colossuscoin V2	colossuscoin-v2
+XRA	Ratecoin	ratecoin
+TSE	Tattoocoin (S...	tattoocoin
+BLOCKPAY	BlockPay	blockpay
+TGC	Tigercoin	tigercoin
+VAL	Valorbit	valorbit
+MNM	Mineum	mineum
+WAY	WayGuide	wayguide
+STV	Sativacoin	sativacoin
+GLC	GlobalCoin	globalcoin
+MARS	Marscoin	marscoin
+NUKO	Nekonium	nekonium
+AMBER	AmberCoin	ambercoin
 XGR	GoldReserve	goldreserve
-CYP	Cypher	cypher
-SHDW	Shadow Token	shadow-token
-ZUR	Zurcoin	zurcoin
-MAD	SatoshiMadness	satoshimadness
-BTSR	BTSR	btsr
-RBIES	Rubies	rubies
-XVP	Virtacoinplus	virtacoinplus
-RUPX	Rupaya	rupaya
-UNITS	GameUnits	gameunits
-BTQ	BitQuark	bitquark
-SPEX	SproutsExtreme	sproutsextreme
-FRK	Franko	franko
-XBTC21	Bitcoin 21	bitcoin-21
-SCRT	SecretCoin	secretcoin
-COXST	CoExistCoin	coexistcoin
-FRC	Freicoin	freicoin
-ICE	iDice	idice
-WMC	WMCoin	wmcoin
-SLING	Sling	sling
-JIN	Jin Coin	jin-coin
-YAC	Yacoin	yacoin
-XNG	Enigma	enigma
-EREAL	eREAL	ereal
+J	Joincoin	joincoin
+BITSILVER	bitSilver	bitsilver
+EVIL	Evil Coin	evil-coin
+PX	PX	px
+CCO	Ccore	ccore
+POS	PoSToken	postoken
+GRIM	Grimcoin	grimcoin
+SWING	Swing	swing
 YEL	Yellow Token	yellow-token
-FIRE	Firecoin	firecoin
-BVC	BeaverCoin	beavercoin
+B@	Bankcoin	bankcoin
+VC	VirtualCoin	virtualcoin
+BERN	BERNcash	berncash
+SOON	SoonCoin	sooncoin
+RBIES	Rubies	rubies
+EMD	Emerald Crypto	emerald
+MAD	SatoshiMadness	satoshimadness
+XIOS	Xios	xios
+CAT	Catcoin	catcoin
+EREAL	eREAL	ereal
+BUMBA	BumbaCoin	bumbacoin
+XVP	Virtacoinplus	virtacoinplus
+NTWK	Network Token	network-token
+BTQ	BitQuark	bitquark
+FNC	FinCoin	fincoin
+RPC	RonPaulCoin	ronpaulcoin
+DLC	Dollarcoin	dollarcoin
+MNC	Mincoin	mincoin
+TRDT	Trident Group	trident
+SPEX	SproutsExtreme	sproutsextreme
+CYP	Cypher	cypher
+KED	Darsek	darsek
+ZUR	Zurcoin	zurcoin
+QCN	QuazarCoin	quazarcoin
+ICOB	ICOBID	icobid
+EVO	Evotion	evotion
+VUC	Virta Unique ...	virta-unique-coin
+SCRT	SecretCoin	secretcoin
+CPN	CompuCoin	compucoin
+XBTC21	Bitcoin 21	bitcoin-21
+BTPL	Bitcoin Planet	bitcoin-planet
+GPU	GPU Coin	gpu-coin
 ISL	IslaCoin	islacoin
-DBTC	Debitcoin	debitcoin
-CTO	Crypto	crypto
+CNNC	Cannation	cannation
+FUZZ	FuzzBalls	fuzzballs
+ROOFS	Roofs	roofs
 SAC	SACoin	sacoin
-GCC	GuccioneCoin	guccionecoin
-PIE	PIECoin	piecoin
-ANTI	AntiBitcoin	antibitcoin
-RBX	Ripto Bux	ripto-bux
-CF	Californium	californium
-PRX	Printerium	printerium
-BSTAR	Blackstar	blackstar
-WORM	HealthyWormCoin	healthywormcoin
-ZMC	ZetaMicron	zetamicron
-MTLMC3	Metal Music Coin	metal-music-coin
-ATX	Artex Coin	artex-coin
+XNG	Enigma	enigma
+BLN	Bolenum	bolenum
+DRS	Digital Rupees	digital-rupees
+SPT	Spots	spots
+EGAS	ETHGAS	ethgas
+SOIL	SOILcoin	soilcoin
+YAC	Yacoin	yacoin
+BXC	Bitcedi	bitcedi
 JWL	Jewels	jewels
-CWXT	CryptoWorldX ...	cryptoworldx-token
-BRAIN	Braincoin	braincoin
-MND	MindCoin	mindcoin
+ICE	iDice	idice
+MAY	Theresa May Coin	theresa-may-coin
+JS	JavaScript Token	javascript-token
+FRK	Franko	franko
+FIRE	Firecoin	firecoin
+GCC	GuccioneCoin	guccionecoin
+DBTC	Debitcoin	debitcoin
+ANTI	AntiBitcoin	antibitcoin
+JIN	Jin Coin	jin-coin
+BSTAR	Blackstar	blackstar
+CF	Californium	californium
+ZMC	ZetaMicron	zetamicron
 BLRY	BillaryCoin	billarycoin
-VEC2	VectorAI	vector
-ADCN	Asiadigicoin	asiadigicoin
-MILO	MiloCoin	milocoin
-SCS	Speedcash	speedcash
-TOR	Torcoin	torcoin-tor
-DRM	Dreamcoin	dreamcoin
-GBT	GameBet Coin	gamebet-coin
-FLVR	FlavorCoin	flavorcoin
-RIDE	Ride My Car	ride-my-car
-DLISK	DAPPSTER	dappster
-PLACO	PlayerCoin	playercoin
-VIP	VIP Tokens	vip-tokens
-PONZI	PonziCoin	ponzicoin
-WARP	WARP	warp
-PLNC	PLNcoin	plncoin
-LTCR	Litecred	litecred
-URO	Uro	uro
-TAGR	TAGRcoin	tagrcoin
-PEX	PosEx	posex
 PULSE	Pulse	pulse
-BSC	BowsCoin	bowscoin
+ICON	Iconic	iconic
+MTLMC3	Metal Music Coin	metal-music-coin
+PRX	Printerium	printerium
+SOJ	Sojourn	sojourn
+VEC2	VectorAI	vector
+GBC	GBCGoldCoin	gbcgoldcoin
+PIE	PIECoin	piecoin
+MND	MindCoin	mindcoin
+RBX	Ripto Bux	ripto-bux
+ATX	Artex Coin	artex-coin
+DRM	Dreamcoin	dreamcoin
+BRAIN	Braincoin	braincoin
+BOAT	BOAT	doubloon
+CWXT	CryptoWorldX ...	cryptoworldx-token
+TYCHO	Tychocoin	tychocoin
 ARB	ARbit	arbit
+PONZI	PonziCoin	ponzicoin
+VIP	VIP Tokens	vip-tokens
+KNC	KingN Coin	kingn-coin
 EGO	EGO	ego
 URC	Unrealcoin	unrealcoin
+PLNC	PLNcoin	plncoin
+SH	Shilling	shilling
+RIDE	Ride My Car	ride-my-car
+URO	Uro	uro
+BSC	BowsCoin	bowscoin
+PLACO	PlayerCoin	playercoin
+CRTM	Corethum	corethum
+WORM	HealthyWormCoin	healthywormcoin
+BIOS	BiosCrypto	bios-crypto
+PEX	PosEx	posex
+TAGR	TAGRcoin	tagrcoin
+DLISK	DAPPSTER	dappster
+TOR	Torcoin	torcoin-tor
+JOBS	JobsCoin	jobscoin
+RSGP	RSGPcoin	rsgpcoin
+ZYD	Zayedcoin	zayedcoin
+WBB	Wild Beast Block	wild-beast-block
+IMPS	ImpulseCoin	impulsecoin
 ORLY	Orlycoin	orlycoin
+LIR	LetItRide	letitride
 CESC	CryptoEscudo	cryptoescudo
 CRDNC	Credence Coin	credence-coin
-WBB	Wild Beast Block	wild-beast-block
-ZNE	Zonecoin	zonecoin
-OS76	OsmiumCoin	osmiumcoin
 STEPS	Steps	steps
-BIOS	BiosCrypto	bios-crypto
-IMPS	ImpulseCoin	impulsecoin
-SDP	SydPak	sydpak
-JOBS	JobsCoin	jobscoin
-CAB	Cabbage	cabbage
-CRT	CRTCoin	crtcoin
-ELS	Elysium	elysium
-HVCO	High Voltage	high-voltage
-IBANK	iBank	ibank
+OS76	OsmiumCoin	osmiumcoin
 XOC	Xonecoin	xonecoin
-NODC	NodeCoin	nodecoin
-P7C	P7Coin	p7coin
+IBANK	iBank	ibank
+DES	Destiny	destiny
+ZNE	Zonecoin	zonecoin
+AGLC	AgrolifeCoin	agrolifecoin
+CAB	Cabbage	cabbage
+HVCO	High Voltage	high-voltage
+CRT	CRTCoin	crtcoin
+BIOB	BioBar	biobar
+XCS	CybCSec	cybcsec
+VOLT	Bitvolt	bitvolt
 FXE	FuturXe	futurexe
-SANDG	Save and Gain	save-and-gain
+CTIC3	Coimatic 3.0	coimatic-3
+SDP	SydPak	sydpak
 ALTC	Antilitecoin	antilitecoin
-ULA	Ulatech	ulatech
+P7C	P7Coin	p7coin
+SANDG	Save and Gain	save-and-gain
 CONX	Concoin	concoin
-LEX	Lex4All	lex4all
+NANOX	Project-X	project-x
+NODC	NodeCoin	nodecoin
+CTIC2	Coimatic 2.0	coimatic-2
+ULA	Ulatech	ulatech
 SLFI	Selfiecoin	selfiecoin
-CFC	CoffeeCoin	coffeecoin
-CCM100	CCMiner	ccminer
+EXRN	EXRNchain	exrnchain
+CALC	CaliphCoin	caliphcoin
 DGCS	Digital Credits	digital-credits
-OCEAN	BurstOcean	burstocean
+CCM100	CCMiner	ccminer
 PIZZA	PizzaCoin	pizzacoin
-EBT	Ebittree Coin	ebittree-coin
+ABN	Abncoin	abncoin
+APW	AppleCoin	applecoin-apw
+HT	Huobi Token	huobi-token
 ATMC	ATMCoin	atmcoin
-OF	OFCOIN	ofcoin
-DTA	DATA	data
+ELA	Elastos	elastos
 RUFF	Ruff	ruff
-OCN	Odyssey	odyssey
-SOC	All Sports	all-sports
+OF	OFCOIN	ofcoin
+EKT	EDUCare	educare
 AIDOC	AI Doctor	aidoc
-ZPT	Zeepin	zeepin
+DTA	DATA	data
+LET	LinkEye	linkeye
+JNT	Jibrel Network	jibrel-network
+STK	STK	stk
+EPC	Electronic PK...	electronic-pk-chain
+WPR	WePower	wepower
+TRUE	True Chain	true-chain
+OC	OceanChain	oceanchain
 BCD	Bitcoin Diamond	bitcoin-diamond
 GNX	Genaro Network	genaro-network
-MEE	CoinMeet	coinmeet
 SMT	SmartMesh	smartmesh
-EPC	Electronic PK...	electronic-pk-chain
-HLC	HalalChain	halalchain
-SHOW	Show	show
-ZIL	Zilliqa	zilliqa
-TOPC	TopChain	topchain
-COFI	CoinFi	coinfi
-WIC	WaykiChain	waykichain
 NKC	Nework	nework
-SBTC	Super Bitcoin	super-bitcoin
-RCT	RealChain	realchain
+MTN	Medicalchain	medical-chain
 LBTC	Lightning Bit...	lightning-bitcoin
-TRAC	OriginTrail	origintrail
-LET	LinkEye	linkeye
-LIGHT	LightChain	lightchain
-EKO	EchoLink	echolink
-CHAT	ChatCoin	chatcoin
-AGI	SingularityNET	singularitynet
-BCX	BitcoinX	bitcoinx
-FOTA	Fortuna	fortuna
-FAIR	FairGame	fairgame
-AAC	Acute Angle C...	acute-angle-cloud
-CV	carVertical	carvertical
-YEE	Yee	yee
-DDD	Scry.info	scryinfo
-UGC	ugChain	ugchain
-ADK	Aidos Kuneen	aidos-kuneen
-KCASH	Kcash	kcash
-TRUE	True Chain	true-chain
-HPY	Hyper Pay	hyper-pay
-CPC	CPChain	cpchain
-SPC	SpaceChain	spacechain
-READ	Read	read
-SSC	SelfSell	selfsell
-HMC	Health Mutual...	health-mutual-society
-C20	CRYPTO20	c20
-BTO	Bottos	bottos
-STC	StarChain	starchain
-PUT	Profile Utili...	profile-utility-token
-MAN	Matrix AI Net...	matrix-ai-network
-EKT	EDUCare	educare
-HOT	Hydro Protocol	hydro-protocol
-BIG	BigONE Token	bigone-token
-XTZ	Tezos (Pre-La...	tezos
-DAV	DavorCoin	davorcoin
-FRGC	Fargocoin	fargocoin
-MOF	Molecular Future	molecular-future
-MOBI	Mobius	mobius
-UGT	UG Token	ug-token
-VLC	ValueChain	valuechain
-CFUN	CFun	cfun
-CAN	Content and A...	content-and-ad-network
-PXS	Pundi X	pundi-x
-AID	AidCoin	aidcoin
-ATN	ATN	atn
-BAR	Titanium Bloc...	titanium-blockchain
-REBL	Rebellious	rebellious
-SMS	Speed Mining ...	speed-mining-service
-OC	OceanChain	oceanchain
-CANDY	Candy	candy
-PRS	PressOne	pressone
-CMS	COMSA [ETH]	comsa-eth
-BTW	Bitcoin White	bitcoin-white
-CMS	COMSA [XEM]	comsa-xem
-HBC	HomeBlockCoin	homeblockcoin
-QUBE	Qube	qube
-REF	RefToken	reftoken
-AI	POLY AI	poly-ai
-IPC	IPChain	ipchain
-REGA	Regacoin	regacoin
-UBTC	United Bitcoin	united-bitcoin
-XIN	Mixin	mixin
-ENT	ENTCash	entcash
-IDT	InvestDigital	investdigital
-SLT	Smartlands	smartlands
-BLT	Bitcoin Light...	bitcoin-lightning
-FIL	Filecoin [Fut...	filecoin
-IPL	InsurePal	insurepal
-MOAC	MOAC	moac
-TCT	TokenClub	tokenclub
-EQL	Equal	equal
-AWR	AWARE	aware
-MDT	Measurable Da...	measurable-data-token
-XRY	Royalties	royalties
-CRPT	Crypterium	crypterium
-MAG	Maggie	maggie
-SIC	Swisscoin	swisscoin
-B2X	SegWit2x	segwit2x
-AXP	aXpire	axpire
-XIN	Infinity Econ...	infinity-economics
-AIT	AICHAIN	aichain
-IQT	iQuant	iquant
-UIP	UnlimitedIP	unlimitedip
-CEFS	CryptopiaFeeS...	cryptopiafeeshares
-WC	WINCOIN	win-coin
-SHND	StrongHands	stronghands
-TBX	Tokenbox	tokenbox
-JIYO	Jiyo	jiyo
-INF	InfChain	infchain
-BCDN	BlockCDN	blockcdn
-MGC	MergeCoin	mergecoin
-XID	Sphre AIR 	sphre-air
-WETH	WETH	weth
-CLUB	ClubCoin	clubcoin
-BITCF	First Bitcoin...	first-bitcoin-capital
-TMC	TimesCoin	timescoin
-CLD	Cloud	cloud
-EAG	EA Coin	ea-coin
-CL	Coinlancer	coinlancer
-ROYAL	RoyalCoin	royalcoin
-NMS	Numus	numus
-BCA	Bitcoin Atom	bitcoin-atom
-SBC	StrikeBitClub	strikebitclub
-IFC	Infinitecoin	infinitecoin
-GRLC	Garlicoin	garlicoin
-DIM	DIMCOIN	dimcoin
-ZAP	Zap	zap
-TOK	Tokugawa	tokugawa
-IC	Ignition	ignition
-TOKC	TOKYO	tokyo
-KZC	Kzcash	kzcash
-CRAVE	Crave	crave
-BKX	Bankex	bankex
-IDXM	IDEX Membership	idex-membership
-BSR	BitSoar	bitsoar
-EDT	EtherDelta Token	etherdelta-token
-ARCT	ArbitrageCT	arbitragect
-SWTC	Jingtum Tech	jingtum-tech
-VZT	Vezt	vezt
-KB3	B3Coin	b3coin
-HC	Harvest Maste...	harvest-masternode-coin
-GBG	Golos Gold	golos-gold
-ESC	Escroco	escoro
-NOX	Nitro	nitro
-BTCA	Bitair	bitair
-XSTC	Safe Trade Coin	safe-trade-coin
-HTML5	HTML5COIN	htmlcoin
-OX	OX Fina	ox-fina
-SND	Sand Coin	sand-coin
-NTC	Natcoin	natcoin
-GRX	GOLD Reward T...	gold-reward-token
-SPK	Sparks	sparks
-ORE	Galactrum	galactrum
-RBBT	RabbitCoin	rabbitcoin
-MSD	MSD	msd
-GCS	GameChain System	gamechain
-PLX	PlexCoin	plexcoin
-SEXC	ShareX	sharex
-THS	TechShares	techshares
-BT2	BT2 [CST]	bt2-cst
-APC	AlpaCoin	alpacoin
-BTE	BitSerial	bitserial
-GUESS	Peerguess	guess
-FDX	FidentiaX	fidentiax
-CYDER	Cyder	cyder
-GOLF	Golfcoin	golfcoin
-TCOIN	T-coin	t-coin
-TER	TerraNova	terranova
-GOD	Bitcoin God	bitcoin-god
-FAZZ	Fazzcoin	fazzcoin
-BOS	BOScoin	boscoin
-SJCX	Storjcoin X	storjcoin-x
-ZENGOLD	ZenGold	zengold
-VULC	Vulcano	vulcano
-WSX	WeAreSatoshi	wearesatoshi
-PNX	Phantomx	phantomx
-MVC	Maverick Chain	maverick-chain
-WA	WA Space	wa-space
-NEOG	NEO GOLD	neo-gold
-STAR	Starbase	starbase
-BEST	BestChain	bestchain
-FLAP	FlappyCoin	flappycoin
-ANI	Animecoin	animecoin
-SAK	Sharkcoin	sharkcoin
-ETT	EncryptoTel [...	encryptotel-eth
-DMC	DynamicCoin	dynamiccoin
-LTG	LiteCoin Gold	litecoin-gold
-ZSE	ZSEcoin	zsecoin
-DON	Donationcoin	donationcoin
-TOP	TopCoin	topcoin
-CSC	CasinoCoin	casinocoin
-NAMO	NamoCoin	namocoin
-SIGMA	SIGMAcoin	sigmacoin
-UTT	United Trader...	uttoken
-PRN	Protean	protean
-ELITE	Ethereum Lite	ethereum-lite
-FRN	Francs	francs
-GMX	GoldMaxCoin	goldmaxcoin
-RUBIT	RubleBit	rublebit
-GRN	Granite	granitecoin
 MTX	Matryx	matryx
-PCN	PeepCoin	peepcoin
-EDRC	EDRCoin	edrcoin
-COR	CORION	corion
-VASH	VPNCoin	vpncoin
-SKR	Sakuracoin	sakuracoin
-MCR	Macro	macro1
-WOW	Wowcoin	wowcoin
-ABC	Alphabit	alphabitcoinfund
-ZBC	Zilbercoin	zilbercoin
-AKY	Akuya Coin	akuya-coin
-SFE	SafeCoin	safecoin
-UR	UR	ur
-GLS	GlassCoin	glasscoin
-ELC	Elacoin	elacoin
-BTCM	BTCMoon	btcmoon
-HYTV	Hyper TV	hyper-tv
-BET	BetaCoin	betacoin
-LDCN	LandCoin	landcoin
-GAY	GAY Money	gaycoin
-PEC	Peacecoin	peacecoin
-TELL	Tellurion	tellurion
-PCS	Pabyosi Coin ...	pabyosi-coin-special
-WIC	Wi Coin	wi-coin
-INDIA	India Coin	india-coin
-QBT	Cubits	cubits
-DUBI	Decentralized...	decentralized-universal-basic-income
+ZLA	Zilla	zilla
+CHAT	ChatCoin	chatcoin
+TKY	THEKEY	thekey
+WIC	WaykiChain	waykichain
+ADK	Aidos Kuneen	aidos-kuneen
+HLC	HalalChain	halalchain
+EKO	EchoLink	echolink
+TOPC	TopChain	topchain
+REBL	Rebellious	rebellious
+YEE	Yee	yee
+BCX	BitcoinX	bitcoinx
+HPY	Hyper Pay	hyper-pay
+KCASH	Kcash	kcash
+SEXC	ShareX	sharex
+AAC	Acute Angle C...	acute-angle-cloud
+SHOW	Show	show
+UGC	ugChain	ugchain
+FOTA	Fortuna	fortuna
+SPC	SpaceChain	spacechain
+XTZ	Tezos (Pre-La...	tezos
+FRGC	Fargocoin	fargocoin
+UBTC	United Bitcoin	united-bitcoin
+LIGHT	LightChain	lightchain
+STC	StarChain	starchain
+REF	RefToken	reftoken
+ENT	ENTCash	entcash
+DDD	Scry.info	scryinfo
+RCT	RealChain	realchain
+BOS	BOScoin	boscoin
+QUBE	Qube	qube
+BTO	Bottos	bottos
+SSC	SelfSell	selfsell
+AWR	AWARE	aware
+SBTC	Super Bitcoin	super-bitcoin
+COFI	CoinFi	coinfi
+BAR	Titanium Bloc...	titanium-blockchain
+UGT	UG Token	ug-token
+CPC	CPChain	cpchain
+ZPT	Zeepin	zeepin
+AI	POLY AI	poly-ai
+ATN	ATN	atn
+CHSB	SwissBorg	swissborg
+CMS	COMSA [ETH]	comsa-eth
+VLC	ValueChain	valuechain
+BIG	BigONE Token	bigone-token
+MOF	Molecular Future	molecular-future
+IDT	InvestDigital	investdigital
+MAN	Matrix AI Net...	matrix-ai-network
+CANDY	Candy	candy
+READ	Read	read
+AXP	aXpire	axpire
+AID	AidCoin	aidcoin
+CXO	CargoX	cargox
+CFUN	CFun	cfun
+FAIR	FairGame	fairgame
+BLT	Bitcoin Light...	bitcoin-lightning
+CMS	COMSA [XEM]	comsa-xem
+DXT	Datawallet	datawallet
+UIP	UnlimitedIP	unlimitedip
+PRS	PressOne	pressone
+MOBI	Mobius	mobius
+IQT	iQuant	iquant
+HOT	Hydro Protocol	hydro-protocol
+FIL	Filecoin [Fut...	filecoin
+XIN	Mixin	mixin
+CAN	Content and A...	content-and-ad-network
+VZT	Vezt	vezt
+MDT	Measurable Da...	measurable-data-token
+POLY	Polymath Network	polymath-network
+ADB	adbank	adbank
+TCT	TokenClub	tokenclub
+MNTP	GoldMint	goldmint
+DAV	DavorCoin	davorcoin
+SHND	StrongHands	stronghands
+PXS	Pundi X	pundi-x
+BSR	BitSoar	bitsoar
+WC	WINCOIN	win-coin
+NMS	Numus	numus
+INF	InfChain	infchain
+B2X	SegWit2x	segwit2x
+BTW	Bitcoin White	bitcoin-white
+HMC	Health Mutual...	health-mutual-society
+BCDN	BlockCDN	blockcdn
+IFC	Infinitecoin	infinitecoin
+MOAC	MOAC	moac
+JIYO	Jiyo	jiyo
+CLUB	ClubCoin	clubcoin
 PRES	President Trump	president-trump
-HDLB	HODL Bucks	hodl-bucks
-SISA	SISA	sisa
-ACES	Aces	aces
-HCC	Happy Creator...	happy-creator-coin
-UAHPAY	UAHPay	uahpay
-BTBc	Bitbase	bitbase
-HALLO	Halloween Coin	halloween-coin
-GAIN	UGAIN	ugain
-RYZ	ANRYZE	anryze
-NUMUS	NumusCash	numuscash
-SWP	Swapcoin	swapcoin
-TRICK	TrickyCoin	trickycoin
+EAG	EA Coin	ea-coin
+SBC	StrikeBitClub	strikebitclub
+THS	TechShares	techshares
+DRPU	DRP Utility	drp-utility
+GCS	GameChain System	gamechain
+UCASH	U.CASH	ucash
+IC	Ignition	ignition
+ESZ	EtherSportz	ethersportz
+DIM	DIMCOIN	dimcoin
 FONZ	Fonziecoin	fonziecoin
-MCI	Musiconomi	musiconomi
-FAP	FAPcoin	fapcoin
-MAGN	Magnetcoin	magnetcoin
-GARY	President Joh...	president-johnson
+SIC	Swisscoin	swisscoin
+ZAP	Zap	zap
+MAG	Maggie	maggie
+CRPT	Crypterium	crypterium
+TOK	Tokugawa	tokugawa
+MGC	MergeCoin	mergecoin
+DMC	DynamicCoin	dynamiccoin
+GBG	Golos Gold	golos-gold
+TBX	Tokenbox	tokenbox
+SWTC	Jingtum Tech	jingtum-tech
+IDXM	IDEX Membership	idex-membership
+XID	Sphre AIR 	sphre-air
+FDX	FidentiaX	fidentiax
+TRF	Travelflex	travelflex
+SMS	Speed Mining ...	speed-mining-service
+XIN	Infinity Econ...	infinity-economics
+KZC	Kzcash	kzcash
+GOD	Bitcoin God	bitcoin-god
+WETH	WETH	weth
+KDC	KlondikeCoin	klondikecoin
+CEFS	CryptopiaFeeS...	cryptopiafeeshares
+IPC	IPChain	ipchain
+SWM	Swarm	swarm-fund
+HTML5	HTML5COIN	htmlcoin
+NOX	Nitro	nitro
+ESC	Escroco	escoro
+MVC	Maverick Chain	maverick-chain
+ZENGOLD	ZenGold	zengold
+KB3	B3Coin	b3coin
+WSX	WeAreSatoshi	wearesatoshi
+BTE	BitSerial	bitserial
+HC	Harvest Maste...	harvest-masternode-coin
+SPK	Sparks	sparks
+PNX	Phantomx	phantomx
+EQL	Equal	equal
+SLT	Smartlands	smartlands
+BTCA	Bitair	bitair
+ORE	Galactrum	galactrum
+MSD	MSD	msd
+TER	TerraNova	terranova
+BCA	Bitcoin Atom	bitcoin-atom
+UTT	United Trader...	uttoken
+ARCT	ArbitrageCT	arbitragect
+GRN	Granite	granitecoin
+PCS	Pabyosi Coin ...	pabyosi-coin-special
+UNRC	UniversalRoya...	universalroyalcoin
+OX	OX Fina	ox-fina
+XRY	Royalties	royalties
+CRAVE	Crave	crave
+BT2	BT2 [CST]	bt2-cst
+SND	Sand Coin	sand-coin
+GRX	GOLD Reward T...	gold-reward-token
+BKX	Bankex	bankex
+LAZ	Lazaruscoin	lazaruscoin
+TRIA	Triaconta	triaconta
+TMC	TimesCoin	timescoin
+BIT	First Bitcoin	first-bitcoin
+VASH	VPNCoin	vpncoin
+TCOIN	T-coin	t-coin
+CLD	Cloud	cloud
+CFC	CoffeeCoin	coffeecoin
+CYDER	Cyder	cyder
+GDC	GrandCoin	grandcoin
+ZBC	Zilbercoin	zilbercoin
+PCN	PeepCoin	peepcoin
+IRL	IrishCoin	irishcoin
+MCR	Macro	macro1
+XMRG	Monero Gold	monero-gold
+WOW	Wowcoin	wowcoin
+COR	CORION	corion
 MARX	MarxCoin	marxcoin
 SHA	SHACoin	shacoin
-FFC	FireFlyCoin	fireflycoin
-CMP	Compcoin	compcoin
-TRIA	Triaconta	triaconta
-IRL	IrishCoin	irishcoin
-BITOK	Bitok	bitok
-BIT	First Bitcoin	first-bitcoin
-BTCS	Bitcoin Silver	bitcoin-silver
-MINEX	Minex	minex
-PRIMU	Primulon	primulon
-FID	BITFID	bitfid
-EGOLD	eGold	egold
-RCN	Rcoin	rcoin
-IBTC	iBTC	ibtc
-CC	CyberCoin	cybercoin
-MONEY	MoneyCoin	moneycoin
-SKULL	Pirate Blocks	pirate-blocks
-TERA	TeraCoin	teracoin
-DEUS	DeusCoin	deuscoin
-LEEK	Leek Coin	leekico
-DASHS	Dashs	dashs
-ANTX	Antimatter	antimatter
-BTC2X	Bitcoin2x	bitcoin2x
-EUSD	eUSD	eusd
-UNRC	UniversalRoya...	universalroyalcoin
-TURBO	TurboCoin	turbocoin
-BXC	Bitcedi	bitcedi
+SJCX	Storjcoin X	storjcoin-x
+ANI	Animecoin	animecoin
+XSTC	Safe Trade Coin	safe-trade-coin
+GLS	GlassCoin	glasscoin
+REGA	Regacoin	regacoin
+WIC	Wi Coin	wi-coin
+PLX	PlexCoin	plexcoin
+SIGMA	SIGMAcoin	sigmacoin
+PRN	Protean	protean
+BEST	BestChain	bestchain
+ABC	Alphabit	alphabitcoinfund
+NEOG	NEO GOLD	neo-gold
+GOLF	Golfcoin	golfcoin
 PAYP	PayPeer	paypeer
-PDG	PinkDog	pinkdog
+XOT	Internet of T...	internet-of-things
+MCI	Musiconomi	musiconomi
+HCC	Happy Creator...	happy-creator-coin
+ZSE	ZSEcoin	zsecoin
+LDCN	LandCoin	landcoin
+GARY	President Joh...	president-johnson
 WINK	Wink	wink
-BIRDS	Birds	birds
-BLAZR	BlazerCoin	blazercoin
-DUTCH	Dutch Coin	dutch-coin
+CSC	CasinoCoin	casinocoin
+ETT	EncryptoTel [...	encryptotel-eth
+NAMO	NamoCoin	namocoin
+TOP	TopCoin	topcoin
+INDIA	India Coin	india-coin
+SISA	SISA	sisa
+ELITE	Ethereum Lite	ethereum-lite
+SKR	Sakuracoin	sakuracoin
+BITCF	First Bitcoin...	first-bitcoin-capital
+SENSE	Sense	sense
+UR	UR	ur
+TESLA	TeslaCoilCoin	teslacoilcoin
+QBT	Cubits	cubits
+VULC	Vulcano	vulcano
+BTCM	BTCMoon	btcmoon
 XTD	XTD Coin	xtd-coin
+DEUS	DeusCoin	deuscoin
+TELL	Tellurion	tellurion
+FLAP	FlappyCoin	flappycoin
+STEX	STEX	stex
+OMC	Omicron	omicron
+PRIMU	Primulon	primulon
+FAZZ	Fazzcoin	fazzcoin
+MINEX	Minex	minex
+TODAY	TodayCoin	todaycoin
+FRN	Francs	francs
+CMP	Compcoin	compcoin
+BITOK	Bitok	bitok
+HDLB	HODL Bucks	hodl-bucks
+SKULL	Pirate Blocks	pirate-blocks
+CHEAP	Cheapcoin	cheapcoin
+NUMUS	NumusCash	numuscash
+HNC	Huncoin	huncoin
+SAK	Sharkcoin	sharkcoin
+QORA	Qora	qora
+ACN	Avoncoin	avoncoin
+AKY	Akuya Coin	akuya-coin
+DON	Donationcoin	donationcoin
+APC	AlpaCoin	alpacoin
+RUBIT	RubleBit	rublebit
+X2	X2	x2
+DISK	DarkLisk	darklisk
+RUPX	Rupaya [OLD]	rupaya-old
+UNC	UNCoin	uncoin
+WA	WA Space	wa-space
+FAP	FAPcoin	fapcoin
+HALLO	Halloween Coin	halloween-coin
+EDRC	EDRCoin	edrcoin
+NTC	Natcoin	natcoin
+GAIN	UGAIN	ugain
+HIGH	High Gain	high-gain
+MONETA	Moneta	moneta2
+NBIT	netBit	netbit
+TURBO	TurboCoin	turbocoin
+RICHX	RichCoin	richcoin
+ANTX	Antimatter	antimatter
+PDG	PinkDog	pinkdog
+FFC	FireFlyCoin	fireflycoin
+TERA	TeraCoin	teracoin
+RCN	Rcoin	rcoin
+XAU	Xaucoin	xaucoin
+SFE	SafeCoin	safecoin
+BSN	Bastonet	bastonet
+RBBT	RabbitCoin	rabbitcoin
+ACES	Aces	aces
+ELC	Elacoin	elacoin
+MAGN	Magnetcoin	magnetcoin
+DUTCH	Dutch Coin	dutch-coin
+BIRDS	Birds	birds
+RYZ	ANRYZE	anryze
+MONEY	MoneyCoin	moneycoin
+EDT	EtherDelta Token	etherdelta-token
+POKE	PokeCoin	pokecoin
+RUNNERS	Runners	runners
+BTBc	Bitbase	bitbase
+BLAZR	BlazerCoin	blazercoin
+CC	CyberCoin	cybercoin
+DMT	DMarket	dmarket
+GAY	GAY Money	gaycoin
+PEC	Peacecoin	peacecoin
 MBL	MobileCash	mobilecash
 PRM	PrismChain	prismchain
-UTA	UtaCoin	utacoin
-MEN	PeopleCoin	peoplecoin
-HYPER	Hyper	hyper
-HIGH	High Gain	high-gain
-CHEAP	Cheapcoin	cheapcoin
-DISK	DarkLisk	darklisk
-POKE	PokeCoin	pokecoin
-TODAY	TodayCoin	todaycoin
-CYC	Cycling Coin	cycling-coin
-BLX	Blockchain Index	blockchain-index
-TESLA	TeslaCoilCoin	teslacoilcoin
-ACN	Avoncoin	avoncoin
-BSN	Bastonet	bastonet
-RUNNERS	Runners	runners
-KARMA	Karmacoin	karmacoin
-TOPAZ	Topaz Coin	topaz
-AV	AvatarCoin	avatarcoin
-DBG	Digital Bulli...	digital-bullion-gold
-OPES	Opescoin	opescoin
-DUB	Dubstep	dubstep
-CASH	Cash Poker Pro	cash-poker-pro
-XDE2	XDE II	xde-ii
-NBIT	netBit	netbit
-10MT	10M Token	10mtoken
-EBIT	eBIT	ebit
-VOYA	Voyacoin	voyacoin
-LAZ	Lazaruscoin	lazaruscoin
-YES	Yescoin	yescoin
-TLE	Tattoocoin (L...	tattoocoin-limited
-RUPX	Rupaya [OLD]	rupaya-old
-DCRE	DeltaCredits	deltacredits
-SHELL	ShellCoin	shellcoin
-SPORT	SportsCoin	sportscoin
-EGG	EggCoin	eggcoin
-BAC	BitAlphaCoin	bitalphacoin
-RICHX	RichCoin	richcoin
-LKC	LinkedCoin	linkedcoin
-ASN	Aseancoin	aseancoin
-AXIOM	Axiom	axiom
-X2	X2	x2
-OMC	Omicron	omicron
-FC	Facecoin	facecoin
-XOT	Internet of T...	internet-of-things
-XVE	The Vegan Ini...	the-vegan-initiative
-XQN	Quotient	quotient
-FUTC	FutCoin	futcoin
-MONETA	Moneta	moneta2
-LEPEN	LePen	lepen
-STEX	STEX	stex
-IPY	Infinity Pay	infinity-pay
-TCR	TheCreed	thecreed
-XID	International...	international-diamond
-QORA	Qora	qora
-BUB	Bubble	bubble
-ELTC2	eLTC	eltc
-UNC	UNCoin	uncoin
-SNAKE	SnakeEyes	snakeeyes
-OP	Operand	operand
-IVZ	InvisibleCoin	invisiblecoin
-GML	GameLeagueCoin	gameleaguecoin
-CME	Cashme	cashme
-KASHH	KashhCoin	kashhcoin
-PSY	Psilocybin	psilocybin
-TEAM	TeamUp	teamup
-LTH	LAthaan	lathaan
-FRWC	FrankyWillCoin	frankywillcoin
-CBD	CBD Crystals	cbd-crystals
 MMXVI	MMXVI	mmxvi
-FBL	Faceblock	faceblock
-GUC	GoldUnionCoin	goldunioncoin
-XAU	Xaucoin	xaucoin
+TEAM	TeamUp	teamup
+DBG	Digital Bulli...	digital-bullion-gold
+LKC	LinkedCoin	linkedcoin
+SPORT	SportsCoin	sportscoin
+SHELL	ShellCoin	shellcoin
+XDE2	XDE II	xde-ii
+DCRE	DeltaCredits	deltacredits
+XID	International...	international-diamond
+AV	AvatarCoin	avatarcoin
+AXIOM	Axiom	axiom
+ASN	Aseancoin	aseancoin
+IVZ	InvisibleCoin	invisiblecoin
+GMX	GoldMaxCoin	goldmaxcoin
+EGG	EggCoin	eggcoin
+OP	Operand	operand
+KARMA	Karmacoin	karmacoin
+OPES	Opescoin	opescoin
+BUB	Bubble	bubble
+HYTV	Hyper TV	hyper-tv
+PSY	Psilocybin	psilocybin
+SNAKE	SnakeEyes	snakeeyes
+BET	BetaCoin	betacoin
+10MT	10M Token	10mtoken
+LTH	LAthaan	lathaan
+VOYA	Voyacoin	voyacoin
+CYC	Cycling Coin	cycling-coin
+LEPEN	LePen	lepen
+FRWC	FrankyWillCoin	frankywillcoin
+GML	GameLeagueCoin	gameleaguecoin
+HYPER	Hyper	hyper
+CME	Cashme	cashme
+EGOLD	eGold	egold
+UTA	UtaCoin	utacoin
+TRICK	TrickyCoin	trickycoin
+XQN	Quotient	quotient
+BAC	BitAlphaCoin	bitalphacoin
+TCR	TheCreed	thecreed
 RHFC	RHFCoin	rhfcoin
-HNC	Huncoin	huncoin
+FUTC	FutCoin	futcoin
+XVE	The Vegan Ini...	the-vegan-initiative
+BTC2X	Bitcoin2x	bitcoin2x
+DUB	Dubstep	dubstep
+YES	Yescoin	yescoin
+KASHH	KashhCoin	kashhcoin
+DASHS	Dashs	dashs
+TLE	Tattoocoin (L...	tattoocoin-limited
+TOPAZ	Topaz Coin	topaz
+MEN	PeopleCoin	peoplecoin
+FID	BITFID	bitfid
 LLT	LLToken	lltoken
-OCOW	OCOW	ocow
-BT1	BT1 [CST]	bt1-cst
+SWP	Swapcoin	swapcoin
+BTCS	Bitcoin Silver	bitcoin-silver
+IPY	Infinity Pay	infinity-pay
+UAHPAY	UAHPay	uahpay
+BLX	Blockchain Index	blockchain-index
+FC	Facecoin	facecoin
+ELTC2	eLTC	eltc
+EUSD	eUSD	eusd
+LTG	LiteCoin Gold	litecoin-gold
+CASH	Cash Poker Pro	cash-poker-pro
+IBTC	iBTC	ibtc
+EBIT	eBIT	ebit
+FBL	Faceblock	faceblock
 FRCT	Farstcoin	farstcoin
+DUBI	Decentralized...	decentralized-universal-basic-income

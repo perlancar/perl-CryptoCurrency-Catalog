@@ -35,13 +35,11 @@ $cat = CryptoCurrency::Catalog->new;
 my @new_data = $cat->all_data;
 
 # convert old key name
-for (@new_data) {
+for (@old_data) {
     if (!exists($_->{code})) { $_->{code} = $_->{symbol} }
 }
 
-#use Data::Dump;
-#dd \@old_data;
-#dd \@new_data;
+#use Data::Dump; dd \@old_data; dd \@new_data;
 
 my $indent = "          ";
 

@@ -7,13 +7,14 @@ use FindBin '$Bin';
 use Log::ger;
 use Log::ger::App;
 
+# first version defaults to latest archive
 {
-    my $archived_pm_dir = [sort(glob "$Bin/../archive/*")]->[-1] . "/lib";
-    local @INC = ($archived_pm_dir, @INC);
+    my $dir = $ARGV[0] // [sort(glob "$Bin/../archive/*")]->[-1] . "/lib";
+    local @INC = ($dir, @INC);
     require CryptoCurrency::Catalog;
-    log_warn("Loading CryptoCurrency::Catalog version %s", $CryptoCurrency::Catalog::VERSION);
+    log_warn("Loading CryptoCurrency::Catalog version %s", ($CryptoCurrency::Catalog::VERSION // 'dev'));
     log_debug("%%INC = %s", \%INC);
-    die "Didn't load the desired last archived version" unless $INC{"CryptoCurrency/Catalog.pm"} eq "$archived_pm_dir/CryptoCurrency/Catalog.pm";
+    die "Didn't load the desired first version" unless $INC{"CryptoCurrency/Catalog.pm"} eq "$dir/CryptoCurrency/Catalog.pm";
 }
 
 my $cat;
@@ -22,20 +23,22 @@ $cat = CryptoCurrency::Catalog->new;
 my @old_data = $cat->all_data;
 
 delete $INC{"CryptoCurrency/Catalog.pm"};
+undef $CryptoCurrency::Catalog::VERSION;
+
 {
-    local @INC = ("$Bin/../lib", @INC);
+    my $dir = $ARGV[1] // "$Bin/../lib";
+    local @INC = ($dir, @INC);
     require CryptoCurrency::Catalog;
-    undef $CryptoCurrency::Catalog::VERSION;
     log_warn("Loading CryptoCurrency::Catalog version %s", ($CryptoCurrency::Catalog::VERSION // 'dev'));
     log_debug("%%INC = %s", \%INC);
-    die "Didn't load the desired dev version" unless $INC{"CryptoCurrency/Catalog.pm"} eq "$Bin/../lib/CryptoCurrency/Catalog.pm";
+    die "Didn't load the desired second version" unless $INC{"CryptoCurrency/Catalog.pm"} eq "$dir/CryptoCurrency/Catalog.pm";
 }
 
 $cat = CryptoCurrency::Catalog->new;
 my @new_data = $cat->all_data;
 
 # convert old key name
-for (@old_data) {
+for (@old_data, @new_data) {
     if (!exists($_->{code})) { $_->{code} = $_->{symbol} }
 }
 

@@ -10,14 +10,14 @@ use Data::Dump;
 
 my $catalog_path = "$Bin/../devdata/catalog.csv";
 
-my %symbol_change; # key = safename
-LOAD_SYMBOL_CHANGE: {
-    open my $fh, "<", "$Bin/../devdata/symbol-change.csv" or die;
+my %code_change; # key = safename
+LOAD_CODE_CHANGE: {
+    open my $fh, "<", "$Bin/../devdata/code-change.csv" or die;
     <$fh>;
     while (defined(my $line = <$fh>)) {
         chomp $line;
         my @ff = split /\t/, $line;
-        $symbol_change{$ff[0]} = $ff[1];
+        $code_change{$ff[0]} = $ff[1];
     }
 }
 
@@ -33,7 +33,7 @@ LOAD_COMPLETION: {
 }
 
 my @scrape_result;
-my %by_symbol;
+my %by_code;
 my %by_safename;
 my %by_name;
 my %by_name_lc;
@@ -43,10 +43,10 @@ LOAD_SCRAPE_RESULT: {
     while (defined(my $line = <$fh>)) {
         chomp $line;
         my @ff = split /\t/, $line;
-        my ($symbol, $name, $safename) = @ff;
+        my ($code, $name, $safename) = @ff;
 
-        if ($symbol_change{$safename}) {
-            $symbol = $symbol_change{$safename};
+        if ($code_change{$safename}) {
+            $code = $code_change{$safename};
         }
 
         if ($completion{$safename}) {
@@ -57,16 +57,16 @@ LOAD_SCRAPE_RESULT: {
 
         $name =~ /\.\.\./ and die "Name '$name' still contains ellipsis";
 
-        $by_symbol{$symbol} and die "Duplicate symbol $symbol";
-        $by_symbol{$symbol} = {name => $name, safename => $safename};
+        $by_code{$code} and die "Duplicate code $code";
+        $by_code{$code} = {name => $name, safename => $safename};
 
         $by_name_lc{lc $name}++ and die "Duplicate name $name";
-        $by_name{$name} = {safename => $safename, symbol => $symbol};
+        $by_name{$name} = {safename => $safename, code => $code};
 
         $by_safename{$safename} and die "Duplicate safename $safename";
-        $by_safename{$safename} = {name => $name, symbol => $symbol};
+        $by_safename{$safename} = {name => $name, code => $code};
 
-        push @scrape_result, [$symbol, $name, $safename];
+        push @scrape_result, [$code, $name, $safename];
     }
 }
 

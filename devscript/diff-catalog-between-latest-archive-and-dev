@@ -34,6 +34,11 @@ delete $INC{"CryptoCurrency/Catalog.pm"};
 $cat = CryptoCurrency::Catalog->new;
 my @new_data = $cat->all_data;
 
+# convert old key name
+for (@new_data) {
+    if (!exists($_->{code})) { $_->{code} = $_->{symbol} }
+}
+
 #use Data::Dump;
 #dd \@old_data;
 #dd \@new_data;
@@ -54,7 +59,7 @@ say "${indent}- New coins:";
 for my $n (sort keys %new_safenames) {
     next if $old_safenames{$n};
     my $e = $new_safenames{$n};
-    say "${indent}  + $e->{name} ($e->{symbol})";
+    say "${indent}  + $e->{name} ($e->{code})";
 }
 say "";
 
@@ -62,7 +67,7 @@ say "${indent}- Removed coins:";
 for my $n (sort keys %old_safenames) {
     next if $new_safenames{$n};
     my $e = $old_safenames{$n};
-    say "${indent}  + $e->{name} ($e->{symbol})";
+    say "${indent}  + $e->{name} ($e->{code})";
 }
 say "";
 
@@ -75,11 +80,11 @@ for my $n (sort keys %new_safenames) {
     if ($e1->{name} ne $e2->{name}) {
         push @chgs, "changed name from $e1->{name}";
     }
-    if ($e1->{symbol} ne $e2->{symbol}) {
-        push @chgs, "changed symbol from $e1->{symbol}";
+    if ($e1->{code} ne $e2->{code}) {
+        push @chgs, "changed code from $e1->{code}";
     }
     next unless @chgs;
-    say "${indent}  + $e2->{name} ($e2->{symbol}) ".join(", ", @chgs);
+    say "${indent}  + $e2->{name} ($e2->{code}) ".join(", ", @chgs);
 }
 say "";
 

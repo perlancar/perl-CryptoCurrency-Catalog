@@ -1,4 +1,5 @@
 $$$	Money	money
+$PAC	PACcoin	paccoin
 1337	Elite	1337coin
 1ST	FirstBlood	firstblood
 2GIVE	2GIVE	2give
@@ -114,6 +115,7 @@ BAS	BitAsean	bitasean
 BASH	LuckChain	luckchain
 BAT	Basic Attention Token	basic-attention-token
 BATCOIN	BatCoin	batcoin
+BAX	BABB	babb
 BAY	BitBay	bitbay
 BBP	BiblePay	biblepay
 BBR	Boolberry	boolberry
@@ -214,6 +216,7 @@ BTC	Bitcoin	bitcoin
 BTCA	Bitair	bitair
 BTCD	BitcoinDark	bitcoindark
 BTCM	BTCMoon	btcmoon
+BTCP	Bitcoin Private	bitcoin-private
 BTCR	Bitcurrency	bitcurrency
 BTCRED	Bitcoin Red	bitcoin-red
 BTCS	Bitcoin Scrypt	bitcoin-scrypt
@@ -279,6 +282,7 @@ CHC	ChainCoin	chaincoin
 CHEAP	Cheapcoin	cheapcoin
 CHESS	ChessCoin	chesscoin
 CHIPS	CHIPS	chips
+CHP	CoinPoker	coinpoker
 CHSB	SwissBorg	swissborg
 CJ	Cryptojacks	cryptojacks
 CL	Coinlancer	coinlancer
@@ -357,6 +361,7 @@ DASH	Dash	dash
 DASHS	Dashs	dashs
 DAT	Datum	datum
 DATA	Streamr DATAcoin	streamr-datacoin
+DATX	DATx	datx
 DAV	DavorCoin	davorcoin
 DAXX	DaxxCoin	daxxcoin
 DAY	Chronologic	chronologic
@@ -459,6 +464,7 @@ EL	Elcoin	elcoin-el
 ELA	Elastos	elastos
 ELC	Elacoin	elacoin
 ELE	Elementrem	elementrem
+ELEC	Electrify.Asia	electrifyasia
 ELF	aelf	aelf
 ELITE	Ethereum Lite	ethereum-lite
 ELIX	Elixir	elixir
@@ -605,6 +611,7 @@ GPL	Gold Pressed Latinum	gold-pressed-latinum
 GPU	GPU Coin	gpu-coin
 GRC	GridCoin	gridcoin
 GRE	Greencoin	greencoin
+GRFT	Graft	graft
 GRID	Grid+	grid
 GRIM	Grimcoin	grimcoin
 GRLC	Garlicoin	garlicoin
@@ -724,6 +731,7 @@ IVZ	InvisibleCoin	invisiblecoin
 IXC	Ixcoin	ixcoin
 IXT	iXledger	ixledger
 J	Joincoin	joincoin
+J8T	JET8	jet8
 JC	Jesus Coin	jesus-coin
 JET	Jetcoin	jetcoin
 JEW	Shekel	shekel
@@ -956,6 +964,7 @@ OMG	OmiseGO	omisego
 OMNI	Omni	omni
 ONG	onG.social	ongsocial
 ONION	DeepOnion	deeponion
+ONT	Ontology	ontology
 ONX	Onix	onix
 OP	Operand	operand
 OPAL	Opal	opal
@@ -973,7 +982,6 @@ OTX	Octanox	octanox
 OX	OX Fina	ox-fina
 OXY	Oxycoin	oxycoin
 P7C	P7Coin	p7coin
-PAC	PACcoin	paccoin
 PAK	Pakcoin	pakcoin
 PARETO	Pareto Network	pareto-network
 PART	Particl	particl
@@ -1136,8 +1144,8 @@ RUFF	Ruff	ruff
 RUNNERS	Runners	runners
 RUP	Rupee	rupee
 RUPX	Rupaya	rupaya
-RUPXOLD	Rupaya [OLD]	rupaya-old
 RUSTBITS	Rustbits	rustbits
+RVN	Ravencoin	ravencoin
 RVT	Rivetz	rivetz
 RYZ	ANRYZE	anryze
 SAC	SACoin	sacoin
@@ -1147,6 +1155,7 @@ SAK	Sharkcoin	sharkcoin
 SALT	SALT	salt
 SAN	Santiment Network Token	santiment
 SANDG	Save and Gain	save-and-gain
+SAY	SpherePay	spherepay
 SBC	StrikeBitClub	strikebitclub
 SBD	Steem Dollars	steem-dollars
 SBTC	Super Bitcoin	super-bitcoin
@@ -1172,6 +1181,7 @@ SHA	SHACoin	shacoin
 SHDW	Shadow Token	shadow-token
 SHELL	ShellCoin	shellcoin
 SHIFT	Shift	shift
+SHIP	ShipChain	shipchain
 SHND	StrongHands	stronghands
 SHORTY	Shorty	shorty
 SHOW	Show	show
@@ -1282,9 +1292,11 @@ TEAM	TeamUp	teamup
 TEK	TEKcoin	tekcoin
 TEL	Telcoin	telcoin
 TELL	Tellurion	tellurion
+TEN	Tokenomy	tokenomy
 TER	TerraNova	terranova
 TES	TeslaCoin	teslacoin
 TESLA	TeslaCoilCoin	teslacoilcoin
+TFD	TE-FOOD	te-food
 TFL	TrueFlip	trueflip
 TGC	Tigercoin	tigercoin
 TGT	Target Coin	target-coin
@@ -1312,6 +1324,7 @@ TODAY	TodayCoin	todaycoin
 TOK	Tokugawa	tokugawa
 TOKC	TOKYO	tokyo
 TOKEN	SwapToken	swaptoken
+TOMO	TomoChain	tomochain
 TOP	TopCoin	topcoin
 TOPAZ	Topaz Coin	topaz
 TOPC	TopChain	topchain

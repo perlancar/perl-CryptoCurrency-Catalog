@@ -1,0 +1,537 @@
+20180312  2018-03-12 (PERLANCAR)
+
+          - New coins:
+            + Ammo Reloaded (AMMO)
+            + Astro (ASTRO)
+            + BABB (BAX)
+            + Bee Token (BEE)
+            + Bitcoin Private (BTCP)
+            + BitWhite (BTW)
+            + Blox (CDT)
+            + CoinPoker (CHP)
+            + Credits (CS)
+            + Cube (AUTO)
+            + DATx (DATX)
+            + Education Ecosystem (LEDU)
+            + Electrify.Asia (ELEC)
+            + EZToken (EZT)
+            + Graft (GRFT)
+            + GXChain (GXS)
+            + HOQU (HQX)
+            + IHT Real Estate Protocol (IHT)
+            + Insights Network (INSTAR)
+            + Interplanetary Broadcast Coin (IPBC)
+            + JET8 (J8T)
+            + Lympo (LYM)
+            + Network Token (NTWK)
+            + Ontology (ONT)
+            + Ravencoin (RVN)
+            + Refereum (RFR)
+            + Sether (SETH)
+            + ShipChain (SHIP)
+            + SpherePay (SAY)
+            + StarterCoin (STAC)
+            + TE-FOOD (TFD)
+            + Tokenomy (TEN)
+            + TomoChain (TOMO)
+            + True USD (TUSD)
+
+          - Removed coins:
+            + Ammo Reloaded (AMMO)
+            + Bitcoin White (BTW)
+            + CoinDash (CDT)
+            + GXShares (GXS)
+            + Rupaya [OLD] (RUPXOLD)
+
+          - Changed coins:
+            + COPYTRACK (CPY) changed name from Copytrack
+            + NavCoin (NAV) changed name from NAV Coin
+            + PACcoin ($PAC) changed code from PAC
+
+          - Total coins now 1556 (from 1527)
+
+
+20180308.1.0  2018-03-08 (PERLANCAR)
+
+          - No functional changes.
+
+          - Fix Changes.
+
+
+20180308  2018-03-08 (PERLANCAR)
+
+          - [Incompatible change] Rename 'symbol' to 'code', this applies to
+            method names (by_symbol -> by_code) as well as key returned (symbol
+            suggests special character like '$', etc)
+
+          - Update to CMC 2018-03-08 (no new/removed/changed coins).
+
+
+20180301  2018-03-01 (PERLANCAR)
+
+          - Update to CMC 2018-03-01.
+
+          - New coins:
+            + ACChain (ACCHAIN)
+            + Alphacat (ACAT)
+            + Animation Vision Cash (AVH)
+            + Arcblock (ABT)
+            + BatCoin (BATCOIN)
+            + Bezop (BEZ)
+            + BioCoin (BIO)
+            + MUSE (MUSE)
+            + Bitswift (SWIFT)
+            + BoostCoin (BOST)
+            + Cashaa (CAS)
+            + Copytrack (CPY)
+            + DADI (DADI)
+            + Datacoin (DTC)
+            + Dether (DTH)
+            + Envion (EVN)
+            + Etherecash (ECH)
+            + Experty (EXY)
+            + Fusion (FSN)
+            + Gems  (GEM)
+            + GeoCoin (GEO)
+            + GET Protocol (GET)
+            + Gladius Token (GLA)
+            + Peerguess (GUESS)
+            + Hi Mutual Society (HIMUTUAL)
+            + Hive Project (HVN)
+            + Indicoin (INDI)
+            + Ink Protocol (XNK)
+            + Jesus Coin (JC)
+            + Karbo (KRB)
+            + LeafCoin (LEAF)
+            + Levocoin (LEVO)
+            + Litecoin Cash (LCC)
+            + LOCIcoin (LOCI)
+            + Manna (MANNA)
+            + MktCoin (MLM)
+            + Nano (NANO)
+            + Neurotoken (NTK)
+            + Nucleus Vision (NCASH)
+            + OCOW (OCOW)
+            + POA Network (POA)
+            + Polcoin (POLCOIN)
+            + Remme (REM)
+            + Republic Protocol (REN)
+            + Restart Energy MWAT (MWAT)
+            + Rock (RKT)
+            + RoyalCoin (ROYAL)
+            + Shekel (JEW)
+            + SJWCoin (SJW)
+            + Slothcoin (SLOTH)
+            + Smoke (SMOKE)
+            + Sociall (SCL)
+            + Superior Coin (SUP)
+            + SureRemit (RMT)
+            + SwapToken (TOKEN)
+            + Tidex Token (TDX)
+            + Ties.DB (TIE)
+            + Tigereum (TIG)
+            + Uniform Fiscal Object (UFO)
+            + Universa (UTNP)
+            + W3Coin (W3C)
+            + Waltonchain (WTC)
+            + XPA (XPA)
+            + YashCoin (YASH)
+
+          - Removed coins:
+            + 10M Token (10MT)
+            + Adelphoi (ADL)
+            + AppleCoin (APW)
+            + Astro (ASTRO)
+            + BCAP (BCAP)
+            + Bitcoin Lightning (BTCL)
+            + Bitcoin Silver (BTCSILVER)
+            + Bitcoin2x (BTC2X)
+            + Blockchain Index (BLX)
+            + BTSR (BTSR)
+            + Cash Poker Pro (CASHPOKERPRO)
+            + Corethum (CRTM)
+            + CybCSec (XCS)
+            + Decentralized Universal Basic Income (DUBI)
+            + eBIT (EBIT)
+            + eLTC (ELTC2)
+            + eREAL (EREAL)
+            + EtherDelta Token (EDT)
+            + ETHGAS (EGAS)
+            + eUSD (EUSD)
+            + Faceblock (FBL)
+            + Facecoin (FC)
+            + Gimli (GIM)
+            + GET Protocol (GET)
+            + Health Mutual Society (HMSC)
+            + Hive (HVN)
+            + Hyper TV (HYTV)
+            + iBTC (IBTC)
+            + Infinity Pay (IPY)
+            + Janus (JNS)
+            + Jinn (JINN)
+            + Karbo (KRB)
+            + LiteCoin Gold (LTG)
+            + Network Token (NTWK)
+            + Nimfamoney (NIMFA)
+            + Paypex (PAYX)
+            + Peacecoin (PEC)
+            + PeopleCoin (MEN)
+            + Nano (XRB)
+            + Rasputin Online Coin (ROC)
+            + Smart Investment Fund Token (SIFT)
+            + SmartBillions (SMARTBILLIONS)
+            + Social (SCL)
+            + Swapcoin (SWP)
+            + TeraCoin (TERA)
+            + TIES Network (TIE)
+            + UAHPay (UAHPAY)
+            + UFO Coin (UFO)
+            + UtaCoin (UTA)
+            + Walton (WTC)
+            + XDE II (XDE2)
+            + XPlay (XPA)
+            + Yellow Token (YEL)
+
+          - Changed coins:
+            + B2BX (B2B) changed name from B2B
+            + ERA (ERA) changed name from BlakeStar, changed symbol from BLAS
+            + LATOKEN (LA) changed name from LAToken
+            + Polymath (POLY) changed name from Polymath Network
+
+          - Total coins now 1527 (from 1516)
+
+
+20180210  2018-02-10 (PERLANCAR)
+
+          - Update to CMC 2018-02-10.
+
+          - New coins:
+            + adbank (ADB)
+            + BlazeCoin (BLAZE)
+            + Bluzelle (BLZ)
+            + CargoX (CXO)
+            + Datawallet (DXT)
+            + DMarket (DMT)
+            + DRP Utility (DRPU)
+            + Elastos (ELA)
+            + EtherSportz (ESZ)
+            + GanjaCoin (MRJA)
+            + GoldMint (MNTP)
+            + GrandCoin (GDC)
+            + Huobi Token (HT)
+            + Iungo (ING)
+            + Jibrel Network (JNT)
+            + KlondikeCoin (KDC)
+            + Medicalchain (MTN)
+            + Monero Gold (XMRG)
+            + Pareto Network (PARETO)
+            + Polymath Network (POLY)
+            + Sense (SENSE)
+            + SportyCo (SPF)
+            + STK (STK)
+            + Swarm (SWM)
+            + SwissBorg (CHSB)
+            + THEKEY (TKY)
+            + Travelflex (TRF)
+            + U.CASH (UCASH)
+            + WePower (WPR)
+            + Zilla (ZLA)
+
+          - Removed coins:
+            + BeaverCoin (BVC)
+            + BT1 [CST] (BT1)
+            + BurstOcean (OCEAN)
+            + Casino (CASINO)
+            + CBD Crystals (CBD)
+            + CryptCoin (CRYPT)
+            + FlavorCoin (FLVR)
+            + GameBet Coin (GBT)
+            + GoldUnionCoin (GUC)
+            + Grantcoin (GRT)
+            + Peerguess (GUESS)
+            + Leek Coin (LEEK)
+            + Lex4All (LEX)
+            + OCOW (OCOW)
+            + RoyalCoin (ROYAL)
+            + Sling (SLING)
+            + SportyFi (SPF)
+            + Stress (STS)
+            + WMCoin (WMC)
+            + YashCoin (YASH)
+
+          - Changed coins:
+            + MAZA (MZC) changed name from MazaCoin
+            + Nano (XRB) changed name from RaiBlocks
+
+          - Total coins now 1516 (from 1506)
+
+
+20180131  2018-01-31 (PERLANCAR)
+
+          - [ux] Make by_name() case-insensitive.
+
+          - Update to CMC 2018-01-31.
+
+          - New coins:
+            + All Sports (SOC)
+            + Bitcoin White (BTW)
+            + Blackmoon (BMC)
+            + Candy (CANDY)
+            + CoinFi (COFI)
+            + CoinMeet (MEE)
+            + CPChain (CPCHAIN)
+            + Electronic PK Chain (EPC)
+            + Equal (EQL)
+            + Fortuna (FOTA)
+            + Garlicoin (GRLC)
+            + GCN Coin (GCN)
+            + HalalChain (HLC)
+            + Health Mutual Society (HMSC)
+            + Matrix AI Network (MAN)
+            + Nework (NKC)
+            + OceanChain (OC)
+            + Photon (PHO)
+            + Pundi X (PXS)
+            + Royalties (XRY)
+            + Ruff (RUFF)
+            + Smartlands (SLT)
+            + Speed Mining Service (SMS)
+            + ValueChain (VLC)
+            + Zeepin (ZPT)
+            + Zilliqa (ZIL)
+
+          - Removed coins:
+            + Arcade Token (ARCADE)
+            + Blackmoon (BMC)
+            + CorgiCoin (CORG)
+            + DimonCoin (FUDD)
+            + GCN Coin (GCN)
+            + GeoCoin (GEO)
+            + Global Business Revolution (GBRC)
+            + KemCredit (KMC)
+            + Mavro (MAVRO)
+            + Purpose (PRPS)
+            + USDe (USDE)
+
+          - Changed coins:
+            + Elite (1337) changed name from 1337
+            + SONO (ALTCOM) changed name from AltCommunity Coin
+            + Bitcoin Atom (BCA) changed name from Bitcoin Atom [Futures]
+            + Peerguess (GUESS) changed name from GUESS
+
+          - Total coins now 1506 (from 1491)
+
+
+20180125  2018-01-25 (PERLANCAR)
+
+          - Update to CMC 2018-01-25.
+
+          - New coins:
+            + Acute Angle Cloud (AAC)
+            + AidCoin (AID)
+            + ArbitrageCT (ARCT)
+            + Aurora DAO (AURA)
+            + aXpire (AXP)
+            + Bitcoin Lightning (BTCL)
+            + Block Array (ARY)
+            + Blockport (BPT)
+            + CRYPTO20 (C20)
+            + carVertical (CV)
+            + CasinoCoin (CSC)
+            + ChatCoin (CHAT)
+            + Covesting (COV)
+            + Crypterium (CRPT)
+            + DATA (DTA)
+            + Decentralized Universal Basic Income (DUBI)
+            + Devery (EVE)
+            + EDUCare (EKT)
+            + Ethorse (HORSE)
+            + Galactrum (ORE)
+            + Gatcoin (GAT)
+            + GUESS (GUESS)
+            + Harvest Masternode Coin (HC)
+            + Hydro Protocol (HOT)
+            + IDEX Membership (IDXM)
+            + indaHash (IDH)
+            + InsurePal (IPL)
+            + IPChain (IPC)
+            + Jiyo (JIYO)
+            + LightChain (LIGHT)
+            + LinkEye (LET)
+            + Maggie (MAGGIE)
+            + Maverick Chain (MVC)
+            + Mobius (MOBI)
+            + Molecular Future (MOF)
+            + Nitro (NOX)
+            + Odyssey (OCN)
+            + OFCOIN (OF)
+            + OriginTrail (TRAC)
+            + Oyster (PRL)
+            + PressOne (PRS)
+            + Profile Utility Token (PUTOKEN)
+            + Purpose (PRPS)
+            + Qbic (QBIC)
+            + Read (READ)
+            + RealChain (RCT)
+            + RefToken (REF)
+            + Scry.info (DDD)
+            + SelfSell (SSC)
+            + ShareX (SEXC)
+            + SingularityNET (AGI)
+            + SpaceChain (SPC)
+            + Sparks (SPK)
+            + StarChain (STC)
+            + Theta Token (THETA)
+            + TimesCoin (TMC)
+            + Titanium Blockchain (BAR)
+            + Tokenbox (TBX)
+            + Trinity Network Credit (TNC)
+            + True Chain (TRUE)
+            + UnlimitedIP (UIP)
+            + Yee (YEE)
+
+          - Removed coins:
+            + 9COIN (9COIN)
+            + BatCoin (BATCOIN)
+            + Bitswift (SWIFT)
+            + BlazeCoin (BLZ)
+            + BoostCoin (BOST)
+            + E4ROW (E4ROW)
+            + Frazcoin (FRAZ)
+            + GanjaCoin (MRJA)
+            + Interzone (ITZ)
+            + LottoCoin (LOT)
+            + MorningStar (MRNG)
+            + MTMGaming (MTM)
+            + Mutual Coin (MUT)
+            + Oyster (PRL)
+            + Photon (PHO)
+            + Qibuck Asset (QBK)
+            + Royalties (XRY)
+            + Santa Coin (STC)
+            + SwapToken (TOKEN)
+            + The Cypherfunks (FUNK)
+            + XYLO (XYLO)
+
+          - Changed coins:
+            + B3Coin (KB3) changed symbol from B3
+            + Blackmoon (BMC) changed name from Blackmoon Crypto
+            + Game.com (GAME2) changed name from Game
+            + GCN Coin (GCN) changed name from GCoin
+            + Presearch (PRE) changed symbol from PRS
+
+          - Total coins now 1491 (from 1450)
+
+
+20180116  2018-01-16 (PERLANCAR)
+
+          - Update to CMC 2018-01-16.
+
+          - New coins:
+            + AICHAIN (AIT)
+            + AI Doctor (AIDOC)
+            + Aigang (AIX)
+            + ATN (ATN)
+            + AWARE (AWR)
+            + Bankex (BKX)
+            + Bean Cash (BITB)
+            + Bitcoin Atom [Futures] (BCA)
+            + Bitcoin God (GOD)
+            + BitDegree (BDG)
+            + Bloom (BLT)
+            + Bottos (BTO)
+            + CFun (CFUN)
+            + Cloud (CLD)
+            + CoffeeCoin (CFC)
+            + Coinlancer (CL)
+            + Commodity Ad Network (CDX)
+            + Content and AD Network (CANETWORK)
+            + CryptopiaFeeShares (CEFS)
+            + EchoLink (EKO)
+            + EtherDelta Token (EDT)
+            + FairGame (FAIRGAME)
+            + GameChain System (GCS)
+            + Global Jobcoin (GJC)
+            + GET Protocol (GET)
+            + Hacken (HKN)
+            + Hackspace Capital (HAC)
+            + High Performance Blockchain (HPB)
+            + Ignition (IC)
+            + INS Ecosystem (INS)
+            + Internet Node Token (INT)
+            + InvestDigital (IDT)
+            + IOStoken (IOST)
+            + Jingtum Tech (SWTC)
+            + Karma (KRM)
+            + Kcash (KCASH)
+            + KemCredit (KMC)
+            + Kzcash (KZC)
+            + Leek Coin (LEEK)
+            + LendConnect (LCT)
+            + Leverj (LEV)
+            + Measurable Data Token (MDT)
+            + Mixin (MIXIN)
+            + MOAC (MOAC)
+            + Nimfamoney (NIMFA)
+            + Numus (NMS)
+            + NumusCash (NUMUS)
+            + OneRoot Network (RNT)
+            + OP Coin (OPC)
+            + Polis (POLIS)
+            + Qube (QUBE)
+            + QunQun (QUN)
+            + Rebellious (REBL)
+            + Selfkey (KEY)
+            + Show (SHOW)
+            + Spectre.ai Dividend Token (SXDT)
+            + Spectre.ai Utility (SXUT)
+            + Steneum Coin (STN)
+            + SwftCoin (SWFTC)
+            + Swisscoin (SIC)
+            + Telcoin (TEL)
+            + TokenClub (TCT)
+            + TOKYO (TOKC)
+            + TopChain (TOPC)
+            + Trade Token (TIO)
+            + ugChain (UGC)
+            + United Traders Token (UTT)
+            + Vezt (VZT)
+            + WaykiChain (WAYKI)
+            + WETH (WETH)
+            + Zap (ZAP)
+
+          - Removed coins:
+            + BitBean (BITB)
+            + Bitcoin Unlimited (BTU)
+            + Bongger (BGR)
+            + CasinoCoin (CSC)
+            + EmberCoin (EMB)
+            + Kittehcoin (MEOW)
+            + QCash (QC)
+            + Wyvern (WYV)
+
+          - Changed coins:
+            + BitcoinX (BCX) changed name from BitcoinX [Futures]
+            + ChanCoin (CHAN) changed symbol from 4CHN
+            + MediBloc (MED) changed name from Medibloc
+            + Oyster (PRL) changed name from Oyster Pearl
+            + Presearch (PRS) changed symbol from PRE
+            + SegWit2x (B2X) changed name from Segwit2x [Futures]
+            + Simple Token (OST) changed symbol from ST
+
+          - Total coins now 1450 (from 1387)
+
+
+20180109  2018-01-09 (PERLANCAR)
+
+	  - Update to CMC 2018-01-09 (new coins: AppCoins (APPC), CanYaCoin
+	    (CAN), Lamden (TAU)).
+
+	  - Sort catalog asciibetically for easier diff when updating.
+
+	  - [doc] Mention CryptoExchange::Catalog.
+
+
+20180106   2018-01-06 (PERLANCAR)
+
+        - First release.

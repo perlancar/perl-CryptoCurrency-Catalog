@@ -25,7 +25,7 @@ my $content;
 my @res;
 
 push @res, "code\tname\tsafename\n";
-while ($content =~ m!<tr id="id-(?<safename>[\w-]+)"[^>]*>.+?<a class="[^"]*?currency-name-container"[^>]*>(?<name>[^<]+)</a>.+?<td class="[^"]*?col-symbol">(?<symbol>[^<]+)<!gs) {
+while ($content =~ m!<tr id="id-(?<safename>[\w-]+)"[^>]*>.+?<a class="[^"]*?currency-name-container[^"]*"[^>]*>(?<name>[^<]+)</a>.+?<td class="[^"]*?col-symbol">(?<symbol>[^<]+)<!gs) {
     push @res, "$+{symbol}\t$+{name}\t$+{safename}\n";
 }
 

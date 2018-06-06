@@ -1,0 +1,39 @@
+* Updating data
+
+1. Run the devscript/update script. This will download a new devdoc/cmc.html
+   (unless it's recent enough, <1d old). It will then parse (read: scrape) the
+   HTML into devdata/scrape-result.csv. And finally it will produce
+   devdata/catalog.csv.
+
+   When producing catalog.csv, some things might fail. First of all there might
+   be duplicate currency code (CMC allows this, only safename/slug is unique in
+   CMC, while we don't allow duplicate codes). Thus, when duplicate occurs, we
+   change the offending duplicate's currency to have new code. The mapping is
+   maintained manually at devdata/code-change.csv. Note that the file has
+   literal Tab characters. So when duplicate occurs, provide a mapping of the
+   lesser (in terms of newer, smaller market cap) duplicate to a new code. Code
+   should be short (<10 characters if possible, only letters if possible).
+
+   Another reason it might fail is there's still currency with incomplete name
+   (contains ellipsis). The download script only downloads the single-page HTML
+   page from CMC where the names might have ellipsis in them if they are too
+   long. The complete name must be looked up from individual currency page,
+   which is not downloaded for speed reason. To provide the complete name of
+   currencies manually, edit the devdata/completion.csv. Also note that this
+   file has literal Tab characters in it.
+
+   After editing, run the devscript/update script again until it finds no error
+   and produces devdata/catalog.csv.
+
+2. Replace the content of the __DATA__ section of lib/CryptoCurrency/Catalog.pm
+   with the content of devdata/catalog.csv.
+
+3. That's it. Commit the change.
+
+4. If you release the new version, don't forget to add the version to the
+   archive/ and commit it. The archive is used for purposes mentioned below.
+
+4. To produce a Changes entry, run the
+   devscript/diff-catalog-between-two-versions. This will by default load the
+   lib/ version and the newest archive/ version then compare the two and produce
+   a formatted Changes entry.

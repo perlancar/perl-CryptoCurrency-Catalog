@@ -57,6 +57,17 @@ LOAD_CODE_CHANGE: {
     }
 }
 
+my %name_change; # key = safename
+LOAD_NAME_CHANGE: {
+    open my $fh, "<", "$Bin/../devdata/name-change.csv" or die;
+    <$fh>;
+    while (defined(my $line = <$fh>)) {
+        chomp $line;
+        my @ff = split /\t/, $line;
+        $name_change{$ff[0]} = $ff[1];
+    }
+}
+
 my %completion; # key = incomplete name or safename
 LOAD_COMPLETION: {
     open my $fh, "<", "$Bin/../devdata/completion.csv" or die;
@@ -73,6 +84,8 @@ my %by_code;
 my %by_safename;
 my %by_name;
 my %by_name_lc;
+my $has_dup_name;
+my $has_dup_code;
 LOAD_SCRAPE_RESULT: {
     open my $fh, "<", "$Bin/../devdata/scrape-result.csv" or die;
     <$fh>;
@@ -83,6 +96,10 @@ LOAD_SCRAPE_RESULT: {
 
         if ($code_change{$safename}) {
             $code = $code_change{$safename};
+        }
+
+        if ($name_change{$safename}) {
+            $name = $name_change{$safename};
         }
 
         if ($completion{$safename}) {
@@ -98,10 +115,10 @@ LOAD_SCRAPE_RESULT: {
 
         $name =~ /\.\.\./ and die "Name '$name' still contains ellipsis";
 
-        $by_code{$code} and die "Duplicate code $code";
+        $by_code{$code} and do { warn "Duplicate code $code\n"; $has_dup_code++; next };
         $by_code{$code} = {name => $name, safename => $safename};
 
-        $by_name_lc{lc $name}++ and die "Duplicate name $name";
+        $by_name_lc{lc $name}++ and do { warn "Duplicate name $name\n"; $has_dup_name++; next };
         $by_name{$name} = {safename => $safename, code => $code};
 
         $by_safename{$safename} and die "Duplicate safename $safename";
@@ -110,6 +127,8 @@ LOAD_SCRAPE_RESULT: {
         push @scrape_result, [$code, $name, $safename];
     }
 }
+
+die if $has_dup_name || $has_dup_code;
 
 @scrape_result = sort {$a->[0] cmp $b->[0]} @scrape_result;
 write_text($catalog_path, join("", map {join("\t", @$_)."\n"} @scrape_result));

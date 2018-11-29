@@ -4,11 +4,47 @@ use 5.010001;
 use strict;
 use warnings;
 use FindBin '$Bin';
+use Log::ger;
+use Log::ger::App;
 
-use File::Slurper qw(write_text);
 use Data::Dump;
+use File::Slurper qw(write_text);
+use HTTP::Tiny;
 
 my $catalog_path = "$Bin/../devdata/catalog.csv";
+
+sub _find_coin_name {
+    my $safename = shift;
+
+    my $fpath = "$Bin/../devdata/safename2name.csv";
+    my %names;
+    open my $fh, "<", $fpath or die;
+    <$fh>;
+    while (defined(my $line = <$fh>)) {
+        chomp $line;
+        my @ff = split /\t/, $line;
+        $names{$ff[0]} = $ff[1];
+    }
+    close $fh;
+
+    return $names{$safename} if $names{$safename};
+    my $url = "https://coinmarketcap.com/currencies/$safename";
+    my $res = HTTP::Tiny->new->get($url);
+    if (!$res->{success}) {
+        log_warn "Couldn't get $url: $res->{status} - $res->{reason}";
+        return;
+    }
+    if ($res->{content} =~ /<title>(.+?) \([^)]+\) price/ ||
+            $res->{content} =~ /^\s*"name": "(.+?)"/m) {
+        open $fh, ">>", $fpath or die;
+        print $fh "$safename\t$1\n";
+        close $fh;
+        return $1;
+    } else {
+        log_warn "Couldn't extract coin name from $url";
+        return;
+    }
+}
 
 my %code_change; # key = safename
 LOAD_CODE_CHANGE: {
@@ -53,6 +89,11 @@ LOAD_SCRAPE_RESULT: {
             $name = $completion{$safename};
         } elsif ($completion{$name}) {
             $name = $completion{$name};
+        }
+
+        if ($name =~ /\.\.\./) {
+            my $name2 = _find_coin_name($safename);
+            $name = $name2 if $name;
         }
 
         $name =~ /\.\.\./ and die "Name '$name' still contains ellipsis";

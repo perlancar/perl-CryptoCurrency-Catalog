@@ -1,1265 +1,1265 @@
-20181129.0.0  2018-11-29 (PERLANCAR)
+20181129.0.0  2018-11-29  Released-By: PERLANCAR
 
           - Update to CMC 2018-11-29.
 
           - New coins:
-            + 0chain (ZCN)
-            + 0xBitcoin (0xBTC)
-            + 0xcert (ZXC)
-            + 4NEW (KWATT)
-            + AB-Chain RTB (RTB)
-            + ABCC Token (AT)
-            + Absolute (ABS)
-            + Abulaba (AAA)
-            + AC3 (AC3)
-            + AceD (ACED)
-            + ACRE (ACRE)
-            + Actinium (ACM)
-            + Adelphoi (ADL)
-            + Adenz (DNZ)
-            + AdHive (ADH)
-            + Aditus (ADI)
-            + AdultChain (XXX)
-            + Aegeus (AEG)
-            + Agrolot (AGLT)
-            + AiLink Token (ALI)
-            + Airbloc (ABL)
-            + AirWire (WIRE)
-            + Akroma (AKA)
-            + ALAX (ALX)
-            + Alchemint Standards (SDS)
-            + Alibabacoin (ABBC)
-            + ALLCOIN (ALC)
-            + Alpha Coin (APC)
-            + Alt.Estate token (ALT)
-            + Alttex (ALTX)
-            + AMO Coin (AMO)
-            + Amon (AMN)
-            + ANON (ANON)
-            + Apex (CPX)
-            + Aphelion (APH)
-            + APIS (APIS)
-            + Apollo Currency (APL)
-            + Apollon (XAP)
-            + APOT (APOT)
-            + APR Coin (APR)
-            + Arbidex (ABX)
-            + Arbitracoin (ATC)
-            + ARBITRAGE (ARB)
-            + Archetypal Network (ACTP)
-            + Arepacoin (AREPA)
-            + Arion (ARION)
-            + Arionum (ARO)
-            + Aston (ASTON)
-            + Asura Coin (ASA)
-            + ATC Coin (ATCC)
-            + Atheios (ATH)
-            + Atidium (ATD)
-            + Atlantis Blue Digital Token (ABDT)
-            + Atlas Protocol (ATP)
-            + Atonomi (ATMI)
-            + Auctus (AUC)
-            + Aurora (AOA)
-            + Auxilium (AUX)
-            + AVINOC (AVINOC)
-            + Azart (AZART)
-            + TraDove B2BCoin (BBC)
-            + B3Coin (KB3)
-            + BaaSid (BAAS)
-            + Bank Coin (BANK)
-            + Bankera (BNK)
-            + BBSCoin (BBS)
-            + BDT Token (BDT)
-            + BEAT (BEAT)
-            + BeeKan (BKBT)
-            + Beetle Coin (BEET)
-            + Benz (BENZ)
-            + Bethereum (BETHER)
-            + BetterBetting (BETR)
-            + Bettex Coin (BTXC)
-            + Bezant (BZNT)
-            + BFFDoom (BFF)
-            + Bgogo Token (BGG)
-            + BHPCash (BHPC)
-            + Bigbom (BBO)
-            + BingoCoin (BOC)
-            + Bionic (BNC)
-            + Biotron (BTRN)
-            + Birake (BIR)
-            + BitTube (TUBE)
-            + Bit-Z Token (BZ)
-            + Bitblocks (BITBLOCKS)
-            + BitCapitalVendor (BCV)
-            + BitCoen (BEN)
-            + Bitcoin Adult (BTAD)
-            + Bitcoin File (BIFI)
-            + Bitcoin Incognito (XBI)
-            + Bitcoin Interest (BCI)
-            + BitCoin One (BTCONE)
-            + Bitcoin SV (BSV)
-            + Bitcoin Token (BTK)
-            + Bitcoin W Spectrum (BWS)
-            + Bitcoin X (BTCX)
-            + Bitcoin Zero (BZX)
-            + BitcoiNote (BTCN)
-            + Bitcoinus (BITCOINUS)
-            + Bitether (BTR)
-            + BitF (BITF)
-            + Bitibu Coin (BTB)
-            + BitKan (KAN)
-            + BitMart Token (BMX)
-            + BitMoney (BITMONEY)
-            + Bitnation (XPAT)
-            + BitNautic Token (BTNT)
-            + BitNewChain (BTN)
-            + BitRewards (BIT)
-            + BitScreener Token (BITX)
-            + Bitspace (BSX)
-            + Bitsum (BSM)
-            + Bittwatt (BWT)
-            + BitUP Token (BUT)
-            + BLAST (BLAST)
-            + BLOC.MONEY (BLOC)
-            + Block-Chain.com (BC)
-            + Blockchain Certified Data Token (BCDT)
-            + Blockchain Quotations Index Token (BQT)
-            + BlockMesh (BMH)
-            + Blocknode (BND)
-            + Blockpass (PASS)
-            + Blocktrade Token (BTT)
-            + Blue Whale Token (BWX)
-            + Bob&#39;s Repair (BOB)
-            + Bodhi [ETH] (BOE)
-            + BoutsPro (BOUTS)
-            + BOX Token (BOX)
-            + BOXX Token [Blockparty] (BOXX)
-            + BrahmaOS (BRM)
-            + Breezecoin (BRZC)
-            + Brickblock (BBK)
-            + Bridge Protocol (TOLL)
-            + BrokerNekoNetwork (BNN)
-            + Budbo (BUBO)
-            + Buggyra Coin Zero (BCZERO)
-            + BUMO (BU)
-            + BunnyToken (BUNNY)
-            + Business Credit Alliance Chain (BCAC)
-            + BZLCOIN (BZL)
-            + C2C System (C2C)
-            + Callisto Network (CLO)
-            + CapdaxToken (XCD)
-            + CARAT (CARAT)
-            + CarBlock (CAR)
-            + Carboneum [C8] Token (C8)
-            + CARDbuyers (BCARD)
-            + Cardstack (CARD)
-            + Carebit (CARE)
-            + CariNet (CIT)
-            + Carlive Chain (IOV)
-            + Cashbery Coin (CASHBERY)
-            + CashBet Coin (CBC)
-            + Castle (CSTL)
-            + CatoCoin (CATO)
-            + Cazcoin (CAZ)
-            + CEDEX Coin (CEDEX)
-            + CEEK VR (CEEK)
-            + Celsius (CEL)
-            + Centaure (CENTAURE)
-            + Cheesecoin (CHEESE)
-            + CHEX (CHEX)
-            + Citadel (CTL)
-            + Civitas (CIV)
-            + CJs (CJS)
-            + CK USD (CKUSD)
-            + Clipper Coin (CCCX)
-            + CMITCOIN (CMIT)
-            + Cobrabytes (COBRA)
-            + Coin Lion (LION)
-            + Coin2Play (C2P)
-            + CoinEx Token (CET)
-            + Coinsuper Ecosystem Network (CEN)
-            + CoinToGo (2GO)
-            + Coinvest (COIN)
-            + Colu Local Network (CLN)
-            + Commerce Data Connection (CDC)
-            + CommerceBlock (CBT)
-            + Commercium (CMM)
-            + CommunityGeneration (CGEN)
-            + Compound Coin (COMP)
-            + Concierge Coin (CCC)
-            + Condominium (CDM)
-            + Coni (CONI)
-            + ConnectJob (CJT)
-            + CanonChain (CZR)
-            + Consentium (CSM)
-            + Constellation (DAG)
-            + Content Neutrality Network (CNN)
-            + ContentBox (CONTENTBOX)
-            + ContractNet (CNET)
-            + Cortex (CTXC)
-            + Cosmo Coin (COSM)
-            + CottonCoin (COTN)
-            + Couchain (COU)
-            + Cpollo (CPLO)
-            + CREA (CREA)
-            + Credit Tag Chain (CTC)
-            + CROAT (CROAT)
-            + Cropcoin (CROP)
-            + Crowd Machine (CMCT)
-            + Crowdholding (YUP)
-            + CrowdWiz (WIZ)
-            + Cruisebit (CRBT)
-            + CryCash (CRC)
-            + CryptalDash (CRD)
-            + Cryptaur (CPT)
-            + CrypticCoin (CRYP)
-            + Crypto.com (MCO)
-            + Crypto Harbor Exchange (CHE)
-            + Crypto Improvement Fund (CIF)
-            + CryptoFlow (CFL)
-            + Cryptosolartech (CST)
-            + CryptoSoul (CRYPTOSOUL)
-            + Cryptrust (CTRT)
-            + Crystal Token (CYL)
-            + CWV Chain (CWV)
-            + Cyber Movie Chain (CMOVCT)
-            + Cybereits (CRE)
-            + CyberFM (CYFM)
-            + CyberMusic (CYMT)
-            + CyberVein (CVT)
-            + CYCLEAN (CCL)
-            + DACC (DACC)
-            + DACH Coin (DACH)
-            + DACSEE (DACS)
-            + DAEX (DAX)
-            + Daneel (DAN)
-            + DAOstack (GEN)
-            + DAPS Token (DAPS)
-            + Darico Ecosystem Coin (DEC)
-            + DarexTravel (DART)
-            + DarkPayCoin (DKPC)
-            + DasCoin (DASC)
-            + DaTa eXchange (DTX)
-            + Datarius Credit (DTRC)
-            + DAV Coin (DAV)
-            + Davinci Coin (DAC)
-            + Decentralized Asset Trading Platform (DATP)
-            + Decentralized Machine Learning (DML)
-            + DEEX (DEEX)
-            + Delizia (DELIZ)
-            + DeltaChain (DELTA)
-            + Dero (DERO)
-            + DeviantCoin (DEV)
-            + DEX (DEX)
-            + dietbitcoin (DDX)
-            + DigiFinexToken (DIGIFINEX)
-            + Digital Asset Exchange Token (DAXT)
-            + Digital Asset Guarantee Token (DAGT)
-            + Digital Insurance Token (DIT)
-            + Digitex Futures (DGTX)
-            + Digiwage (WAGE)
-            + Digix Gold Token (DGX)
-            + Dignity (DIG)
-            + Dinero (DIN)
-            + DIPNET (DPN)
-            + Distributed Credit Chain (DCC)
-            + Divi Exchange Token (DIVX)
-            + doc.com Token (MTC)
-            + Dock (DOCK)
-            + Dorado (DOR)
-            + DOWCOIN (DOW)
-            + DPRating (RATING)
-            + Dragon Token (DT)
-            + Dragonglass (DGS)
-            + DWS (DWS)
-            + DxChain Token (DX)
-            + Dystem (DTEM)
-            + EagleX (EGX)
-            + Earth Token (EARTH)
-            + EBCoin (EBC)
-            + Ecoreal Estate (ECOREAL)
-            + Eden (EDN)
-            + EduCoin (EDU)
-            + Effect.AI (EFX)
-            + Egretia (EGT)
-            + EJOY (EJOY)
-            + Eligma Token (ELI)
-            + Elliot Coin (ELLI)
-            + Elysian (ELY)
-            + EmaratCoin (AEC)
-            + empowr coin (EMPR)
-            + Endor Protocol (ENDOR)
-            + Endorsit (EDS)
-            + Energi (NRG)
-            + EnergiToken (ETK)
-            + Engagement Token (ENGT)
-            + Engine (EGCC)
-            + eosBLACK (BLACK)
-            + eosDAC (EOSDAC)
-            + EPLUS Coin (EPLUS)
-            + Eristica (ERT)
-            + Escroco Emerald (ESCE)
-            + EscrowCoin (ESCO)
-            + Esports Token (EST)
-            + Essentia (ESS)
-            + ETERNAL TOKEN (XET)
-            + Etheera (ETA)
-            + Ether-1 (ETHO)
-            + Ether Kingdoms Token (IMP)
-            + Ether Zero (ETZ)
-            + Ethereum Meta (ETHM)
-            + EtherGem (EGEM)
-            + EtherInc (ETI)
-            + Ethersocial (ESN)
-            + EUNO (EUNO)
-            + EUNOMIA (ENTS)
-            + EvenCoin (EVENCOIN)
-            + Everipedia (IQ)
-            + Evimeria (EVI)
-            + Excaliburcoin (EXCALIBUR)
-            + Eximchain (EXC)
-            + EXMR (EXMR)
-            + Experience Token (EXT)
-            + EZOOW (EZW)
-            + Fabric Token (FT)
-            + Faceter (FACE)
-            + FansTime (FTI)
-            + Fantasy Cash (FANS)
-            + FantasyGold (FGC)
-            + Fantom (FTM)
-            + FarmaTrust (FTT)
-            + FCoin Token (FCOIN)
-            + Fidelium (FID)
-            + Fintab (FNTB)
-            + FintruX Network (FTX)
-            + Fire Lotto (FLOT)
-            + Fivebalance (FBN)
-            + FLIP (FLP)
-            + FLO (FLO)
-            + FNKOS (FNKOS)
-            + FOIN (FOIN)
-            + FolmCoin (FLM)
-            + FoodCoin (FOOD)
-            + Forkcoin (FORK)
-            + Formosa Financial (FMF)
-            + Fox Trading (FOXT)
-            + FREE Coin (FREE)
-            + Freyrchain (FREC)
-            + Friendz (FDZ)
-            + FSBT API Token (FSBT)
-            + FundRequest (FND)
-            + FundToken (FUNDZ)
-            + FUTURAX (FTXT)
-            + Future1coin (F1C)
-            + FuturoCoin (FTO)
-            + FuzeX (FXT)
-            + Gainer (GNR)
-            + GambleCoin (GMCN)
-            + Game Stars (GST)
-            + GazeCoin (GZE)
-            + Gemini Dollar (GUSD)
-            + Gene Source Code Chain (GENE)
-            + GenesisX (XGS)
-            + Gentarium (GTM)
-            + Giant (GIC)
-            + GIGA (XG)
-            + GINcoin (GIN)
-            + Global Awards Token (GAT)
-            + Global Social Chain (GSC)
-            + Globalvillage Ecosystem (GVE)
-            + GoChain (GO)
-            + GoHelpFund (HELP)
-            + Gold Bits Coin (GBC)
-            + Gold Poker (GPKR)
-            + GoNetwork (GOT)
-            + Gossipcoin (GOSS)
-            + Graphcoin (GRPH)
-            + Graviocoin (GIO)
-            + Gravity (GZRO)
-            + GreenMed (GRMD)
-            + GSENetwork (GSE)
-            + Haracoin (HRC)
-            + HashCoin (HSC)
-            + Hashgard (GARD)
-            + Haven Protocol (XHV)
-            + Havy (HAVY)
-            + Hdac (HDAC)
-            + HeartBout (HB)
-            + Helbiz (HBZ)
-            + Helium (HLM)
-            + Help The Homeless Coin (HTH)
-            + Helper Search Token (HSN)
-            + Hero (HERO2)
-            + HeroNode (HER)
-            + HitChain (HIT)
-            + Hiveterminal Token (HVN)
-            + HOLD (HOLD)
-            + Holo (HOT)
-            + HondaisCoin (HNDC)
-            + HorusPay (HORUS)
-            + Howdoo (UDOO)
-            + Humanscape (HUM)
-            + Hurify (HUR)
-            + HUZU (HUZU)
-            + Hybrid Block (HYB)
-            + HYCON (HYC)
-            + Hydro (HYDROGEN)
-            + HyperCash (HC)
-            + HyperQuant (HQT)
-            + iBTC (IBTC)
-            + ICE ROCK MINING (ROCK2)
-            + Iconiq Lab Token (ICNQ)
-            + iDealCash (DEAL)
-            + IDOL COIN (IDOL)
-            + Ifoods Chain (IFOOD)
-            + IGToken (IG)
-            + ILCoin (ILC)
-            + imbrex (REX)
-            + Incodium (INCO)
-            + INDINODE (XIND)
-            + Infinipay (IFP)
-            + Influence Chain (INC)
-            + INO COIN (INO)
-            + Insight Chain (INB)
-            + Insolar (INS)
-            + InsurChain (INSUR)
-            + Insureum (ISR)
-            + Intelligent Investment Chain (IIC)
-            + Intelligent Trading Tech (ITT)
-            + InterCrone (ICR)
-            + International Diamond (INCX)
-            + InterValue (INVE)
-            + Invacio (INV)
-            + Invictus Hyperion Fund (IHF)
-            + IONChain (IONC)
-            + IoTeX (IOTX)
-            + IQ.cash (IQCASH)
-            + IQeon (IQN)
-            + Iridium (IRD)
-            + Italian Lira (ITL)
-            + Ivy (IVY)
-            + IXTUS Edutainment (IXE)
-            + Jiyo [OLD] (JIYO)
-            + Joint Ventures (JOINT)
-            + JSECOIN (JSE)
-            + Jury.Online Token (JOT)
-            + Kalkulus (KLKS)
-            + KanadeCoin (KNDC)
-            + Karatgold Coin (KBC)
-            + Karma (EOS) (KARMAEOS)
-            + KEY (KEY2)
-            + Kind Ads Token (KIND)
-            + KingXChain (KXC)
-            + Kleros (PNK)
-            + Knekted (KNEKTED)
-            + KNOW (KNOW)
-            + Knoxstertoken (FKX)
-            + Kora Network Token (KNT)
-            + Kryll (KRL)
-            + KUN (KUN)
-            + KWHCoin (KWH)
-            + KZ Cash (KZC)
-            + Labh Coin (LABH)
-            + LemoChain (LEMO)
-            + Lendingblock (LND)
-            + Lethean (LTHN)
-            + Level Up Coin (LUC)
-            + Leviar (XLC)
-            + Cred (LBA)
-            + Lightpaycoin (LPC)
-            + LikeCoin (LIKE)
-            + Lina (LINA)
-            + Linfinity (LFT)
-            + Linker Coin (LNC)
-            + Linkey (LKY)
-            + Liquidity Network (LQD)
-            + Litex (LXT)
-            + Live Stars (LIVE)
-            + Lobstex (LOBS)
-            + LocalCoinSwap (LCS)
-            + Local World Forwarders (LWF)
-            + LogisCoin (LGS)
-            + Loki (LOKI)
-            + Loopring [NEO] (LRN)
-            + LoyalCoin (LYL)
-            + Luna Stars (LSTR)
-            + Lynx (LYNX)
-            + Mainframe (MFT)
-            + Mainstream For The Underground (MFTU)
-            + Mallcoin (MLC)
-            + MARK.SPACE (MRK)
-            + Masari (MSR)
-            + Mass Vehicle Ledger (MVL)
-            + MassGrid (MGD)
-            + Master Contract Token (MCT)
-            + MASTERNET (MASH)
-            + Maximine Coin (MXM)
-            + MediBit (MEDIBIT)
-            + MediBloc [ERC20] (MEDX)
-            + MEET.ONE (MEETONE)
-            + Menlo One (ONE)
-            + Merculet (MVP)
-            + Mero (MERO)
-            + MESSE TOKEN (MESSE)
-            + Metadium (META)
-            + MetaMorph (METM)
-            + Metronome (MET)
-            + MEX (MEX)
-            + MFIT COIN (MFIT)
-            + MIB Coin (MIB)
-            + MicroBitcoin (MBC)
-            + Micromines (MICRO)
-            + MidasProtocol (MAS)
-            + Mindexcoin (MIC)
-            + MIR COIN (MIR)
-            + Mirai (MRI)
-            + MIRQ (MRQ)
-            + Mithril Ore (MITHRIL)
-            + MMOCoin (MMO)
-            + MNPCoin (MNP)
-            + MobilinkToken (MOLK)
-            + MODEL-X-coin (MODX)
-            + ModulTrade (MTRC)
-            + Molecule (MOL)
-            + Monero Classic (XMC)
-            + Monero Original (XMO)
-            + Moneytoken (IMT)
-            + More Coin (MORE)
-            + Morpheus Labs (MITX)
-            + Morpheus.Network (MRPH)
-            + Moss Coin (MOC)
-            + Moving Cloud Coin (MCC)
-            + MTC Mesh Network (MTCMESH)
-            + MyBit (MYB)
-            + MyToken (MT)
-            + NAM COIN (NAM)
-            + Narrative (NRVE)
-            + Nasdacoin (NSD)
-            + Naviaddress (NAVI)
-            + nDEX (NDX)
-            + Nebula AI (NBAI)
-            + Nectar (NEC)
-            + Nerva (XNV)
-            + Nerves (NER)
-            + NetKoin (NETKOIN)
-            + Neural Protocol (NRP)
-            + NeuroChain (NCC)
-            + New Power Coin (NPW)
-            + NewsToken (NEWOS)
-            + Newton Coin Project (NCP)
-            + Nexo (NEXO)
-            + Nexty (NTY)
-            + Nimiq Exchange Token (NET)
-            + Niobio Cash (NBR)
-            + Niobium Coin (NBC)
-            + NIX (NIX)
-            + NKN (NKN)
-            + No BS Crypto (NOBS)
-            + Noir (NOR)
-            + Noku (NOKU)
-            + NPER (NPER)
-            + Nuggets (NUG)
-            + Nullex (NLX)
-            + nUSD (NUSD)
-            + Nyerium (NYEX)
-            + Obitan Chain (OBTC)
-            + OBXcoin (OBX)
-            + ODEM (ODE)
-            + Olive (OLE)
-            + Olympic (OLMP)
-            + OmenCoin (OMEN)
-            + Omnitude (ECOM)
-            + On.Live (ONL)
-            + Ondori (RSTR)
-            + OneLedger (OLT)
-            + ONG (ONGCOIN)
-            + OPCoinX (OPCX)
-            + Open Platform (OPEN)
-            + Optimal Shelf Availability Token (OSA)
-            + OptiToken (OPTI)
-            + Orbis Token (OBT)
-            + Ordocoin (RDC)
-            + Origami (ORI)
-            + Origin Sport (ORS)
-            + ORS Group (ORSGROUP)
-            + OTCBTC Token (OTB)
-            + Ourcoin (OUR)
-            + Own (CHX)
-            + OWNDATA (OWN)
-            + Pal Network (PAL)
-            + PalletOne (PTN)
-            + Pandemia (PNDM)
-            + Parkgene (PARKGENE)
-            + ParkinGo (PARKINGO)
-            + Patron (PAT)
-            + PAWS Fund (PAWS)
-            + PAXEX (PAXEX)
-            + Paxos Standard Token (PAX)
-            + PAYCENT (PYN)
-            + PayDay Coin (PDX)
-            + Paymon (PMNT)
-            + PCHAIN (PAI)
-            + Pecunio (PCO)
-            + Pedity (PEDI)
-            + Penguin Coin (PENG)
-            + Penta (PNT)
-            + Peony (PNY)
-            + Phantasma (SOUL)
-            + PHI Token (PHI)
-            + Phonecoin (PHON)
-            + Pigeoncoin (PGN)
-            + PikcioChain (PKC)
-            + PitisCoin (PTS)
-            + Pixie Coin (PIXIE)
-            + PKG Token (PKG)
-            + Plancoin (PLAN)
-            + PLATINCOIN (PLC)
-            + PlayCoin [QRC20] (PLYQRC20)
-            + PlayCoin [ERC20] (PLY)
-            + Playgroundz (IOG)
-            + PluraCoin (PLURA)
-            + PlusOneCoin (PLUS1)
-            + PolySwarm (NCT)
-            + POPCHAIN (PCH)
-            + Posscoin (POSS)
-            + PWR Coin (PWR)
-            + PRASM (PSM)
-            + PrimeStone (PSC)
-            + Printex (PRTX)
-            + PRiVCY (PRIV)
-            + Project Coin (PRJ)
-            + Project Pai (PROJPAI)
-            + Promotion Coin (PC)
-            + Proton Token (PTT)
-            + PROUD Money (PROUD)
-            + Provoco Token (VOCO)
-            + Proxeus (XES)
-            + ProximaX (XPX)
-            + PumaPay (PMA)
-            + Pundi X NEM (NPXSXEM)
-            + Puregold Token (PGT)
-            + Pure (PUREX)
-            + PyrexCoin (PYX)
-            + QChi (QCH)
-            + Quant (QNT)
-            + Quanta Utility Token (QNTU)
-            + Quantis Network (QUAN)
-            + QuarkChain (QKC)
-            + Quasarcoin (QAC)
-            + Qubitica (QBIT)
-            + Qurito (QURO)
-            + QYNO (QNO)
-            + Ragnarok (RAGNA)
-            + Rapids (RPD)
-            + Rate3 (RTE)
-            + RealTract (RET)
-            + RECORD (RCD)
-            + RED (RED2)
-            + Relex (RLX)
-            + Rentberry (BERRY)
-            + Repme (RPM)
-            + REPO (REPO)
-            + Rhenium (XRH)
-            + RightMesh (RMESH)
-            + RoBET (ROBET)
-            + Robotina (ROX)
-            + Rocket Pool (RPL)
-            + Rocketcoin (ROCK)
-            + Rookiecoin (RKC)
-            + Rotharium (RTH)
-            + RPICoin (RPI)
-            + RRCoin (RRC)
-            + Rubex Money (RBMC)
-            + Rublix (RBLX)
-            + RusGas (RGS)
-            + Ryo Currency (RYO)
-            + SafeInsure (SINS)
-            + SAKECOIN (SAKE)
-            + Sakura Bloom (SKB)
-            + SalPay (SAL)
-            + Sapien (SPN)
-            + savedroid (SVD)
-            + SaveNode (SNO)
-            + Scorum Coins (SCR)
-            + SCRIV NETWORK (SCRIV)
-            + SCRL (SCRL)
-            + Seal Network (SEAL)
-            + Seele (SEELE)
-            + SEER (SEER)
-            + Semux (SEM)
-            + Sentinel (SENT)
-            + Sentinel Protocol (UPP)
-            + SGPay (SGP)
-            + SHADE Token (SHADE)
-            + Shard (SHARD)
-            + Sharder (SS)
-            + Sharpay (S)
-            + ShineChain (SHE)
-            + Shivom (OMX)
-            + ShopZcoin (SZC)
-            + ShowHand (HAND)
-            + SHPING (SHPING)
-            + SiaCashCoin (SCC)
-            + Signals Network (SGN)
-            + Silent Notary (SNTR)
-            + SIMDAQ (SMQ)
-            + Simmitri (SIM)
-            + SIX (SIX)
-            + Six Domain Chain (SDA)
-            + Skrumble Network (SKM)
-            + SkyHub Coin (SHB)
-            + Smart Application Chain (SAC)
-            + SmartFox (FOX)
-            + smARTOFGIVING (AOG)
-            + Smartshare (SSP)
-            + Snetwork (SNET)
-            + SnipCoin (SNIP)
-            + SnodeCoin (SND)
-            + SnowGem (XSG)
-            + Social Lending Token (SOCLEND)
-            + Sola Token (SOL)
-            + SONDER (SNR)
-            + Soniq (SONIQ)
-            + SoPay (SOP)
-            + Sp8de (SPX)
-            + Spendcoin (SPND)
-            + SPINDLE (SPINDLE)
-            + SRCOIN (SRCOIN)
-            + STACS (STACS)
-            + Stakenet (XSN)
-            + Staker (STR)
-            + StarCoin (KST)
-            + STASIS EURS (EURS)
-            + Stealth (XST)
-            + SteepCoin (STEEP)
-            + Stellite (XTL)
-            + Sub Invest (SUBX)
-            + SuperEdge (ECT)
-            + SUQA (SUQA)
-            + SURETY (SURE)
-            + SyncFab (MFG)
-            + Talao (TALAO)
-            + TaTaTu (TTU)
-            + TCOIN (TCN)
-            + Teloscoin (TELOS)
-            + Ternio (TERN)
-            + Truegame (TGAME)
-            + The Abyss (ABYSS)
-            + The Midas Touch Gold (TMTG)
-            + Themis (THEMIS)
-            + Thingschain (TIC)
-            + ThingsOperatingSystem (TOS)
-            + Thore Cash (TCH)
-            + ThoreCoin (THR)
-            + Thrive Token (THRT)
-            + Thunderstake (TSC)
-            + Ti-Value (TV)
-            + Timicoin (TMC)
-            + TokenDesk (TDS)
-            + TokenPay (TPAY)
-            + TEAM (TokenStars) (TEAM)
-            + Tokia (TKA)
-            + Tolar (TOL)
-            + Tourist Token (TOTO)
-            + Traceability Chain (TAC)
-            + Traid (TRAID)
-            + TrakInvest (TRAK)
-            + Transcodium (TNS)
-            + Travala (AVA)
-            + TRAXIA (TMT)
-            + Trendercoin (TDC)
-            + Tripio (TRIO)
-            + Trittium (TRTT)
-            + TRONCLASSIC (TRXC)
-            + TrueChain (TRUE)
-            + TrueDeck (TDP)
-            + TrueUSD (TUSD)
-            + TrustNote (TTT)
-            + TTC Protocol (TTC)
-            + Turtlecoin (TRTL)
-            + TV-TWO (TTV)
-            + Twinkle (TKT)
-            + TWIST (TWIST)
-            + Typerium (TYPE)
-            + U Network (UUU)
-            + Ubcoin Market (UBC)
-            + Ubex (UBEX)
-            + Ubique Chain Of Things (UCT)
-            + UChain (UCN)
-            + Ulord (UT)
-            + Ultra Salescloud (UST)
-            + UltraNote Coin (XUN)
-            + Unibright (UBT)
-            + UralsCoin (URALS)
-            + USD Coin (USDC)
-            + Usechain Token (USE)
-            + Utrum (OOT)
-            + ValueCyberToken (VCT)
-            + Valuto (VLU)
-            + VeriDocGlobal (VDG)
-            + VeriME (VME)
-            + VestChain (VEST)
-            + Vestoria (VSTR)
-            + VeThor Token (VTHO)
-            + Vetri (VLD)
-            + Vexanium (VEX)
-            + Vice Industry Token (VIT)
-            + View (VIEW)
-            + VikkyToken (VIKKY)
-            + VINchain (VIN)
-            + Vipstar Coin (VIPS)
-            + VisionX (VNX)
-            + Vitae (VITAE)
-            + VITE (VITE)
-            + Vites (VITES)
-            + Vivid Coin (VIVID)
-            + Volt (ACDC)
-            + vSportCoin (VSC)
-            + WABnetwork (WAB)
-            + Waletoken (WTN)
-            + Webchain (WEBCHAIN)
-            + Webcoin (WEB)
-            + WELL (WELL)
-            + Welltrado (WTL)
-            + WeShow Token (WET)
-            + WeToken (WT)
-            + White Standard (WSD)
-            + Wiki Token (WIKI)
-            + Winding Tree (LIF)
-            + WinToken (WIN)
-            + Wispr (WSP)
-            + WITChain (WIT)
-            + Wixlar (WIX)
-            + WIZBL (WBL)
-            + Wowbit (WWB)
-            + WXCOINS (WXC)
-            + wys Token (WYS)
-            + X-Cash (XCASH)
-            + X12 Coin (X12)
-            + X8X Token (X8X)
-            + XcelToken (XCEL)
-            + Xchange (XCG)
-            + XDNA (XDNA)
-            + XEL (XEL)
-            + XinFin Network (XDCE)
-            + XMax (XMX)
-            + XMCT (XMCT)
-            + XOVBank (XOV)
-            + Xriba (XRA)
-            + XRT Token (XRT)
-            + XTRD (XTRD)
-            + XYO Network (XYO)
-            + YGGDRASH (YEED)
-            + YoloCash (YLC)
-            + YOU COIN (YOU)
-            + YouLive Coin (UC)
-            + Yuan Chain Coin (YCC)
-            + YUKI (YUKI)
-            + ZB (ZB)
-            + ZCore (ZCR)
-            + Zebi (ZCO)
-            + ZelCash (ZEL)
-            + Zen Protocol (ZP)
-            + Zenswap Network Token (ZNT)
-            + ZEST (ZEST)
-            + ZeusCrowdfunding (ZEUS)
-            + ZINC (ZINC)
-            + Zipper (ZIP)
-            + Zippie (ZIPT)
-            + ZMINE (ZMN)
-            + Zoomba (ZBA)
-            + ZPER (ZPR)
-            + ZTCoin (ZT)
+            + 0chain  Released-By: ZCN
+            + 0xBitcoin  Released-By: 0xBTC
+            + 0xcert  Released-By: ZXC
+            + 4NEW  Released-By: KWATT
+            + AB-Chain RTB  Released-By: RTB
+            + ABCC Token  Released-By: AT
+            + Absolute  Released-By: ABS
+            + Abulaba  Released-By: AAA
+            + AC3  Released-By: AC3
+            + AceD  Released-By: ACED
+            + ACRE  Released-By: ACRE
+            + Actinium  Released-By: ACM
+            + Adelphoi  Released-By: ADL
+            + Adenz  Released-By: DNZ
+            + AdHive  Released-By: ADH
+            + Aditus  Released-By: ADI
+            + AdultChain  Released-By: XXX
+            + Aegeus  Released-By: AEG
+            + Agrolot  Released-By: AGLT
+            + AiLink Token  Released-By: ALI
+            + Airbloc  Released-By: ABL
+            + AirWire  Released-By: WIRE
+            + Akroma  Released-By: AKA
+            + ALAX  Released-By: ALX
+            + Alchemint Standards  Released-By: SDS
+            + Alibabacoin  Released-By: ABBC
+            + ALLCOIN  Released-By: ALC
+            + Alpha Coin  Released-By: APC
+            + Alt.Estate token  Released-By: ALT
+            + Alttex  Released-By: ALTX
+            + AMO Coin  Released-By: AMO
+            + Amon  Released-By: AMN
+            + ANON  Released-By: ANON
+            + Apex  Released-By: CPX
+            + Aphelion  Released-By: APH
+            + APIS  Released-By: APIS
+            + Apollo Currency  Released-By: APL
+            + Apollon  Released-By: XAP
+            + APOT  Released-By: APOT
+            + APR Coin  Released-By: APR
+            + Arbidex  Released-By: ABX
+            + Arbitracoin  Released-By: ATC
+            + ARBITRAGE  Released-By: ARB
+            + Archetypal Network  Released-By: ACTP
+            + Arepacoin  Released-By: AREPA
+            + Arion  Released-By: ARION
+            + Arionum  Released-By: ARO
+            + Aston  Released-By: ASTON
+            + Asura Coin  Released-By: ASA
+            + ATC Coin  Released-By: ATCC
+            + Atheios  Released-By: ATH
+            + Atidium  Released-By: ATD
+            + Atlantis Blue Digital Token  Released-By: ABDT
+            + Atlas Protocol  Released-By: ATP
+            + Atonomi  Released-By: ATMI
+            + Auctus  Released-By: AUC
+            + Aurora  Released-By: AOA
+            + Auxilium  Released-By: AUX
+            + AVINOC  Released-By: AVINOC
+            + Azart  Released-By: AZART
+            + TraDove B2BCoin  Released-By: BBC
+            + B3Coin  Released-By: KB3
+            + BaaSid  Released-By: BAAS
+            + Bank Coin  Released-By: BANK
+            + Bankera  Released-By: BNK
+            + BBSCoin  Released-By: BBS
+            + BDT Token  Released-By: BDT
+            + BEAT  Released-By: BEAT
+            + BeeKan  Released-By: BKBT
+            + Beetle Coin  Released-By: BEET
+            + Benz  Released-By: BENZ
+            + Bethereum  Released-By: BETHER
+            + BetterBetting  Released-By: BETR
+            + Bettex Coin  Released-By: BTXC
+            + Bezant  Released-By: BZNT
+            + BFFDoom  Released-By: BFF
+            + Bgogo Token  Released-By: BGG
+            + BHPCash  Released-By: BHPC
+            + Bigbom  Released-By: BBO
+            + BingoCoin  Released-By: BOC
+            + Bionic  Released-By: BNC
+            + Biotron  Released-By: BTRN
+            + Birake  Released-By: BIR
+            + BitTube  Released-By: TUBE
+            + Bit-Z Token  Released-By: BZ
+            + Bitblocks  Released-By: BITBLOCKS
+            + BitCapitalVendor  Released-By: BCV
+            + BitCoen  Released-By: BEN
+            + Bitcoin Adult  Released-By: BTAD
+            + Bitcoin File  Released-By: BIFI
+            + Bitcoin Incognito  Released-By: XBI
+            + Bitcoin Interest  Released-By: BCI
+            + BitCoin One  Released-By: BTCONE
+            + Bitcoin SV  Released-By: BSV
+            + Bitcoin Token  Released-By: BTK
+            + Bitcoin W Spectrum  Released-By: BWS
+            + Bitcoin X  Released-By: BTCX
+            + Bitcoin Zero  Released-By: BZX
+            + BitcoiNote  Released-By: BTCN
+            + Bitcoinus  Released-By: BITCOINUS
+            + Bitether  Released-By: BTR
+            + BitF  Released-By: BITF
+            + Bitibu Coin  Released-By: BTB
+            + BitKan  Released-By: KAN
+            + BitMart Token  Released-By: BMX
+            + BitMoney  Released-By: BITMONEY
+            + Bitnation  Released-By: XPAT
+            + BitNautic Token  Released-By: BTNT
+            + BitNewChain  Released-By: BTN
+            + BitRewards  Released-By: BIT
+            + BitScreener Token  Released-By: BITX
+            + Bitspace  Released-By: BSX
+            + Bitsum  Released-By: BSM
+            + Bittwatt  Released-By: BWT
+            + BitUP Token  Released-By: BUT
+            + BLAST  Released-By: BLAST
+            + BLOC.MONEY  Released-By: BLOC
+            + Block-Chain.com  Released-By: BC
+            + Blockchain Certified Data Token  Released-By: BCDT
+            + Blockchain Quotations Index Token  Released-By: BQT
+            + BlockMesh  Released-By: BMH
+            + Blocknode  Released-By: BND
+            + Blockpass  Released-By: PASS
+            + Blocktrade Token  Released-By: BTT
+            + Blue Whale Token  Released-By: BWX
+            + Bob&#39;s Repair  Released-By: BOB
+            + Bodhi [ETH]  Released-By: BOE
+            + BoutsPro  Released-By: BOUTS
+            + BOX Token  Released-By: BOX
+            + BOXX Token [Blockparty]  Released-By: BOXX
+            + BrahmaOS  Released-By: BRM
+            + Breezecoin  Released-By: BRZC
+            + Brickblock  Released-By: BBK
+            + Bridge Protocol  Released-By: TOLL
+            + BrokerNekoNetwork  Released-By: BNN
+            + Budbo  Released-By: BUBO
+            + Buggyra Coin Zero  Released-By: BCZERO
+            + BUMO  Released-By: BU
+            + BunnyToken  Released-By: BUNNY
+            + Business Credit Alliance Chain  Released-By: BCAC
+            + BZLCOIN  Released-By: BZL
+            + C2C System  Released-By: C2C
+            + Callisto Network  Released-By: CLO
+            + CapdaxToken  Released-By: XCD
+            + CARAT  Released-By: CARAT
+            + CarBlock  Released-By: CAR
+            + Carboneum [C8] Token  Released-By: C8
+            + CARDbuyers  Released-By: BCARD
+            + Cardstack  Released-By: CARD
+            + Carebit  Released-By: CARE
+            + CariNet  Released-By: CIT
+            + Carlive Chain  Released-By: IOV
+            + Cashbery Coin  Released-By: CASHBERY
+            + CashBet Coin  Released-By: CBC
+            + Castle  Released-By: CSTL
+            + CatoCoin  Released-By: CATO
+            + Cazcoin  Released-By: CAZ
+            + CEDEX Coin  Released-By: CEDEX
+            + CEEK VR  Released-By: CEEK
+            + Celsius  Released-By: CEL
+            + Centaure  Released-By: CENTAURE
+            + Cheesecoin  Released-By: CHEESE
+            + CHEX  Released-By: CHEX
+            + Citadel  Released-By: CTL
+            + Civitas  Released-By: CIV
+            + CJs  Released-By: CJS
+            + CK USD  Released-By: CKUSD
+            + Clipper Coin  Released-By: CCCX
+            + CMITCOIN  Released-By: CMIT
+            + Cobrabytes  Released-By: COBRA
+            + Coin Lion  Released-By: LION
+            + Coin2Play  Released-By: C2P
+            + CoinEx Token  Released-By: CET
+            + Coinsuper Ecosystem Network  Released-By: CEN
+            + CoinToGo  Released-By: 2GO
+            + Coinvest  Released-By: COIN
+            + Colu Local Network  Released-By: CLN
+            + Commerce Data Connection  Released-By: CDC
+            + CommerceBlock  Released-By: CBT
+            + Commercium  Released-By: CMM
+            + CommunityGeneration  Released-By: CGEN
+            + Compound Coin  Released-By: COMP
+            + Concierge Coin  Released-By: CCC
+            + Condominium  Released-By: CDM
+            + Coni  Released-By: CONI
+            + ConnectJob  Released-By: CJT
+            + CanonChain  Released-By: CZR
+            + Consentium  Released-By: CSM
+            + Constellation  Released-By: DAG
+            + Content Neutrality Network  Released-By: CNN
+            + ContentBox  Released-By: CONTENTBOX
+            + ContractNet  Released-By: CNET
+            + Cortex  Released-By: CTXC
+            + Cosmo Coin  Released-By: COSM
+            + CottonCoin  Released-By: COTN
+            + Couchain  Released-By: COU
+            + Cpollo  Released-By: CPLO
+            + CREA  Released-By: CREA
+            + Credit Tag Chain  Released-By: CTC
+            + CROAT  Released-By: CROAT
+            + Cropcoin  Released-By: CROP
+            + Crowd Machine  Released-By: CMCT
+            + Crowdholding  Released-By: YUP
+            + CrowdWiz  Released-By: WIZ
+            + Cruisebit  Released-By: CRBT
+            + CryCash  Released-By: CRC
+            + CryptalDash  Released-By: CRD
+            + Cryptaur  Released-By: CPT
+            + CrypticCoin  Released-By: CRYP
+            + Crypto.com  Released-By: MCO
+            + Crypto Harbor Exchange  Released-By: CHE
+            + Crypto Improvement Fund  Released-By: CIF
+            + CryptoFlow  Released-By: CFL
+            + Cryptosolartech  Released-By: CST
+            + CryptoSoul  Released-By: CRYPTOSOUL
+            + Cryptrust  Released-By: CTRT
+            + Crystal Token  Released-By: CYL
+            + CWV Chain  Released-By: CWV
+            + Cyber Movie Chain  Released-By: CMOVCT
+            + Cybereits  Released-By: CRE
+            + CyberFM  Released-By: CYFM
+            + CyberMusic  Released-By: CYMT
+            + CyberVein  Released-By: CVT
+            + CYCLEAN  Released-By: CCL
+            + DACC  Released-By: DACC
+            + DACH Coin  Released-By: DACH
+            + DACSEE  Released-By: DACS
+            + DAEX  Released-By: DAX
+            + Daneel  Released-By: DAN
+            + DAOstack  Released-By: GEN
+            + DAPS Token  Released-By: DAPS
+            + Darico Ecosystem Coin  Released-By: DEC
+            + DarexTravel  Released-By: DART
+            + DarkPayCoin  Released-By: DKPC
+            + DasCoin  Released-By: DASC
+            + DaTa eXchange  Released-By: DTX
+            + Datarius Credit  Released-By: DTRC
+            + DAV Coin  Released-By: DAV
+            + Davinci Coin  Released-By: DAC
+            + Decentralized Asset Trading Platform  Released-By: DATP
+            + Decentralized Machine Learning  Released-By: DML
+            + DEEX  Released-By: DEEX
+            + Delizia  Released-By: DELIZ
+            + DeltaChain  Released-By: DELTA
+            + Dero  Released-By: DERO
+            + DeviantCoin  Released-By: DEV
+            + DEX  Released-By: DEX
+            + dietbitcoin  Released-By: DDX
+            + DigiFinexToken  Released-By: DIGIFINEX
+            + Digital Asset Exchange Token  Released-By: DAXT
+            + Digital Asset Guarantee Token  Released-By: DAGT
+            + Digital Insurance Token  Released-By: DIT
+            + Digitex Futures  Released-By: DGTX
+            + Digiwage  Released-By: WAGE
+            + Digix Gold Token  Released-By: DGX
+            + Dignity  Released-By: DIG
+            + Dinero  Released-By: DIN
+            + DIPNET  Released-By: DPN
+            + Distributed Credit Chain  Released-By: DCC
+            + Divi Exchange Token  Released-By: DIVX
+            + doc.com Token  Released-By: MTC
+            + Dock  Released-By: DOCK
+            + Dorado  Released-By: DOR
+            + DOWCOIN  Released-By: DOW
+            + DPRating  Released-By: RATING
+            + Dragon Token  Released-By: DT
+            + Dragonglass  Released-By: DGS
+            + DWS  Released-By: DWS
+            + DxChain Token  Released-By: DX
+            + Dystem  Released-By: DTEM
+            + EagleX  Released-By: EGX
+            + Earth Token  Released-By: EARTH
+            + EBCoin  Released-By: EBC
+            + Ecoreal Estate  Released-By: ECOREAL
+            + Eden  Released-By: EDN
+            + EduCoin  Released-By: EDU
+            + Effect.AI  Released-By: EFX
+            + Egretia  Released-By: EGT
+            + EJOY  Released-By: EJOY
+            + Eligma Token  Released-By: ELI
+            + Elliot Coin  Released-By: ELLI
+            + Elysian  Released-By: ELY
+            + EmaratCoin  Released-By: AEC
+            + empowr coin  Released-By: EMPR
+            + Endor Protocol  Released-By: ENDOR
+            + Endorsit  Released-By: EDS
+            + Energi  Released-By: NRG
+            + EnergiToken  Released-By: ETK
+            + Engagement Token  Released-By: ENGT
+            + Engine  Released-By: EGCC
+            + eosBLACK  Released-By: BLACK
+            + eosDAC  Released-By: EOSDAC
+            + EPLUS Coin  Released-By: EPLUS
+            + Eristica  Released-By: ERT
+            + Escroco Emerald  Released-By: ESCE
+            + EscrowCoin  Released-By: ESCO
+            + Esports Token  Released-By: EST
+            + Essentia  Released-By: ESS
+            + ETERNAL TOKEN  Released-By: XET
+            + Etheera  Released-By: ETA
+            + Ether-1  Released-By: ETHO
+            + Ether Kingdoms Token  Released-By: IMP
+            + Ether Zero  Released-By: ETZ
+            + Ethereum Meta  Released-By: ETHM
+            + EtherGem  Released-By: EGEM
+            + EtherInc  Released-By: ETI
+            + Ethersocial  Released-By: ESN
+            + EUNO  Released-By: EUNO
+            + EUNOMIA  Released-By: ENTS
+            + EvenCoin  Released-By: EVENCOIN
+            + Everipedia  Released-By: IQ
+            + Evimeria  Released-By: EVI
+            + Excaliburcoin  Released-By: EXCALIBUR
+            + Eximchain  Released-By: EXC
+            + EXMR  Released-By: EXMR
+            + Experience Token  Released-By: EXT
+            + EZOOW  Released-By: EZW
+            + Fabric Token  Released-By: FT
+            + Faceter  Released-By: FACE
+            + FansTime  Released-By: FTI
+            + Fantasy Cash  Released-By: FANS
+            + FantasyGold  Released-By: FGC
+            + Fantom  Released-By: FTM
+            + FarmaTrust  Released-By: FTT
+            + FCoin Token  Released-By: FCOIN
+            + Fidelium  Released-By: FID
+            + Fintab  Released-By: FNTB
+            + FintruX Network  Released-By: FTX
+            + Fire Lotto  Released-By: FLOT
+            + Fivebalance  Released-By: FBN
+            + FLIP  Released-By: FLP
+            + FLO  Released-By: FLO
+            + FNKOS  Released-By: FNKOS
+            + FOIN  Released-By: FOIN
+            + FolmCoin  Released-By: FLM
+            + FoodCoin  Released-By: FOOD
+            + Forkcoin  Released-By: FORK
+            + Formosa Financial  Released-By: FMF
+            + Fox Trading  Released-By: FOXT
+            + FREE Coin  Released-By: FREE
+            + Freyrchain  Released-By: FREC
+            + Friendz  Released-By: FDZ
+            + FSBT API Token  Released-By: FSBT
+            + FundRequest  Released-By: FND
+            + FundToken  Released-By: FUNDZ
+            + FUTURAX  Released-By: FTXT
+            + Future1coin  Released-By: F1C
+            + FuturoCoin  Released-By: FTO
+            + FuzeX  Released-By: FXT
+            + Gainer  Released-By: GNR
+            + GambleCoin  Released-By: GMCN
+            + Game Stars  Released-By: GST
+            + GazeCoin  Released-By: GZE
+            + Gemini Dollar  Released-By: GUSD
+            + Gene Source Code Chain  Released-By: GENE
+            + GenesisX  Released-By: XGS
+            + Gentarium  Released-By: GTM
+            + Giant  Released-By: GIC
+            + GIGA  Released-By: XG
+            + GINcoin  Released-By: GIN
+            + Global Awards Token  Released-By: GAT
+            + Global Social Chain  Released-By: GSC
+            + Globalvillage Ecosystem  Released-By: GVE
+            + GoChain  Released-By: GO
+            + GoHelpFund  Released-By: HELP
+            + Gold Bits Coin  Released-By: GBC
+            + Gold Poker  Released-By: GPKR
+            + GoNetwork  Released-By: GOT
+            + Gossipcoin  Released-By: GOSS
+            + Graphcoin  Released-By: GRPH
+            + Graviocoin  Released-By: GIO
+            + Gravity  Released-By: GZRO
+            + GreenMed  Released-By: GRMD
+            + GSENetwork  Released-By: GSE
+            + Haracoin  Released-By: HRC
+            + HashCoin  Released-By: HSC
+            + Hashgard  Released-By: GARD
+            + Haven Protocol  Released-By: XHV
+            + Havy  Released-By: HAVY
+            + Hdac  Released-By: HDAC
+            + HeartBout  Released-By: HB
+            + Helbiz  Released-By: HBZ
+            + Helium  Released-By: HLM
+            + Help The Homeless Coin  Released-By: HTH
+            + Helper Search Token  Released-By: HSN
+            + Hero  Released-By: HERO2
+            + HeroNode  Released-By: HER
+            + HitChain  Released-By: HIT
+            + Hiveterminal Token  Released-By: HVN
+            + HOLD  Released-By: HOLD
+            + Holo  Released-By: HOT
+            + HondaisCoin  Released-By: HNDC
+            + HorusPay  Released-By: HORUS
+            + Howdoo  Released-By: UDOO
+            + Humanscape  Released-By: HUM
+            + Hurify  Released-By: HUR
+            + HUZU  Released-By: HUZU
+            + Hybrid Block  Released-By: HYB
+            + HYCON  Released-By: HYC
+            + Hydro  Released-By: HYDROGEN
+            + HyperCash  Released-By: HC
+            + HyperQuant  Released-By: HQT
+            + iBTC  Released-By: IBTC
+            + ICE ROCK MINING  Released-By: ROCK2
+            + Iconiq Lab Token  Released-By: ICNQ
+            + iDealCash  Released-By: DEAL
+            + IDOL COIN  Released-By: IDOL
+            + Ifoods Chain  Released-By: IFOOD
+            + IGToken  Released-By: IG
+            + ILCoin  Released-By: ILC
+            + imbrex  Released-By: REX
+            + Incodium  Released-By: INCO
+            + INDINODE  Released-By: XIND
+            + Infinipay  Released-By: IFP
+            + Influence Chain  Released-By: INC
+            + INO COIN  Released-By: INO
+            + Insight Chain  Released-By: INB
+            + Insolar  Released-By: INS
+            + InsurChain  Released-By: INSUR
+            + Insureum  Released-By: ISR
+            + Intelligent Investment Chain  Released-By: IIC
+            + Intelligent Trading Tech  Released-By: ITT
+            + InterCrone  Released-By: ICR
+            + International Diamond  Released-By: INCX
+            + InterValue  Released-By: INVE
+            + Invacio  Released-By: INV
+            + Invictus Hyperion Fund  Released-By: IHF
+            + IONChain  Released-By: IONC
+            + IoTeX  Released-By: IOTX
+            + IQ.cash  Released-By: IQCASH
+            + IQeon  Released-By: IQN
+            + Iridium  Released-By: IRD
+            + Italian Lira  Released-By: ITL
+            + Ivy  Released-By: IVY
+            + IXTUS Edutainment  Released-By: IXE
+            + Jiyo [OLD]  Released-By: JIYO
+            + Joint Ventures  Released-By: JOINT
+            + JSECOIN  Released-By: JSE
+            + Jury.Online Token  Released-By: JOT
+            + Kalkulus  Released-By: KLKS
+            + KanadeCoin  Released-By: KNDC
+            + Karatgold Coin  Released-By: KBC
+            + Karma (EOS)  Released-By: KARMAEOS
+            + KEY  Released-By: KEY2
+            + Kind Ads Token  Released-By: KIND
+            + KingXChain  Released-By: KXC
+            + Kleros  Released-By: PNK
+            + Knekted  Released-By: KNEKTED
+            + KNOW  Released-By: KNOW
+            + Knoxstertoken  Released-By: FKX
+            + Kora Network Token  Released-By: KNT
+            + Kryll  Released-By: KRL
+            + KUN  Released-By: KUN
+            + KWHCoin  Released-By: KWH
+            + KZ Cash  Released-By: KZC
+            + Labh Coin  Released-By: LABH
+            + LemoChain  Released-By: LEMO
+            + Lendingblock  Released-By: LND
+            + Lethean  Released-By: LTHN
+            + Level Up Coin  Released-By: LUC
+            + Leviar  Released-By: XLC
+            + Cred  Released-By: LBA
+            + Lightpaycoin  Released-By: LPC
+            + LikeCoin  Released-By: LIKE
+            + Lina  Released-By: LINA
+            + Linfinity  Released-By: LFT
+            + Linker Coin  Released-By: LNC
+            + Linkey  Released-By: LKY
+            + Liquidity Network  Released-By: LQD
+            + Litex  Released-By: LXT
+            + Live Stars  Released-By: LIVE
+            + Lobstex  Released-By: LOBS
+            + LocalCoinSwap  Released-By: LCS
+            + Local World Forwarders  Released-By: LWF
+            + LogisCoin  Released-By: LGS
+            + Loki  Released-By: LOKI
+            + Loopring [NEO]  Released-By: LRN
+            + LoyalCoin  Released-By: LYL
+            + Luna Stars  Released-By: LSTR
+            + Lynx  Released-By: LYNX
+            + Mainframe  Released-By: MFT
+            + Mainstream For The Underground  Released-By: MFTU
+            + Mallcoin  Released-By: MLC
+            + MARK.SPACE  Released-By: MRK
+            + Masari  Released-By: MSR
+            + Mass Vehicle Ledger  Released-By: MVL
+            + MassGrid  Released-By: MGD
+            + Master Contract Token  Released-By: MCT
+            + MASTERNET  Released-By: MASH
+            + Maximine Coin  Released-By: MXM
+            + MediBit  Released-By: MEDIBIT
+            + MediBloc [ERC20]  Released-By: MEDX
+            + MEET.ONE  Released-By: MEETONE
+            + Menlo One  Released-By: ONE
+            + Merculet  Released-By: MVP
+            + Mero  Released-By: MERO
+            + MESSE TOKEN  Released-By: MESSE
+            + Metadium  Released-By: META
+            + MetaMorph  Released-By: METM
+            + Metronome  Released-By: MET
+            + MEX  Released-By: MEX
+            + MFIT COIN  Released-By: MFIT
+            + MIB Coin  Released-By: MIB
+            + MicroBitcoin  Released-By: MBC
+            + Micromines  Released-By: MICRO
+            + MidasProtocol  Released-By: MAS
+            + Mindexcoin  Released-By: MIC
+            + MIR COIN  Released-By: MIR
+            + Mirai  Released-By: MRI
+            + MIRQ  Released-By: MRQ
+            + Mithril Ore  Released-By: MITHRIL
+            + MMOCoin  Released-By: MMO
+            + MNPCoin  Released-By: MNP
+            + MobilinkToken  Released-By: MOLK
+            + MODEL-X-coin  Released-By: MODX
+            + ModulTrade  Released-By: MTRC
+            + Molecule  Released-By: MOL
+            + Monero Classic  Released-By: XMC
+            + Monero Original  Released-By: XMO
+            + Moneytoken  Released-By: IMT
+            + More Coin  Released-By: MORE
+            + Morpheus Labs  Released-By: MITX
+            + Morpheus.Network  Released-By: MRPH
+            + Moss Coin  Released-By: MOC
+            + Moving Cloud Coin  Released-By: MCC
+            + MTC Mesh Network  Released-By: MTCMESH
+            + MyBit  Released-By: MYB
+            + MyToken  Released-By: MT
+            + NAM COIN  Released-By: NAM
+            + Narrative  Released-By: NRVE
+            + Nasdacoin  Released-By: NSD
+            + Naviaddress  Released-By: NAVI
+            + nDEX  Released-By: NDX
+            + Nebula AI  Released-By: NBAI
+            + Nectar  Released-By: NEC
+            + Nerva  Released-By: XNV
+            + Nerves  Released-By: NER
+            + NetKoin  Released-By: NETKOIN
+            + Neural Protocol  Released-By: NRP
+            + NeuroChain  Released-By: NCC
+            + New Power Coin  Released-By: NPW
+            + NewsToken  Released-By: NEWOS
+            + Newton Coin Project  Released-By: NCP
+            + Nexo  Released-By: NEXO
+            + Nexty  Released-By: NTY
+            + Nimiq Exchange Token  Released-By: NET
+            + Niobio Cash  Released-By: NBR
+            + Niobium Coin  Released-By: NBC
+            + NIX  Released-By: NIX
+            + NKN  Released-By: NKN
+            + No BS Crypto  Released-By: NOBS
+            + Noir  Released-By: NOR
+            + Noku  Released-By: NOKU
+            + NPER  Released-By: NPER
+            + Nuggets  Released-By: NUG
+            + Nullex  Released-By: NLX
+            + nUSD  Released-By: NUSD
+            + Nyerium  Released-By: NYEX
+            + Obitan Chain  Released-By: OBTC
+            + OBXcoin  Released-By: OBX
+            + ODEM  Released-By: ODE
+            + Olive  Released-By: OLE
+            + Olympic  Released-By: OLMP
+            + OmenCoin  Released-By: OMEN
+            + Omnitude  Released-By: ECOM
+            + On.Live  Released-By: ONL
+            + Ondori  Released-By: RSTR
+            + OneLedger  Released-By: OLT
+            + ONG  Released-By: ONGCOIN
+            + OPCoinX  Released-By: OPCX
+            + Open Platform  Released-By: OPEN
+            + Optimal Shelf Availability Token  Released-By: OSA
+            + OptiToken  Released-By: OPTI
+            + Orbis Token  Released-By: OBT
+            + Ordocoin  Released-By: RDC
+            + Origami  Released-By: ORI
+            + Origin Sport  Released-By: ORS
+            + ORS Group  Released-By: ORSGROUP
+            + OTCBTC Token  Released-By: OTB
+            + Ourcoin  Released-By: OUR
+            + Own  Released-By: CHX
+            + OWNDATA  Released-By: OWN
+            + Pal Network  Released-By: PAL
+            + PalletOne  Released-By: PTN
+            + Pandemia  Released-By: PNDM
+            + Parkgene  Released-By: PARKGENE
+            + ParkinGo  Released-By: PARKINGO
+            + Patron  Released-By: PAT
+            + PAWS Fund  Released-By: PAWS
+            + PAXEX  Released-By: PAXEX
+            + Paxos Standard Token  Released-By: PAX
+            + PAYCENT  Released-By: PYN
+            + PayDay Coin  Released-By: PDX
+            + Paymon  Released-By: PMNT
+            + PCHAIN  Released-By: PAI
+            + Pecunio  Released-By: PCO
+            + Pedity  Released-By: PEDI
+            + Penguin Coin  Released-By: PENG
+            + Penta  Released-By: PNT
+            + Peony  Released-By: PNY
+            + Phantasma  Released-By: SOUL
+            + PHI Token  Released-By: PHI
+            + Phonecoin  Released-By: PHON
+            + Pigeoncoin  Released-By: PGN
+            + PikcioChain  Released-By: PKC
+            + PitisCoin  Released-By: PTS
+            + Pixie Coin  Released-By: PIXIE
+            + PKG Token  Released-By: PKG
+            + Plancoin  Released-By: PLAN
+            + PLATINCOIN  Released-By: PLC
+            + PlayCoin [QRC20]  Released-By: PLYQRC20
+            + PlayCoin [ERC20]  Released-By: PLY
+            + Playgroundz  Released-By: IOG
+            + PluraCoin  Released-By: PLURA
+            + PlusOneCoin  Released-By: PLUS1
+            + PolySwarm  Released-By: NCT
+            + POPCHAIN  Released-By: PCH
+            + Posscoin  Released-By: POSS
+            + PWR Coin  Released-By: PWR
+            + PRASM  Released-By: PSM
+            + PrimeStone  Released-By: PSC
+            + Printex  Released-By: PRTX
+            + PRiVCY  Released-By: PRIV
+            + Project Coin  Released-By: PRJ
+            + Project Pai  Released-By: PROJPAI
+            + Promotion Coin  Released-By: PC
+            + Proton Token  Released-By: PTT
+            + PROUD Money  Released-By: PROUD
+            + Provoco Token  Released-By: VOCO
+            + Proxeus  Released-By: XES
+            + ProximaX  Released-By: XPX
+            + PumaPay  Released-By: PMA
+            + Pundi X NEM  Released-By: NPXSXEM
+            + Puregold Token  Released-By: PGT
+            + Pure  Released-By: PUREX
+            + PyrexCoin  Released-By: PYX
+            + QChi  Released-By: QCH
+            + Quant  Released-By: QNT
+            + Quanta Utility Token  Released-By: QNTU
+            + Quantis Network  Released-By: QUAN
+            + QuarkChain  Released-By: QKC
+            + Quasarcoin  Released-By: QAC
+            + Qubitica  Released-By: QBIT
+            + Qurito  Released-By: QURO
+            + QYNO  Released-By: QNO
+            + Ragnarok  Released-By: RAGNA
+            + Rapids  Released-By: RPD
+            + Rate3  Released-By: RTE
+            + RealTract  Released-By: RET
+            + RECORD  Released-By: RCD
+            + RED  Released-By: RED2
+            + Relex  Released-By: RLX
+            + Rentberry  Released-By: BERRY
+            + Repme  Released-By: RPM
+            + REPO  Released-By: REPO
+            + Rhenium  Released-By: XRH
+            + RightMesh  Released-By: RMESH
+            + RoBET  Released-By: ROBET
+            + Robotina  Released-By: ROX
+            + Rocket Pool  Released-By: RPL
+            + Rocketcoin  Released-By: ROCK
+            + Rookiecoin  Released-By: RKC
+            + Rotharium  Released-By: RTH
+            + RPICoin  Released-By: RPI
+            + RRCoin  Released-By: RRC
+            + Rubex Money  Released-By: RBMC
+            + Rublix  Released-By: RBLX
+            + RusGas  Released-By: RGS
+            + Ryo Currency  Released-By: RYO
+            + SafeInsure  Released-By: SINS
+            + SAKECOIN  Released-By: SAKE
+            + Sakura Bloom  Released-By: SKB
+            + SalPay  Released-By: SAL
+            + Sapien  Released-By: SPN
+            + savedroid  Released-By: SVD
+            + SaveNode  Released-By: SNO
+            + Scorum Coins  Released-By: SCR
+            + SCRIV NETWORK  Released-By: SCRIV
+            + SCRL  Released-By: SCRL
+            + Seal Network  Released-By: SEAL
+            + Seele  Released-By: SEELE
+            + SEER  Released-By: SEER
+            + Semux  Released-By: SEM
+            + Sentinel  Released-By: SENT
+            + Sentinel Protocol  Released-By: UPP
+            + SGPay  Released-By: SGP
+            + SHADE Token  Released-By: SHADE
+            + Shard  Released-By: SHARD
+            + Sharder  Released-By: SS
+            + Sharpay  Released-By: S
+            + ShineChain  Released-By: SHE
+            + Shivom  Released-By: OMX
+            + ShopZcoin  Released-By: SZC
+            + ShowHand  Released-By: HAND
+            + SHPING  Released-By: SHPING
+            + SiaCashCoin  Released-By: SCC
+            + Signals Network  Released-By: SGN
+            + Silent Notary  Released-By: SNTR
+            + SIMDAQ  Released-By: SMQ
+            + Simmitri  Released-By: SIM
+            + SIX  Released-By: SIX
+            + Six Domain Chain  Released-By: SDA
+            + Skrumble Network  Released-By: SKM
+            + SkyHub Coin  Released-By: SHB
+            + Smart Application Chain  Released-By: SAC
+            + SmartFox  Released-By: FOX
+            + smARTOFGIVING  Released-By: AOG
+            + Smartshare  Released-By: SSP
+            + Snetwork  Released-By: SNET
+            + SnipCoin  Released-By: SNIP
+            + SnodeCoin  Released-By: SND
+            + SnowGem  Released-By: XSG
+            + Social Lending Token  Released-By: SOCLEND
+            + Sola Token  Released-By: SOL
+            + SONDER  Released-By: SNR
+            + Soniq  Released-By: SONIQ
+            + SoPay  Released-By: SOP
+            + Sp8de  Released-By: SPX
+            + Spendcoin  Released-By: SPND
+            + SPINDLE  Released-By: SPINDLE
+            + SRCOIN  Released-By: SRCOIN
+            + STACS  Released-By: STACS
+            + Stakenet  Released-By: XSN
+            + Staker  Released-By: STR
+            + StarCoin  Released-By: KST
+            + STASIS EURS  Released-By: EURS
+            + Stealth  Released-By: XST
+            + SteepCoin  Released-By: STEEP
+            + Stellite  Released-By: XTL
+            + Sub Invest  Released-By: SUBX
+            + SuperEdge  Released-By: ECT
+            + SUQA  Released-By: SUQA
+            + SURETY  Released-By: SURE
+            + SyncFab  Released-By: MFG
+            + Talao  Released-By: TALAO
+            + TaTaTu  Released-By: TTU
+            + TCOIN  Released-By: TCN
+            + Teloscoin  Released-By: TELOS
+            + Ternio  Released-By: TERN
+            + Truegame  Released-By: TGAME
+            + The Abyss  Released-By: ABYSS
+            + The Midas Touch Gold  Released-By: TMTG
+            + Themis  Released-By: THEMIS
+            + Thingschain  Released-By: TIC
+            + ThingsOperatingSystem  Released-By: TOS
+            + Thore Cash  Released-By: TCH
+            + ThoreCoin  Released-By: THR
+            + Thrive Token  Released-By: THRT
+            + Thunderstake  Released-By: TSC
+            + Ti-Value  Released-By: TV
+            + Timicoin  Released-By: TMC
+            + TokenDesk  Released-By: TDS
+            + TokenPay  Released-By: TPAY
+            + TEAM (TokenStars)  Released-By: TEAM
+            + Tokia  Released-By: TKA
+            + Tolar  Released-By: TOL
+            + Tourist Token  Released-By: TOTO
+            + Traceability Chain  Released-By: TAC
+            + Traid  Released-By: TRAID
+            + TrakInvest  Released-By: TRAK
+            + Transcodium  Released-By: TNS
+            + Travala  Released-By: AVA
+            + TRAXIA  Released-By: TMT
+            + Trendercoin  Released-By: TDC
+            + Tripio  Released-By: TRIO
+            + Trittium  Released-By: TRTT
+            + TRONCLASSIC  Released-By: TRXC
+            + TrueChain  Released-By: TRUE
+            + TrueDeck  Released-By: TDP
+            + TrueUSD  Released-By: TUSD
+            + TrustNote  Released-By: TTT
+            + TTC Protocol  Released-By: TTC
+            + Turtlecoin  Released-By: TRTL
+            + TV-TWO  Released-By: TTV
+            + Twinkle  Released-By: TKT
+            + TWIST  Released-By: TWIST
+            + Typerium  Released-By: TYPE
+            + U Network  Released-By: UUU
+            + Ubcoin Market  Released-By: UBC
+            + Ubex  Released-By: UBEX
+            + Ubique Chain Of Things  Released-By: UCT
+            + UChain  Released-By: UCN
+            + Ulord  Released-By: UT
+            + Ultra Salescloud  Released-By: UST
+            + UltraNote Coin  Released-By: XUN
+            + Unibright  Released-By: UBT
+            + UralsCoin  Released-By: URALS
+            + USD Coin  Released-By: USDC
+            + Usechain Token  Released-By: USE
+            + Utrum  Released-By: OOT
+            + ValueCyberToken  Released-By: VCT
+            + Valuto  Released-By: VLU
+            + VeriDocGlobal  Released-By: VDG
+            + VeriME  Released-By: VME
+            + VestChain  Released-By: VEST
+            + Vestoria  Released-By: VSTR
+            + VeThor Token  Released-By: VTHO
+            + Vetri  Released-By: VLD
+            + Vexanium  Released-By: VEX
+            + Vice Industry Token  Released-By: VIT
+            + View  Released-By: VIEW
+            + VikkyToken  Released-By: VIKKY
+            + VINchain  Released-By: VIN
+            + Vipstar Coin  Released-By: VIPS
+            + VisionX  Released-By: VNX
+            + Vitae  Released-By: VITAE
+            + VITE  Released-By: VITE
+            + Vites  Released-By: VITES
+            + Vivid Coin  Released-By: VIVID
+            + Volt  Released-By: ACDC
+            + vSportCoin  Released-By: VSC
+            + WABnetwork  Released-By: WAB
+            + Waletoken  Released-By: WTN
+            + Webchain  Released-By: WEBCHAIN
+            + Webcoin  Released-By: WEB
+            + WELL  Released-By: WELL
+            + Welltrado  Released-By: WTL
+            + WeShow Token  Released-By: WET
+            + WeToken  Released-By: WT
+            + White Standard  Released-By: WSD
+            + Wiki Token  Released-By: WIKI
+            + Winding Tree  Released-By: LIF
+            + WinToken  Released-By: WIN
+            + Wispr  Released-By: WSP
+            + WITChain  Released-By: WIT
+            + Wixlar  Released-By: WIX
+            + WIZBL  Released-By: WBL
+            + Wowbit  Released-By: WWB
+            + WXCOINS  Released-By: WXC
+            + wys Token  Released-By: WYS
+            + X-Cash  Released-By: XCASH
+            + X12 Coin  Released-By: X12
+            + X8X Token  Released-By: X8X
+            + XcelToken  Released-By: XCEL
+            + Xchange  Released-By: XCG
+            + XDNA  Released-By: XDNA
+            + XEL  Released-By: XEL
+            + XinFin Network  Released-By: XDCE
+            + XMax  Released-By: XMX
+            + XMCT  Released-By: XMCT
+            + XOVBank  Released-By: XOV
+            + Xriba  Released-By: XRA
+            + XRT Token  Released-By: XRT
+            + XTRD  Released-By: XTRD
+            + XYO Network  Released-By: XYO
+            + YGGDRASH  Released-By: YEED
+            + YoloCash  Released-By: YLC
+            + YOU COIN  Released-By: YOU
+            + YouLive Coin  Released-By: UC
+            + Yuan Chain Coin  Released-By: YCC
+            + YUKI  Released-By: YUKI
+            + ZB  Released-By: ZB
+            + ZCore  Released-By: ZCR
+            + Zebi  Released-By: ZCO
+            + ZelCash  Released-By: ZEL
+            + Zen Protocol  Released-By: ZP
+            + Zenswap Network Token  Released-By: ZNT
+            + ZEST  Released-By: ZEST
+            + ZeusCrowdfunding  Released-By: ZEUS
+            + ZINC  Released-By: ZINC
+            + Zipper  Released-By: ZIP
+            + Zippie  Released-By: ZIPT
+            + ZMINE  Released-By: ZMN
+            + Zoomba  Released-By: ZBA
+            + ZPER  Released-By: ZPR
+            + ZTCoin  Released-By: ZT
 
           - Removed coins:
-            + Abjcoin (ABJ)
-            + Abncoin (ABN)
-            + Aerium (AERM)
-            + AirToken (AIR)
-            + Akuya Coin (AKY)
-            + AlpaCoin (APC)
-            + AmberCoin (AMBER)
-            + ANRYZE (RYZ)
-            + AntiBitcoin (ANTI)
-            + Antilitecoin (ALTC)
-            + Antimatter (ANTX)
-            + Artex Coin (ATX)
-            + Aseancoin (ASN)
-            + Astro (ASTRO)
-            + ATMCoin (ATMC)
-            + Avoncoin (ACN)
-            + BatCoin (BATCOIN)
-            + Beatcoin (XBTS)
-            + BestChain (BEST)
-            + BigONE Token (BIG)
-            + BillaryCoin (BLRY)
-            + BioBar (BIOB)
-            + BiosCrypto (BIOS)
-            + BipCoin (BIP)
-            + Bitair (BTCA)
-            + BitAlphaCoin (BAC)
-            + BitAsean (BAS)
-            + BitBoost (BBT)
-            + Bitcedi (BXC)
-            + BitcoinDark (BTCD)
-            + BitConnect (BCC)
-            + Bitcurrency (BTCR)
-            + BITFID (FID)
-            + Bitgem (BITGEM)
-            + Bitok (BITOK)
-            + Bitpark Coin (BPC)
-            + BitSerial (BTE)
-            + BitSoar (BSR)
-            + BitTokens (BXT)
-            + Bitz (BITZ)
-            + Blackstar (BSTAR)
-            + Blitzcash (BLITZ)
-            + BlockPay (BLOCKPAY)
-            + BnrtxCoin (BNX)
-            + Bowhead (AHT)
-            + Braincoin (BRAIN)
-            + BT2 [CST] (BT2)
-            + Bytecent (BYC)
-            + CacheCoin (CACH)
-            + CaliphCoin (CALC)
-            + CannaCoin (CCN)
-            + Cashme (CME)
-            + Catcoin (CATCOIN)
-            + CCMiner (CCM100)
-            + Centra (CTR)
-            + ChainCoin (CHC)
-            + ChanCoin (CHAN)
-            + Cheapcoin (CHEAP)
-            + Chronos (CRX)
-            + Cloud (CLD)
-            + CoExistCoin (COXST)
-            + Compcoin (CMP)
-            + Confido (CFD)
-            + Copico (XCPO)
-            + Creatio (XCRE)
-            + Creativecoin (CREA)
-            + Credence Coin (CRDNC)
-            + CRTCoin (CRT)
-            + CryptCoin (CRYPT)
-            + Crypto (CTO)
-            + CryptoEscudo (CESC)
-            + CryptoForecast (CFT)
-            + CryptoWorldX Token (CWXT)
-            + Cthulhu Offerings (OFF)
-            + CyberCoin (CC)
-            + Cycling Coin (CYC)
-            + Cyder (CYDER)
-            + Cypher (CYP)
-            + DAPPSTER (DLISK)
-            + DarkLisk (DISK)
-            + Dashcoin (DSH)
-            + Dashs (DASHS)
-            + DavorCoin (DAV)
-            + DCORP (DRP)
-            + Debitcoin (DBTC)
-            + DeltaCredits (DCRE)
-            + Destiny (DES)
-            + DFSCoin (DFS)
-            + DIBCOIN (DIBC)
-            + DigiCube (CUBE)
-            + DigiPulse (DGPT)
-            + Digital Bullion Gold (DBG)
-            + Digital Credits (DGCS)
-            + DigitalDevelopersFund (DDF)
-            + Digital Rupees (DRS)
-            + Donationcoin (DON)
-            + Dubstep (DUB)
-            + E-coin (ECN)
-            + EagleCoin (EAGLE)
-            + EarthCoin (EAC)
-            + eBitcoinCash (EBCH)
-            + Ebittree Coin (EBT)
-            + EggCoin (EGG)
-            + EGO (EGO)
-            + eGold (EGOLD)
-            + Elacoin (ELC)
-            + Elastic (XEL)
-            + Electronic PK Chain (EPC)
-            + Energycoin (ENRG)
-            + Enigma Project (ENG)
-            + ENTCash (ENTCASH)
-            + Escroco (ESC)
-            + Etherecash (ECH)
-            + Ethereum Movie Venture (EMV)
-            + EuropeCoin (ERC)
-            + Evotion (EVO)
-            + ExchangeN (EXN)
-            + Fantomcoin (FCN)
-            + FAPcoin (FAP)
-            + Farad (FRD)
-            + Farstcoin (FRCT)
-            + Fazzcoin (FAZZ)
-            + FIMKrypto (FIMK)
-            + FinCoin (FNC)
-            + Firecoin (FIRE)
-            + FlappyCoin (FLAP)
-            + FlorinCoin (FLO)
-            + Flycoin (FLY)
-            + Fonziecoin (FONZ)
-            + Footy Cash (XFT)
-            + Franko (FRK)
-            + FrankyWillCoin (FRWC)
-            + FuckToken (FUCK)
-            + FuelCoin (FC2)
-            + FUNCoin (FUNC)
-            + FundYourselfNow (FYN)
-            + FutCoin (FUTC)
-            + FuturXe (FXE)
-            + GAIA (GAIA)
-            + GameLeagueCoin (GML)
-            + GameUnits (UNITS)
-            + GanjaCoin (MRJA)
-            + Gatcoin (GAT)
-            + GAY Money (GAY)
-            + GBCGoldCoin (GBC)
-            + G3N (G3N)
-            + Giga Watt Token (WTT)
-            + GlassCoin (GLS)
-            + Global Jobcoin (GJC)
-            + Global Tour Coin (GTC)
-            + GlobalCoin (GLC)
-            + Gold Pressed Latinum (GPL)
-            + GoldMaxCoin (GMX)
-            + GoldPieces (GP)
-            + GoldReserve (XGR)
-            + GPU Coin (GPU)
-            + Granite (GRN)
-            + Greencoin (GRE)
-            + Guncoin (GUN)
-            + Happy Creator Coin (HCC)
-            + Hawala.Today (HAT)
-            + HealthyWormCoin (WORM)
-            + Hedge (HDG)
-            + HempCoin (HMP) (HMP)
-            + High Gain (HIGH)
-            + HitCoin (HTC)
-            + Hive Project (HVN)
-            + HoboNickels (HBN)
-            + HODL Bucks (HDLB)
-            + Hshare (HSR)
-            + Hyper (HYPER)
-            + iCoin (ICOIN)
-            + ICOS (ICOS)
-            + iDice (ICE)
-            + ImpulseCoin (IMPS)
-            + India Coin (INDIA)
-            + InfChain (INF)
-            + InPay (INPAY)
-            + INS Ecosystem (INS)
-            + Intelligent Trading Tech (ITT)
-            + IntenseCoin (ITNS)
-            + International Diamond (INTLDIAMOND)
-            + Interplanetary Broadcast Coin (IPBC)
-            + Interstellar Holdings (HOLD)
-            + InvisibleCoin (IVZ)
-            + IslaCoin (ISL)
-            + Jewels (JWL)
-            + JobsCoin (JOBS)
-            + Karmacoin (KARMA)
-            + KashhCoin (KASHH)
-            + Kayicoin (KAYI)
-            + KiloCoin (KLC)
-            + KlondikeCoin (KDC)
-            + KushCoin (KUSH)
-            + Kzcash (KZC)
-            + LandCoin (LDCN)
-            + LAthaan (LTH)
-            + Lazaruscoin (LAZ)
-            + LeaCoin (LEA)
-            + LeafCoin (LEAF)
-            + Legends Room (LGD)
-            + LendConnect (LCT)
-            + LePen (LEPEN)
-            + LetItRide (LIR)
-            + LeviarCoin (XLC)
-            + Levocoin (LEVO)
-            + LevoPlus (LVPS)
-            + Link Platform (LNK)
-            + LinkedCoin (LKC)
-            + LLToken (LLT)
-            + LuckChain (BASH)
-            + Machinecoin (MAC)
-            + Macro (MCR)
-            + Madcoin (MDC)
-            + Magnet (MAG)
-            + MarxCoin (MARX)
-            + MAZA (MZC)
-            + Mercury Protocol (GMT)
-            + MergeCoin (MGC)
-            + Metal Music Coin (MTLMC3)
-            + MetalCoin (METAL)
-            + MindCoin (MND)
-            + Mineum (MNM)
-            + MMXVI (MMXVI)
-            + MobileCash (MBL)
-            + Monaco (MCO)
-            + Monero Gold (XMRG)
-            + Moneta (MONETA)
-            + MyBit Token (MYB)
-            + NamoCoin (NAMO)
-            + Natcoin (NTC)
-            + netBit (NBIT)
-            + NetCoin (NETCOIN)
-            + Newbium (NEWB)
-            + Nexxus (NXX)
-            + NodeCoin (NODC)
-            + NumusCash (NUMUS)
-            + NVO (NVST)
-            + OCOW (OCOW)
-            + Octanox (OTX)
-            + OctoCoin (888)
-            + Omicron (OMC)
-            + Operand (OP)
-            + Opescoin (OPES)
-            + Orlycoin (ORLY)
-            + OsmiumCoin (OS76)
-            + OX Fina (OX)
-            + P7Coin (P7C)
-            + PayCon (CON)
-            + PayPeer (PAYP)
-            + Philosopher Stones (PHS)
-            + PIECoin (PIE)
-            + PinkDog (PDG)
-            + Pirate Blocks (SKULL)
-            + PizzaCoin (PIZZA)
-            + PlusCoin (PLC)
-            + PokeCoin (POKE)
-            + Primulon (PRIMU)
-            + Printerium (PRX)
-            + PrismChain (PRM)
-            + Project Decorum (PDC)
-            + Prospectors Gold (PGL)
-            + Protean (PRN)
-            + Prototanium (PR)
-            + Psilocybin (PSY)
-            + Pulse (PULSE)
-            + Pure (PURE)
-            + PX (PX)
-            + Qora (QORA)
-            + Quantum (QAU)
-            + QuazarCoin (QCN)
-            + Rawcoin (XRC)
-            + Rcoin (RCOIN)
-            + REX (REX)
-            + ReeCoin (REE)
-            + Regacoin (REGA)
-            + Remicoin (REMI)
-            + RHFCoin (RHFC)
-            + RichCoin (RICHX)
-            + Ride My Car (RIDE)
-            + Riecoin (RIC)
-            + Ripto Bux (RBX)
-            + Roofs (ROOFS)
-            + RoyalCoin (ROYAL)
-            + Royalties (XRY)
-            + RSGPcoin (RSGP)
-            + RubleBit (RUBIT)
-            + Rustbits (RUSTBITS)
-            + SACoin (SAC)
-            + SafeCoin (SFE)
-            + Sand Coin (SND)
-            + Sativacoin (STV)
-            + SatoshiMadness (MAD)
-            + Scorecoin (SCORE)
-            + Selfiecoin (SLFI)
-            + Sexcoin (SXC)
-            + SHACoin (SHA)
-            + ShadowCash (SDC)
-            + Sharkcoin (SAK)
-            + ShellCoin (SHELL)
-            + Shilling (SH)
-            + Shorty (SHORTY)
-            + SISA (SISA)
-            + Slevin (SLEVIN)
-            + Slimcoin (SLM)
-            + Slothcoin (SLOTH)
-            + SnakeEyes (SNAKE)
-            + Sojourn (SOJ)
-            + Solarflarecoin (SFC)
-            + SpaceCoin (SPACE)
-            + SpherePay (SAY)
-            + SportsCoin (SPORT)
-            + Spots (SPT)
-            + SproutsExtreme (SPEX)
-            + StarCash Network (STARS)
-            + StarCredits (STRC)
-            + Stealthcoin (XST)
-            + Steps (STEPS)
-            + Sterlingcoin (SLG)
-            + StrikeBitClub (SBC)
-            + SuperNET (UNITY)
-            + SwagBucks (BUCKS)
-            + SwapToken (TOKEN)
-            + SydPak (SDP)
-            + T-coin (TCOIN)
-            + TAGRcoin (TAGR)
-            + TattooCoin (Standard Edition) (TSE)
-            + TattooCoin (Limited) (TLE)
-            + TeamUp (TEAM)
-            + TechShares (THS)
-            + The Cypherfunks (FUNK)
-            + The Vegan Initiative (XVE)
-            + TheCreed (TCR)
-            + Tigercoin (TGC)
-            + TimesCoin (TMC)
-            + Titanium BAR (TBAR)
-            + Titanium Blockchain (BAR)
-            + TodayCoin (TODAY)
-            + Topaz Coin (TOPAZ)
-            + TopCoin (TOP)
-            + Torcoin (TOR)
-            + Trade Token (TIO)
-            + Triaconta (TRIA)
-            + TrickyCoin (TRICK)
-            + Triggers (TRIG)
-            + Tristar Coin (TSTR)
-            + True Chain (TRUE)
-            + True USD (TUSD)
-            + TrustPlus (TRUST)
-            + TurboCoin (TURBO)
-            + Tychocoin (TYCHO)
-            + UG Token (UGT)
-            + UGAIN (GAIN)
-            + Ulatech (ULA)
-            + UnbreakableCoin (UNB)
-            + UNCoin (UNC)
-            + UniCoin (UNIC)
-            + Unity Ingot (UNY)
-            + Unrealcoin (URC)
-            + UR (UR)
-            + Uro (URO)
-            + Useless Ethereum Token (UET)
-            + Valorbit (VAL)
-            + Vault Coin (VLTC)
-            + Vcash (XVC)
-            + VIP Tokens (VIP)
-            + Virta Unique Coin (VUC)
-            + Virtacoinplus (XVP)
-            + VirtualCoin (VC)
-            + Visio (VISIO)
-            + Voyacoin (VOYA)
-            + VPNCoin (VASH)
-            + vTorrent (VTR)
-            + WARP (WARP)
-            + WayGuide (WAY)
-            + Wowcoin (WOW)
-            + X2 (X2)
-            + Xaucoin (XAU)
-            + Xios (XIOS)
-            + Xonecoin (XOC)
-            + XTD Coin (XTD)
-            + Yacoin (YAC)
-            + YashCoin (YASH)
-            + Zlancer (ZCG)
-            + ZetaMicron (ZMC)
-            + Zilbercoin (ZBC)
-            + Zoin (ZOI)
-            + Zonecoin (ZNE)
-            + ZSEcoin (ZSE)
+            + Abjcoin  Released-By: ABJ
+            + Abncoin  Released-By: ABN
+            + Aerium  Released-By: AERM
+            + AirToken  Released-By: AIR
+            + Akuya Coin  Released-By: AKY
+            + AlpaCoin  Released-By: APC
+            + AmberCoin  Released-By: AMBER
+            + ANRYZE  Released-By: RYZ
+            + AntiBitcoin  Released-By: ANTI
+            + Antilitecoin  Released-By: ALTC
+            + Antimatter  Released-By: ANTX
+            + Artex Coin  Released-By: ATX
+            + Aseancoin  Released-By: ASN
+            + Astro  Released-By: ASTRO
+            + ATMCoin  Released-By: ATMC
+            + Avoncoin  Released-By: ACN
+            + BatCoin  Released-By: BATCOIN
+            + Beatcoin  Released-By: XBTS
+            + BestChain  Released-By: BEST
+            + BigONE Token  Released-By: BIG
+            + BillaryCoin  Released-By: BLRY
+            + BioBar  Released-By: BIOB
+            + BiosCrypto  Released-By: BIOS
+            + BipCoin  Released-By: BIP
+            + Bitair  Released-By: BTCA
+            + BitAlphaCoin  Released-By: BAC
+            + BitAsean  Released-By: BAS
+            + BitBoost  Released-By: BBT
+            + Bitcedi  Released-By: BXC
+            + BitcoinDark  Released-By: BTCD
+            + BitConnect  Released-By: BCC
+            + Bitcurrency  Released-By: BTCR
+            + BITFID  Released-By: FID
+            + Bitgem  Released-By: BITGEM
+            + Bitok  Released-By: BITOK
+            + Bitpark Coin  Released-By: BPC
+            + BitSerial  Released-By: BTE
+            + BitSoar  Released-By: BSR
+            + BitTokens  Released-By: BXT
+            + Bitz  Released-By: BITZ
+            + Blackstar  Released-By: BSTAR
+            + Blitzcash  Released-By: BLITZ
+            + BlockPay  Released-By: BLOCKPAY
+            + BnrtxCoin  Released-By: BNX
+            + Bowhead  Released-By: AHT
+            + Braincoin  Released-By: BRAIN
+            + BT2 [CST]  Released-By: BT2
+            + Bytecent  Released-By: BYC
+            + CacheCoin  Released-By: CACH
+            + CaliphCoin  Released-By: CALC
+            + CannaCoin  Released-By: CCN
+            + Cashme  Released-By: CME
+            + Catcoin  Released-By: CATCOIN
+            + CCMiner  Released-By: CCM100
+            + Centra  Released-By: CTR
+            + ChainCoin  Released-By: CHC
+            + ChanCoin  Released-By: CHAN
+            + Cheapcoin  Released-By: CHEAP
+            + Chronos  Released-By: CRX
+            + Cloud  Released-By: CLD
+            + CoExistCoin  Released-By: COXST
+            + Compcoin  Released-By: CMP
+            + Confido  Released-By: CFD
+            + Copico  Released-By: XCPO
+            + Creatio  Released-By: XCRE
+            + Creativecoin  Released-By: CREA
+            + Credence Coin  Released-By: CRDNC
+            + CRTCoin  Released-By: CRT
+            + CryptCoin  Released-By: CRYPT
+            + Crypto  Released-By: CTO
+            + CryptoEscudo  Released-By: CESC
+            + CryptoForecast  Released-By: CFT
+            + CryptoWorldX Token  Released-By: CWXT
+            + Cthulhu Offerings  Released-By: OFF
+            + CyberCoin  Released-By: CC
+            + Cycling Coin  Released-By: CYC
+            + Cyder  Released-By: CYDER
+            + Cypher  Released-By: CYP
+            + DAPPSTER  Released-By: DLISK
+            + DarkLisk  Released-By: DISK
+            + Dashcoin  Released-By: DSH
+            + Dashs  Released-By: DASHS
+            + DavorCoin  Released-By: DAV
+            + DCORP  Released-By: DRP
+            + Debitcoin  Released-By: DBTC
+            + DeltaCredits  Released-By: DCRE
+            + Destiny  Released-By: DES
+            + DFSCoin  Released-By: DFS
+            + DIBCOIN  Released-By: DIBC
+            + DigiCube  Released-By: CUBE
+            + DigiPulse  Released-By: DGPT
+            + Digital Bullion Gold  Released-By: DBG
+            + Digital Credits  Released-By: DGCS
+            + DigitalDevelopersFund  Released-By: DDF
+            + Digital Rupees  Released-By: DRS
+            + Donationcoin  Released-By: DON
+            + Dubstep  Released-By: DUB
+            + E-coin  Released-By: ECN
+            + EagleCoin  Released-By: EAGLE
+            + EarthCoin  Released-By: EAC
+            + eBitcoinCash  Released-By: EBCH
+            + Ebittree Coin  Released-By: EBT
+            + EggCoin  Released-By: EGG
+            + EGO  Released-By: EGO
+            + eGold  Released-By: EGOLD
+            + Elacoin  Released-By: ELC
+            + Elastic  Released-By: XEL
+            + Electronic PK Chain  Released-By: EPC
+            + Energycoin  Released-By: ENRG
+            + Enigma Project  Released-By: ENG
+            + ENTCash  Released-By: ENTCASH
+            + Escroco  Released-By: ESC
+            + Etherecash  Released-By: ECH
+            + Ethereum Movie Venture  Released-By: EMV
+            + EuropeCoin  Released-By: ERC
+            + Evotion  Released-By: EVO
+            + ExchangeN  Released-By: EXN
+            + Fantomcoin  Released-By: FCN
+            + FAPcoin  Released-By: FAP
+            + Farad  Released-By: FRD
+            + Farstcoin  Released-By: FRCT
+            + Fazzcoin  Released-By: FAZZ
+            + FIMKrypto  Released-By: FIMK
+            + FinCoin  Released-By: FNC
+            + Firecoin  Released-By: FIRE
+            + FlappyCoin  Released-By: FLAP
+            + FlorinCoin  Released-By: FLO
+            + Flycoin  Released-By: FLY
+            + Fonziecoin  Released-By: FONZ
+            + Footy Cash  Released-By: XFT
+            + Franko  Released-By: FRK
+            + FrankyWillCoin  Released-By: FRWC
+            + FuckToken  Released-By: FUCK
+            + FuelCoin  Released-By: FC2
+            + FUNCoin  Released-By: FUNC
+            + FundYourselfNow  Released-By: FYN
+            + FutCoin  Released-By: FUTC
+            + FuturXe  Released-By: FXE
+            + GAIA  Released-By: GAIA
+            + GameLeagueCoin  Released-By: GML
+            + GameUnits  Released-By: UNITS
+            + GanjaCoin  Released-By: MRJA
+            + Gatcoin  Released-By: GAT
+            + GAY Money  Released-By: GAY
+            + GBCGoldCoin  Released-By: GBC
+            + G3N  Released-By: G3N
+            + Giga Watt Token  Released-By: WTT
+            + GlassCoin  Released-By: GLS
+            + Global Jobcoin  Released-By: GJC
+            + Global Tour Coin  Released-By: GTC
+            + GlobalCoin  Released-By: GLC
+            + Gold Pressed Latinum  Released-By: GPL
+            + GoldMaxCoin  Released-By: GMX
+            + GoldPieces  Released-By: GP
+            + GoldReserve  Released-By: XGR
+            + GPU Coin  Released-By: GPU
+            + Granite  Released-By: GRN
+            + Greencoin  Released-By: GRE
+            + Guncoin  Released-By: GUN
+            + Happy Creator Coin  Released-By: HCC
+            + Hawala.Today  Released-By: HAT
+            + HealthyWormCoin  Released-By: WORM
+            + Hedge  Released-By: HDG
+            + HempCoin (HMP)  Released-By: HMP
+            + High Gain  Released-By: HIGH
+            + HitCoin  Released-By: HTC
+            + Hive Project  Released-By: HVN
+            + HoboNickels  Released-By: HBN
+            + HODL Bucks  Released-By: HDLB
+            + Hshare  Released-By: HSR
+            + Hyper  Released-By: HYPER
+            + iCoin  Released-By: ICOIN
+            + ICOS  Released-By: ICOS
+            + iDice  Released-By: ICE
+            + ImpulseCoin  Released-By: IMPS
+            + India Coin  Released-By: INDIA
+            + InfChain  Released-By: INF
+            + InPay  Released-By: INPAY
+            + INS Ecosystem  Released-By: INS
+            + Intelligent Trading Tech  Released-By: ITT
+            + IntenseCoin  Released-By: ITNS
+            + International Diamond  Released-By: INTLDIAMOND
+            + Interplanetary Broadcast Coin  Released-By: IPBC
+            + Interstellar Holdings  Released-By: HOLD
+            + InvisibleCoin  Released-By: IVZ
+            + IslaCoin  Released-By: ISL
+            + Jewels  Released-By: JWL
+            + JobsCoin  Released-By: JOBS
+            + Karmacoin  Released-By: KARMA
+            + KashhCoin  Released-By: KASHH
+            + Kayicoin  Released-By: KAYI
+            + KiloCoin  Released-By: KLC
+            + KlondikeCoin  Released-By: KDC
+            + KushCoin  Released-By: KUSH
+            + Kzcash  Released-By: KZC
+            + LandCoin  Released-By: LDCN
+            + LAthaan  Released-By: LTH
+            + Lazaruscoin  Released-By: LAZ
+            + LeaCoin  Released-By: LEA
+            + LeafCoin  Released-By: LEAF
+            + Legends Room  Released-By: LGD
+            + LendConnect  Released-By: LCT
+            + LePen  Released-By: LEPEN
+            + LetItRide  Released-By: LIR
+            + LeviarCoin  Released-By: XLC
+            + Levocoin  Released-By: LEVO
+            + LevoPlus  Released-By: LVPS
+            + Link Platform  Released-By: LNK
+            + LinkedCoin  Released-By: LKC
+            + LLToken  Released-By: LLT
+            + LuckChain  Released-By: BASH
+            + Machinecoin  Released-By: MAC
+            + Macro  Released-By: MCR
+            + Madcoin  Released-By: MDC
+            + Magnet  Released-By: MAG
+            + MarxCoin  Released-By: MARX
+            + MAZA  Released-By: MZC
+            + Mercury Protocol  Released-By: GMT
+            + MergeCoin  Released-By: MGC
+            + Metal Music Coin  Released-By: MTLMC3
+            + MetalCoin  Released-By: METAL
+            + MindCoin  Released-By: MND
+            + Mineum  Released-By: MNM
+            + MMXVI  Released-By: MMXVI
+            + MobileCash  Released-By: MBL
+            + Monaco  Released-By: MCO
+            + Monero Gold  Released-By: XMRG
+            + Moneta  Released-By: MONETA
+            + MyBit Token  Released-By: MYB
+            + NamoCoin  Released-By: NAMO
+            + Natcoin  Released-By: NTC
+            + netBit  Released-By: NBIT
+            + NetCoin  Released-By: NETCOIN
+            + Newbium  Released-By: NEWB
+            + Nexxus  Released-By: NXX
+            + NodeCoin  Released-By: NODC
+            + NumusCash  Released-By: NUMUS
+            + NVO  Released-By: NVST
+            + OCOW  Released-By: OCOW
+            + Octanox  Released-By: OTX
+            + OctoCoin  Released-By: 888
+            + Omicron  Released-By: OMC
+            + Operand  Released-By: OP
+            + Opescoin  Released-By: OPES
+            + Orlycoin  Released-By: ORLY
+            + OsmiumCoin  Released-By: OS76
+            + OX Fina  Released-By: OX
+            + P7Coin  Released-By: P7C
+            + PayCon  Released-By: CON
+            + PayPeer  Released-By: PAYP
+            + Philosopher Stones  Released-By: PHS
+            + PIECoin  Released-By: PIE
+            + PinkDog  Released-By: PDG
+            + Pirate Blocks  Released-By: SKULL
+            + PizzaCoin  Released-By: PIZZA
+            + PlusCoin  Released-By: PLC
+            + PokeCoin  Released-By: POKE
+            + Primulon  Released-By: PRIMU
+            + Printerium  Released-By: PRX
+            + PrismChain  Released-By: PRM
+            + Project Decorum  Released-By: PDC
+            + Prospectors Gold  Released-By: PGL
+            + Protean  Released-By: PRN
+            + Prototanium  Released-By: PR
+            + Psilocybin  Released-By: PSY
+            + Pulse  Released-By: PULSE
+            + Pure  Released-By: PURE
+            + PX  Released-By: PX
+            + Qora  Released-By: QORA
+            + Quantum  Released-By: QAU
+            + QuazarCoin  Released-By: QCN
+            + Rawcoin  Released-By: XRC
+            + Rcoin  Released-By: RCOIN
+            + REX  Released-By: REX
+            + ReeCoin  Released-By: REE
+            + Regacoin  Released-By: REGA
+            + Remicoin  Released-By: REMI
+            + RHFCoin  Released-By: RHFC
+            + RichCoin  Released-By: RICHX
+            + Ride My Car  Released-By: RIDE
+            + Riecoin  Released-By: RIC
+            + Ripto Bux  Released-By: RBX
+            + Roofs  Released-By: ROOFS
+            + RoyalCoin  Released-By: ROYAL
+            + Royalties  Released-By: XRY
+            + RSGPcoin  Released-By: RSGP
+            + RubleBit  Released-By: RUBIT
+            + Rustbits  Released-By: RUSTBITS
+            + SACoin  Released-By: SAC
+            + SafeCoin  Released-By: SFE
+            + Sand Coin  Released-By: SND
+            + Sativacoin  Released-By: STV
+            + SatoshiMadness  Released-By: MAD
+            + Scorecoin  Released-By: SCORE
+            + Selfiecoin  Released-By: SLFI
+            + Sexcoin  Released-By: SXC
+            + SHACoin  Released-By: SHA
+            + ShadowCash  Released-By: SDC
+            + Sharkcoin  Released-By: SAK
+            + ShellCoin  Released-By: SHELL
+            + Shilling  Released-By: SH
+            + Shorty  Released-By: SHORTY
+            + SISA  Released-By: SISA
+            + Slevin  Released-By: SLEVIN
+            + Slimcoin  Released-By: SLM
+            + Slothcoin  Released-By: SLOTH
+            + SnakeEyes  Released-By: SNAKE
+            + Sojourn  Released-By: SOJ
+            + Solarflarecoin  Released-By: SFC
+            + SpaceCoin  Released-By: SPACE
+            + SpherePay  Released-By: SAY
+            + SportsCoin  Released-By: SPORT
+            + Spots  Released-By: SPT
+            + SproutsExtreme  Released-By: SPEX
+            + StarCash Network  Released-By: STARS
+            + StarCredits  Released-By: STRC
+            + Stealthcoin  Released-By: XST
+            + Steps  Released-By: STEPS
+            + Sterlingcoin  Released-By: SLG
+            + StrikeBitClub  Released-By: SBC
+            + SuperNET  Released-By: UNITY
+            + SwagBucks  Released-By: BUCKS
+            + SwapToken  Released-By: TOKEN
+            + SydPak  Released-By: SDP
+            + T-coin  Released-By: TCOIN
+            + TAGRcoin  Released-By: TAGR
+            + TattooCoin (Standard Edition)  Released-By: TSE
+            + TattooCoin (Limited)  Released-By: TLE
+            + TeamUp  Released-By: TEAM
+            + TechShares  Released-By: THS
+            + The Cypherfunks  Released-By: FUNK
+            + The Vegan Initiative  Released-By: XVE
+            + TheCreed  Released-By: TCR
+            + Tigercoin  Released-By: TGC
+            + TimesCoin  Released-By: TMC
+            + Titanium BAR  Released-By: TBAR
+            + Titanium Blockchain  Released-By: BAR
+            + TodayCoin  Released-By: TODAY
+            + Topaz Coin  Released-By: TOPAZ
+            + TopCoin  Released-By: TOP
+            + Torcoin  Released-By: TOR
+            + Trade Token  Released-By: TIO
+            + Triaconta  Released-By: TRIA
+            + TrickyCoin  Released-By: TRICK
+            + Triggers  Released-By: TRIG
+            + Tristar Coin  Released-By: TSTR
+            + True Chain  Released-By: TRUE
+            + True USD  Released-By: TUSD
+            + TrustPlus  Released-By: TRUST
+            + TurboCoin  Released-By: TURBO
+            + Tychocoin  Released-By: TYCHO
+            + UG Token  Released-By: UGT
+            + UGAIN  Released-By: GAIN
+            + Ulatech  Released-By: ULA
+            + UnbreakableCoin  Released-By: UNB
+            + UNCoin  Released-By: UNC
+            + UniCoin  Released-By: UNIC
+            + Unity Ingot  Released-By: UNY
+            + Unrealcoin  Released-By: URC
+            + UR  Released-By: UR
+            + Uro  Released-By: URO
+            + Useless Ethereum Token  Released-By: UET
+            + Valorbit  Released-By: VAL
+            + Vault Coin  Released-By: VLTC
+            + Vcash  Released-By: XVC
+            + VIP Tokens  Released-By: VIP
+            + Virta Unique Coin  Released-By: VUC
+            + Virtacoinplus  Released-By: XVP
+            + VirtualCoin  Released-By: VC
+            + Visio  Released-By: VISIO
+            + Voyacoin  Released-By: VOYA
+            + VPNCoin  Released-By: VASH
+            + vTorrent  Released-By: VTR
+            + WARP  Released-By: WARP
+            + WayGuide  Released-By: WAY
+            + Wowcoin  Released-By: WOW
+            + X2  Released-By: X2
+            + Xaucoin  Released-By: XAU
+            + Xios  Released-By: XIOS
+            + Xonecoin  Released-By: XOC
+            + XTD Coin  Released-By: XTD
+            + Yacoin  Released-By: YAC
+            + YashCoin  Released-By: YASH
+            + Zlancer  Released-By: ZCG
+            + ZetaMicron  Released-By: ZMC
+            + Zilbercoin  Released-By: ZBC
+            + Zoin  Released-By: ZOI
+            + Zonecoin  Released-By: ZNE
+            + ZSEcoin  Released-By: ZSE
 
           - Changed coins:
             + ACE (TokenStars) (ACE) changed name from Ace
@@ -1323,343 +1323,343 @@
             + Zcoin (XZC) changed name from ZCoin
             + Horizen (ZEN) changed name from ZenCash
 
-          - Total coins now 2076 (from 1599)
+          - Total coins now 2076  Released-By: from 1599
 
 
-20180606  2018-06-06 (PERLANCAR)
+20180606  2018-06-06  Released-By: PERLANCAR
 
           - Update to CMC 2018-06-06.
 
           - New coins:
-            + 0xBitcoin (0xBTC)
-            + AC3 (AC3)
-            + AdHive (ADH)
-            + Aditus (ADI)
-            + AgrolifeCoin (AGLC)
-            + Amon (AMN)
-            + Apex (CPX)
-            + Aphelion (APH)
-            + APIS (APIS)
-            + APR Coin (APR)
-            + Arbitracoin (ATC)
-            + Aston (ASTON)
-            + Auctus (AUC)
-            + TraDove B2BCoin (BBC)
-            + B3Coin (KB3)
-            + Bank Coin (BANK)
-            + Bankera (BNK)
-            + BelugaPay (BBI)
-            + BetterBetting (BETR)
-            + Bezant (BZNT)
-            + Bigbom (BBO)
-            + Biotron (BTRN)
-            + BitTube (TUBE)
-            + Bitcoin Interest (BCI)
-            + Bitsum (BSM)
-            + BlockMesh (BMH)
-            + BoutsPro (BOUTS)
-            + BrahmaOS (BRM)
-            + Budbo (BUBO)
-            + Callisto Network (CLO)
-            + Cazcoin (CAZ)
-            + Chainium (CHX)
-            + CK USD (CKUSD)
-            + Colu Local Network (CLN)
-            + CommerceBlock (CBT)
-            + ConnectJob (CJT)
-            + Content Neutrality Network (CNN)
-            + ContractNet (CNET)
-            + Cortex (CTXC)
-            + Cropcoin (CROP)
-            + Crowd Machine (CMCT)
-            + CryCash (CRC)
-            + Cryptaur (CPT)
-            + Curriculum Vitae (CVH)
-            + Cybereits (CRE)
-            + CyberVein (CVT)
-            + DAEX (DAX)
-            + Daneel (DAN)
-            + DAOstack (GEN)
-            + Dascoin (DASC)
-            + Datarius Credit (DTRC)
-            + Decentralized Universal Basic Income (DML)
-            + Dero (DERO)
-            + DeviantCoin (DEV)
-            + Digitex Futures (DGTX)
-            + Digix Gold Token (DGX)
-            + Dignity (DIG)
-            + Docademic (MTC)
-            + Dock (DOCK)
-            + Earth Token (EARTH)
-            + EduCoin (EDU)
-            + Effect.AI (EFX)
-            + EJOY (EJOY)
-            + Endor Protocol (ENDOR)
-            + eosDAC (EOSDAC)
-            + eREAL (EREAL)
-            + Ether Zero (ETZ)
-            + Eximchain (EXC)
-            + Fabric Token (FT)
-            + Faceter (FACE)
-            + Fantasy Cash (FANS)
-            + Fidelium (FID)
-            + FintruX Network (FTX)
-            + Fitrova (FRV)
-            + Freyrchain (FREC)
-            + Friendz (FDZ)
-            + FundRequest (FND)
-            + FuzeX (FXT)
-            + GINcoin (GIN)
-            + Global Social Chain (GSC)
-            + GreenMed (GRMD)
-            + Hade Platform (HADE)
-            + Hat.Exchange (HAT)
-            + Haven Protocol (XHV)
-            + Helbiz (HBZ)
-            + Hero (HERO2)
-            + HeroNode (HER)
-            + Holo (HOT)
-            + Hydrogen (HYDROGEN)
-            + imbrex (REX)
-            + Influence Chain (INC)
-            + InsurChain (INSUR)
-            + Intelligent Investment Chain (IIC)
-            + Intelligent Trading Tech (ITT)
-            + Invacio (INV)
-            + IoTeX (IOTX)
-            + Ivy (IVY)
-            + KEY (KEY2)
-            + Lendingblock (LND)
-            + Level Up Coin (LUC)
-            + Leviar (XLC)
-            + Libra Credit (LBA)
-            + Linker Coin (LNC)
-            + Live Stars (LIVE)
-            + Local World Forwarders (LWF)
-            + Loki (LOKI)
-            + Loopring [NEO] (LRN)
-            + LoyalCoin (LYL)
-            + MARK.SPACE (MRK)
-            + Masari (MSR)
-            + Monero Classic (XMC)
-            + Monero Original (XMO)
-            + Morpheus Labs (MITX)
-            + Morpheus Network (MORPH)
-            + MyToken (MT)
-            + Naviaddress (NAVI)
-            + Nebula AI (NBAI)
-            + Nectar (NEC)
-            + Nexo (NEXO)
-            + Nexty (NTY)
-            + NKN (NKN)
-            + NPER (NPER)
-            + Nullex (NLX)
-            + ODEM (ODE)
-            + Open Platform (OPEN)
-            + Origami (ORI)
-            + Oyster Shell (SHL)
-            + Parkgene (GENE)
-            + Patron (PAT)
-            + PCHAIN (PAI)
-            + Penta (PNT)
-            + Phantasma (SOUL)
-            + PHI Token (PHI)
-            + Pixie Coin (PIXIE)
-            + Plancoin (PLAN)
-            + PolicyPal Network (PAL)
-            + PolySwarm (NCT)
-            + Powercoin (PWR)
-            + PROUD Money (PROUD)
-            + Proxeus (XES)
-            + QuarkChain (QKC)
-            + RED (RED2)
-            + Rentberry (BERRY)
-            + REPO (REPO)
-            + Rhenium (XRH)
-            + Rublix (RBLX)
-            + Sakura Bloom (SKB)
-            + Seele (SEELE)
-            + Sentinel (SENT)
-            + Sharder (SS)
-            + Shopin (SHOP)
-            + Signals Network (SGN)
-            + Silent Notary (SNTR)
-            + Skrumble Network (SKM)
-            + SnipCoin (SNIP)
-            + SPINDLE (SPINDLE)
-            + SRCOIN (SRCOIN)
-            + Stakenet (XSN)
-            + StarCoin (KST)
-            + Stealth (XST)
-            + Stellite (XTL)
-            + Super Game Chain (SGCC)
-            + SyncFab (MFG)
-            + TokenDesk (TDS)
-            + TokenPay (TPAY)
-            + TokenStars (TEAM)
-            + Tokia (TKA)
-            + TrakInvest (TRAK)
-            + Transcodium (TNS)
-            + Travala (AVA)
-            + Tripio (TRIO)
-            + TrueUSD (TUSD)
-            + TrustNote (TTT)
-            + U Network (UUU)
-            + United Crypto Community (UCOM)
-            + Unibright (UBT)
-            + Utrum (OOT)
-            + VeriME (VME)
-            + Vice Industry Token (VIT)
-            + Vipstar Coin (VIPS)
-            + WCOIN (WIN)
-            + XinFin Network (XDCE)
-            + XYO Network (XYO)
-            + Zebi (ZCO)
-            + ZIP (ZIP)
-            + Zippie (ZIPT)
+            + 0xBitcoin  Released-By: 0xBTC
+            + AC3  Released-By: AC3
+            + AdHive  Released-By: ADH
+            + Aditus  Released-By: ADI
+            + AgrolifeCoin  Released-By: AGLC
+            + Amon  Released-By: AMN
+            + Apex  Released-By: CPX
+            + Aphelion  Released-By: APH
+            + APIS  Released-By: APIS
+            + APR Coin  Released-By: APR
+            + Arbitracoin  Released-By: ATC
+            + Aston  Released-By: ASTON
+            + Auctus  Released-By: AUC
+            + TraDove B2BCoin  Released-By: BBC
+            + B3Coin  Released-By: KB3
+            + Bank Coin  Released-By: BANK
+            + Bankera  Released-By: BNK
+            + BelugaPay  Released-By: BBI
+            + BetterBetting  Released-By: BETR
+            + Bezant  Released-By: BZNT
+            + Bigbom  Released-By: BBO
+            + Biotron  Released-By: BTRN
+            + BitTube  Released-By: TUBE
+            + Bitcoin Interest  Released-By: BCI
+            + Bitsum  Released-By: BSM
+            + BlockMesh  Released-By: BMH
+            + BoutsPro  Released-By: BOUTS
+            + BrahmaOS  Released-By: BRM
+            + Budbo  Released-By: BUBO
+            + Callisto Network  Released-By: CLO
+            + Cazcoin  Released-By: CAZ
+            + Chainium  Released-By: CHX
+            + CK USD  Released-By: CKUSD
+            + Colu Local Network  Released-By: CLN
+            + CommerceBlock  Released-By: CBT
+            + ConnectJob  Released-By: CJT
+            + Content Neutrality Network  Released-By: CNN
+            + ContractNet  Released-By: CNET
+            + Cortex  Released-By: CTXC
+            + Cropcoin  Released-By: CROP
+            + Crowd Machine  Released-By: CMCT
+            + CryCash  Released-By: CRC
+            + Cryptaur  Released-By: CPT
+            + Curriculum Vitae  Released-By: CVH
+            + Cybereits  Released-By: CRE
+            + CyberVein  Released-By: CVT
+            + DAEX  Released-By: DAX
+            + Daneel  Released-By: DAN
+            + DAOstack  Released-By: GEN
+            + Dascoin  Released-By: DASC
+            + Datarius Credit  Released-By: DTRC
+            + Decentralized Universal Basic Income  Released-By: DML
+            + Dero  Released-By: DERO
+            + DeviantCoin  Released-By: DEV
+            + Digitex Futures  Released-By: DGTX
+            + Digix Gold Token  Released-By: DGX
+            + Dignity  Released-By: DIG
+            + Docademic  Released-By: MTC
+            + Dock  Released-By: DOCK
+            + Earth Token  Released-By: EARTH
+            + EduCoin  Released-By: EDU
+            + Effect.AI  Released-By: EFX
+            + EJOY  Released-By: EJOY
+            + Endor Protocol  Released-By: ENDOR
+            + eosDAC  Released-By: EOSDAC
+            + eREAL  Released-By: EREAL
+            + Ether Zero  Released-By: ETZ
+            + Eximchain  Released-By: EXC
+            + Fabric Token  Released-By: FT
+            + Faceter  Released-By: FACE
+            + Fantasy Cash  Released-By: FANS
+            + Fidelium  Released-By: FID
+            + FintruX Network  Released-By: FTX
+            + Fitrova  Released-By: FRV
+            + Freyrchain  Released-By: FREC
+            + Friendz  Released-By: FDZ
+            + FundRequest  Released-By: FND
+            + FuzeX  Released-By: FXT
+            + GINcoin  Released-By: GIN
+            + Global Social Chain  Released-By: GSC
+            + GreenMed  Released-By: GRMD
+            + Hade Platform  Released-By: HADE
+            + Hat.Exchange  Released-By: HAT
+            + Haven Protocol  Released-By: XHV
+            + Helbiz  Released-By: HBZ
+            + Hero  Released-By: HERO2
+            + HeroNode  Released-By: HER
+            + Holo  Released-By: HOT
+            + Hydrogen  Released-By: HYDROGEN
+            + imbrex  Released-By: REX
+            + Influence Chain  Released-By: INC
+            + InsurChain  Released-By: INSUR
+            + Intelligent Investment Chain  Released-By: IIC
+            + Intelligent Trading Tech  Released-By: ITT
+            + Invacio  Released-By: INV
+            + IoTeX  Released-By: IOTX
+            + Ivy  Released-By: IVY
+            + KEY  Released-By: KEY2
+            + Lendingblock  Released-By: LND
+            + Level Up Coin  Released-By: LUC
+            + Leviar  Released-By: XLC
+            + Libra Credit  Released-By: LBA
+            + Linker Coin  Released-By: LNC
+            + Live Stars  Released-By: LIVE
+            + Local World Forwarders  Released-By: LWF
+            + Loki  Released-By: LOKI
+            + Loopring [NEO]  Released-By: LRN
+            + LoyalCoin  Released-By: LYL
+            + MARK.SPACE  Released-By: MRK
+            + Masari  Released-By: MSR
+            + Monero Classic  Released-By: XMC
+            + Monero Original  Released-By: XMO
+            + Morpheus Labs  Released-By: MITX
+            + Morpheus Network  Released-By: MORPH
+            + MyToken  Released-By: MT
+            + Naviaddress  Released-By: NAVI
+            + Nebula AI  Released-By: NBAI
+            + Nectar  Released-By: NEC
+            + Nexo  Released-By: NEXO
+            + Nexty  Released-By: NTY
+            + NKN  Released-By: NKN
+            + NPER  Released-By: NPER
+            + Nullex  Released-By: NLX
+            + ODEM  Released-By: ODE
+            + Open Platform  Released-By: OPEN
+            + Origami  Released-By: ORI
+            + Oyster Shell  Released-By: SHL
+            + Parkgene  Released-By: GENE
+            + Patron  Released-By: PAT
+            + PCHAIN  Released-By: PAI
+            + Penta  Released-By: PNT
+            + Phantasma  Released-By: SOUL
+            + PHI Token  Released-By: PHI
+            + Pixie Coin  Released-By: PIXIE
+            + Plancoin  Released-By: PLAN
+            + PolicyPal Network  Released-By: PAL
+            + PolySwarm  Released-By: NCT
+            + Powercoin  Released-By: PWR
+            + PROUD Money  Released-By: PROUD
+            + Proxeus  Released-By: XES
+            + QuarkChain  Released-By: QKC
+            + RED  Released-By: RED2
+            + Rentberry  Released-By: BERRY
+            + REPO  Released-By: REPO
+            + Rhenium  Released-By: XRH
+            + Rublix  Released-By: RBLX
+            + Sakura Bloom  Released-By: SKB
+            + Seele  Released-By: SEELE
+            + Sentinel  Released-By: SENT
+            + Sharder  Released-By: SS
+            + Shopin  Released-By: SHOP
+            + Signals Network  Released-By: SGN
+            + Silent Notary  Released-By: SNTR
+            + Skrumble Network  Released-By: SKM
+            + SnipCoin  Released-By: SNIP
+            + SPINDLE  Released-By: SPINDLE
+            + SRCOIN  Released-By: SRCOIN
+            + Stakenet  Released-By: XSN
+            + StarCoin  Released-By: KST
+            + Stealth  Released-By: XST
+            + Stellite  Released-By: XTL
+            + Super Game Chain  Released-By: SGCC
+            + SyncFab  Released-By: MFG
+            + TokenDesk  Released-By: TDS
+            + TokenPay  Released-By: TPAY
+            + TokenStars  Released-By: TEAM
+            + Tokia  Released-By: TKA
+            + TrakInvest  Released-By: TRAK
+            + Transcodium  Released-By: TNS
+            + Travala  Released-By: AVA
+            + Tripio  Released-By: TRIO
+            + TrueUSD  Released-By: TUSD
+            + TrustNote  Released-By: TTT
+            + U Network  Released-By: UUU
+            + United Crypto Community  Released-By: UCOM
+            + Unibright  Released-By: UBT
+            + Utrum  Released-By: OOT
+            + VeriME  Released-By: VME
+            + Vice Industry Token  Released-By: VIT
+            + Vipstar Coin  Released-By: VIPS
+            + WCOIN  Released-By: WIN
+            + XinFin Network  Released-By: XDCE
+            + XYO Network  Released-By: XYO
+            + Zebi  Released-By: ZCO
+            + ZIP  Released-By: ZIP
+            + Zippie  Released-By: ZIPT
 
           - Removed coins:
-            + Abncoin (ABN)
-            + AlpaCoin (APC)
-            + AntiBitcoin (ANTI)
-            + Antilitecoin (ALTC)
-            + BatCoin (BATCOIN)
-            + BillaryCoin (BLRY)
-            + BitAlphaCoin (BAC)
-            + BitBoost (BBT)
-            + Bitcedi (BXC)
-            + BITFID (FID)
-            + Blackstar (BSTAR)
-            + Blitzcash (BLITZ)
-            + Braincoin (BRAIN)
-            + CaliphCoin (CALC)
-            + Cashme (CME)
-            + CCMiner (CCM100)
-            + CoExistCoin (COXST)
-            + Compcoin (CMP)
-            + Confido (CFD)
-            + CRTCoin (CRT)
-            + CryptoEscudo (CESC)
-            + CryptoForecast (CFT)
-            + CyberCoin (CC)
-            + Cypher (CYP)
-            + DCORP (DRP)
-            + DFSCoin (DFS)
-            + DIBCOIN (DIBC)
-            + Digital Bullion Gold (DBG)
-            + Digital Credits (DGCS)
-            + DNotes (NOTE)
-            + Dubstep (DUB)
-            + EarthCoin (EAC)
-            + EGO (EGO)
-            + eGold (EGOLD)
-            + Elacoin (ELC)
-            + Enigma (XNG)
-            + Evotion (EVO)
-            + FIMKrypto (FIMK)
-            + FlappyCoin (FLAP)
-            + Fonziecoin (FONZ)
-            + Footy Cash (XFT)
-            + Franko (FRK)
-            + FrankyWillCoin (FRWC)
-            + FuckToken (FUCK)
-            + FuelCoin (FC2)
-            + FutCoin (FUTC)
-            + GAIA (GAIA)
-            + GameLeagueCoin (GML)
-            + GanjaCoin (MRJA)
-            + GAY Money (GAY)
-            + G3N (G3N)
-            + Giga Watt Token (WTT)
-            + GoldReserve (XGR)
-            + GPU Coin (GPU)
-            + Greencoin (GRE)
-            + Happy Creator Coin (HCC)
-            + Hawala.Today (HAT)
-            + HitCoin (HTC)
-            + iDice (ICE)
-            + InfChain (INF)
-            + Intelligent Trading Tech (ITT)
-            + International Diamond (INTLDIAMOND)
-            + Interplanetary Broadcast Coin (IPBC)
-            + InvisibleCoin (IVZ)
-            + Kayicoin (KAYI)
-            + Kzcash (KZC)
-            + LAthaan (LTH)
-            + Lazaruscoin (LAZ)
-            + LeafCoin (LEAF)
-            + LendConnect (LCT)
-            + LeviarCoin (XLC)
-            + Link Platform (LNK)
-            + LLToken (LLT)
-            + MergeCoin (MGC)
-            + MMXVI (MMXVI)
-            + MobileCash (MBL)
-            + Monero Gold (XMRG)
-            + Moneta (MONETA)
-            + Natcoin (NTC)
-            + netBit (NBIT)
-            + Nexxus (NXX)
-            + NVO (NVST)
-            + OCOW (OCOW)
-            + Orlycoin (ORLY)
-            + OsmiumCoin (OS76)
-            + P7Coin (P7C)
-            + PayPeer (PAYP)
-            + PinkDog (PDG)
-            + PizzaCoin (PIZZA)
-            + Project Decorum (PDC)
-            + Prospectors Gold (PGL)
-            + Psilocybin (PSY)
-            + Pulse (PULSE)
-            + REX (REX)
-            + Remicoin (REMI)
-            + RHFCoin (RHFC)
-            + Ride My Car (RIDE)
-            + Ripto Bux (RBX)
-            + RubleBit (RUBIT)
-            + Rustbits (RUSTBITS)
-            + SACoin (SAC)
-            + SafeCoin (SFE)
-            + Slimcoin (SLM)
-            + SnakeEyes (SNAKE)
-            + Sojourn (SOJ)
-            + SpherePay (SAY)
-            + Spots (SPT)
-            + SproutsExtreme (SPEX)
-            + Stealthcoin (XST)
-            + SwagBucks (BUCKS)
-            + SwapToken (TOKEN)
-            + SydPak (SDP)
-            + TeamUp (TEAM)
-            + TechShares (THS)
-            + The Vegan Initiative (XVE)
-            + TheCreed (TCR)
-            + TimesCoin (TMC)
-            + Topaz Coin (TOPAZ)
-            + Torcoin (TOR)
-            + Triaconta (TRIA)
-            + TrickyCoin (TRICK)
-            + True USD (TUSD)
-            + Tychocoin (TYCHO)
-            + UG Token (UGT)
-            + Unity Ingot (UNY)
-            + Unrealcoin (URC)
-            + Valorbit (VAL)
-            + VIP Tokens (VIP)
-            + Virtacoinplus (XVP)
-            + VirtualCoin (VC)
-            + Voyacoin (VOYA)
-            + VPNCoin (VASH)
-            + WARP (WARP)
-            + WayGuide (WAY)
-            + Wowcoin (WOW)
-            + Xaucoin (XAU)
-            + Xonecoin (XOC)
-            + Yacoin (YAC)
-            + YashCoin (YASH)
-            + Zlancer (ZCG)
-            + Zonecoin (ZNE)
+            + Abncoin  Released-By: ABN
+            + AlpaCoin  Released-By: APC
+            + AntiBitcoin  Released-By: ANTI
+            + Antilitecoin  Released-By: ALTC
+            + BatCoin  Released-By: BATCOIN
+            + BillaryCoin  Released-By: BLRY
+            + BitAlphaCoin  Released-By: BAC
+            + BitBoost  Released-By: BBT
+            + Bitcedi  Released-By: BXC
+            + BITFID  Released-By: FID
+            + Blackstar  Released-By: BSTAR
+            + Blitzcash  Released-By: BLITZ
+            + Braincoin  Released-By: BRAIN
+            + CaliphCoin  Released-By: CALC
+            + Cashme  Released-By: CME
+            + CCMiner  Released-By: CCM100
+            + CoExistCoin  Released-By: COXST
+            + Compcoin  Released-By: CMP
+            + Confido  Released-By: CFD
+            + CRTCoin  Released-By: CRT
+            + CryptoEscudo  Released-By: CESC
+            + CryptoForecast  Released-By: CFT
+            + CyberCoin  Released-By: CC
+            + Cypher  Released-By: CYP
+            + DCORP  Released-By: DRP
+            + DFSCoin  Released-By: DFS
+            + DIBCOIN  Released-By: DIBC
+            + Digital Bullion Gold  Released-By: DBG
+            + Digital Credits  Released-By: DGCS
+            + DNotes  Released-By: NOTE
+            + Dubstep  Released-By: DUB
+            + EarthCoin  Released-By: EAC
+            + EGO  Released-By: EGO
+            + eGold  Released-By: EGOLD
+            + Elacoin  Released-By: ELC
+            + Enigma  Released-By: XNG
+            + Evotion  Released-By: EVO
+            + FIMKrypto  Released-By: FIMK
+            + FlappyCoin  Released-By: FLAP
+            + Fonziecoin  Released-By: FONZ
+            + Footy Cash  Released-By: XFT
+            + Franko  Released-By: FRK
+            + FrankyWillCoin  Released-By: FRWC
+            + FuckToken  Released-By: FUCK
+            + FuelCoin  Released-By: FC2
+            + FutCoin  Released-By: FUTC
+            + GAIA  Released-By: GAIA
+            + GameLeagueCoin  Released-By: GML
+            + GanjaCoin  Released-By: MRJA
+            + GAY Money  Released-By: GAY
+            + G3N  Released-By: G3N
+            + Giga Watt Token  Released-By: WTT
+            + GoldReserve  Released-By: XGR
+            + GPU Coin  Released-By: GPU
+            + Greencoin  Released-By: GRE
+            + Happy Creator Coin  Released-By: HCC
+            + Hawala.Today  Released-By: HAT
+            + HitCoin  Released-By: HTC
+            + iDice  Released-By: ICE
+            + InfChain  Released-By: INF
+            + Intelligent Trading Tech  Released-By: ITT
+            + International Diamond  Released-By: INTLDIAMOND
+            + Interplanetary Broadcast Coin  Released-By: IPBC
+            + InvisibleCoin  Released-By: IVZ
+            + Kayicoin  Released-By: KAYI
+            + Kzcash  Released-By: KZC
+            + LAthaan  Released-By: LTH
+            + Lazaruscoin  Released-By: LAZ
+            + LeafCoin  Released-By: LEAF
+            + LendConnect  Released-By: LCT
+            + LeviarCoin  Released-By: XLC
+            + Link Platform  Released-By: LNK
+            + LLToken  Released-By: LLT
+            + MergeCoin  Released-By: MGC
+            + MMXVI  Released-By: MMXVI
+            + MobileCash  Released-By: MBL
+            + Monero Gold  Released-By: XMRG
+            + Moneta  Released-By: MONETA
+            + Natcoin  Released-By: NTC
+            + netBit  Released-By: NBIT
+            + Nexxus  Released-By: NXX
+            + NVO  Released-By: NVST
+            + OCOW  Released-By: OCOW
+            + Orlycoin  Released-By: ORLY
+            + OsmiumCoin  Released-By: OS76
+            + P7Coin  Released-By: P7C
+            + PayPeer  Released-By: PAYP
+            + PinkDog  Released-By: PDG
+            + PizzaCoin  Released-By: PIZZA
+            + Project Decorum  Released-By: PDC
+            + Prospectors Gold  Released-By: PGL
+            + Psilocybin  Released-By: PSY
+            + Pulse  Released-By: PULSE
+            + REX  Released-By: REX
+            + Remicoin  Released-By: REMI
+            + RHFCoin  Released-By: RHFC
+            + Ride My Car  Released-By: RIDE
+            + Ripto Bux  Released-By: RBX
+            + RubleBit  Released-By: RUBIT
+            + Rustbits  Released-By: RUSTBITS
+            + SACoin  Released-By: SAC
+            + SafeCoin  Released-By: SFE
+            + Slimcoin  Released-By: SLM
+            + SnakeEyes  Released-By: SNAKE
+            + Sojourn  Released-By: SOJ
+            + SpherePay  Released-By: SAY
+            + Spots  Released-By: SPT
+            + SproutsExtreme  Released-By: SPEX
+            + Stealthcoin  Released-By: XST
+            + SwagBucks  Released-By: BUCKS
+            + SwapToken  Released-By: TOKEN
+            + SydPak  Released-By: SDP
+            + TeamUp  Released-By: TEAM
+            + TechShares  Released-By: THS
+            + The Vegan Initiative  Released-By: XVE
+            + TheCreed  Released-By: TCR
+            + TimesCoin  Released-By: TMC
+            + Topaz Coin  Released-By: TOPAZ
+            + Torcoin  Released-By: TOR
+            + Triaconta  Released-By: TRIA
+            + TrickyCoin  Released-By: TRICK
+            + True USD  Released-By: TUSD
+            + Tychocoin  Released-By: TYCHO
+            + UG Token  Released-By: UGT
+            + Unity Ingot  Released-By: UNY
+            + Unrealcoin  Released-By: URC
+            + Valorbit  Released-By: VAL
+            + VIP Tokens  Released-By: VIP
+            + Virtacoinplus  Released-By: XVP
+            + VirtualCoin  Released-By: VC
+            + Voyacoin  Released-By: VOYA
+            + VPNCoin  Released-By: VASH
+            + WARP  Released-By: WARP
+            + WayGuide  Released-By: WAY
+            + Wowcoin  Released-By: WOW
+            + Xaucoin  Released-By: XAU
+            + Xonecoin  Released-By: XOC
+            + Yacoin  Released-By: YAC
+            + YashCoin  Released-By: YASH
+            + Zlancer  Released-By: ZCG
+            + Zonecoin  Released-By: ZNE
 
           - Changed coins:
             + SONO (SONO) changed code from ALTCOM
@@ -1681,126 +1681,126 @@
             + SpeedCash (SCS) changed name from Speedcash
             + Switcheo (SWTH) changed code from SWH
 
-          - Total coins now 1644 (from 1599)
+          - Total coins now 1644  Released-By: from 1599
 
 
-20180403  2018-04-03 (PERLANCAR)
+20180403  2018-04-03  Released-By: PERLANCAR
 
           - New coins:
-            + 1World (1WO)
-            + AMLT Token (AMLT)
-            + Ammo Reloaded (AMMO)
-            + Astro (ASTRO)
-            + BABB (BAX)
-            + Banca (BANCA)
-            + Banyan Network (BBN)
-            + Bee Token (BEE)
-            + Bitcoin Green (BITG)
-            + Bitcoin Private (BTCP)
-            + BitRent (RNTB)
-            + BitStation (BSTN)
-            + BitWhite (BTW)
-            + BlitzPredict (XBP)
-            + Blocklancer (LNC)
-            + Blox (CDT)
-            + BnkToTheFuture (BFT)
-            + Bullion (CBX)
-            + Centrality (CENNZ)
-            + ClearCoin (CLR)
-            + CoinPoker (CHP)
-            + ColossusXT (COLX)
-            + Consensus (SEN)
-            + Credits (CS)
-            + CryptCoin (CRYPT)
-            + Cube (AUTO)
-            + DATx (DATX)
-            + Debitum Network (DEB)
-            + Dragon Coins (DRG)
-            + Dropil (DROP)
-            + Education Ecosystem (LEDU)
-            + Electrify.Asia (ELEC)
-            + EmberCoin (EMB)
-            + EtherDelta Token (EDT)
-            + EZToken (EZT)
-            + Fluz Fluz (FLUZ)
-            + Global Cryptocurrency (GCC)
-            + Graft (GRFT)
-            + Guaranteed Ethurance Token Extra (GETX)
-            + GXChain (GXS)
-            + Havven (HAV)
-            + HireMatch (HIRE)
-            + HOQU (HQX)
-            + IHT Real Estate Protocol (IHT)
-            + Insights Network (INSTAR)
-            + Interplanetary Broadcast Coin (IPBC)
-            + Interzone (ITZ)
-            + IP Exchange (IPSX)
-            + JET8 (J8T)
-            + LALA World (LALA)
-            + LatiumX (LATX)
-            + Leadcoin (LDC)
-            + Legolas Exchange (LGO)
-            + Lendroid Support Token (LST)
-            + Loom Network (LOOM)
-            + Lympo (LYM)
-            + MedicCoin (MEDIC)
-            + Mithril (MITH)
-            + NANJCOIN (NANJ)
-            + NaPoleonX (NPX)
-            + Network Token (NTWK)
-            + Nexxus (NXX)
-            + Noah Coin (NOAH)
-            + Octoin Coin (OCC)
-            + Ontology (ONT)
-            + OST (OST)
-            + Paypex (PAYX)
-            + Peculium (PCL)
-            + Ravencoin (RVN)
-            + REBL (REBL)
-            + Refereum (RFR)
-            + RevolutionVR (RVR)
-            + Sentinel Chain (SENC)
-            + Sether (SETH)
-            + Sharpe Platform Token (SHP)
-            + ShipChain (SHIP)
-            + Signal Token (SIG)
-            + Slimcoin (SLM)
-            + SpherePay (SAY)
-            + StarterCoin (STAC)
-            + Stipend (SPD)
-            + StockChain (SCC)
-            + Storiqa (STQ)
-            + Switcheo (SWH)
-            + TE-FOOD (TFD)
-            + The Cypherfunks (FUNK)
-            + Titanium BAR (TBAR)
-            + Tokenomy (TEN)
-            + TomoChain (TOMO)
-            + True USD (TUSD)
-            + UpToken (UP)
-            + Wanchain (WAN)
+            + 1World  Released-By: 1WO
+            + AMLT Token  Released-By: AMLT
+            + Ammo Reloaded  Released-By: AMMO
+            + Astro  Released-By: ASTRO
+            + BABB  Released-By: BAX
+            + Banca  Released-By: BANCA
+            + Banyan Network  Released-By: BBN
+            + Bee Token  Released-By: BEE
+            + Bitcoin Green  Released-By: BITG
+            + Bitcoin Private  Released-By: BTCP
+            + BitRent  Released-By: RNTB
+            + BitStation  Released-By: BSTN
+            + BitWhite  Released-By: BTW
+            + BlitzPredict  Released-By: XBP
+            + Blocklancer  Released-By: LNC
+            + Blox  Released-By: CDT
+            + BnkToTheFuture  Released-By: BFT
+            + Bullion  Released-By: CBX
+            + Centrality  Released-By: CENNZ
+            + ClearCoin  Released-By: CLR
+            + CoinPoker  Released-By: CHP
+            + ColossusXT  Released-By: COLX
+            + Consensus  Released-By: SEN
+            + Credits  Released-By: CS
+            + CryptCoin  Released-By: CRYPT
+            + Cube  Released-By: AUTO
+            + DATx  Released-By: DATX
+            + Debitum Network  Released-By: DEB
+            + Dragon Coins  Released-By: DRG
+            + Dropil  Released-By: DROP
+            + Education Ecosystem  Released-By: LEDU
+            + Electrify.Asia  Released-By: ELEC
+            + EmberCoin  Released-By: EMB
+            + EtherDelta Token  Released-By: EDT
+            + EZToken  Released-By: EZT
+            + Fluz Fluz  Released-By: FLUZ
+            + Global Cryptocurrency  Released-By: GCC
+            + Graft  Released-By: GRFT
+            + Guaranteed Ethurance Token Extra  Released-By: GETX
+            + GXChain  Released-By: GXS
+            + Havven  Released-By: HAV
+            + HireMatch  Released-By: HIRE
+            + HOQU  Released-By: HQX
+            + IHT Real Estate Protocol  Released-By: IHT
+            + Insights Network  Released-By: INSTAR
+            + Interplanetary Broadcast Coin  Released-By: IPBC
+            + Interzone  Released-By: ITZ
+            + IP Exchange  Released-By: IPSX
+            + JET8  Released-By: J8T
+            + LALA World  Released-By: LALA
+            + LatiumX  Released-By: LATX
+            + Leadcoin  Released-By: LDC
+            + Legolas Exchange  Released-By: LGO
+            + Lendroid Support Token  Released-By: LST
+            + Loom Network  Released-By: LOOM
+            + Lympo  Released-By: LYM
+            + MedicCoin  Released-By: MEDIC
+            + Mithril  Released-By: MITH
+            + NANJCOIN  Released-By: NANJ
+            + NaPoleonX  Released-By: NPX
+            + Network Token  Released-By: NTWK
+            + Nexxus  Released-By: NXX
+            + Noah Coin  Released-By: NOAH
+            + Octoin Coin  Released-By: OCC
+            + Ontology  Released-By: ONT
+            + OST  Released-By: OST
+            + Paypex  Released-By: PAYX
+            + Peculium  Released-By: PCL
+            + Ravencoin  Released-By: RVN
+            + REBL  Released-By: REBL
+            + Refereum  Released-By: RFR
+            + RevolutionVR  Released-By: RVR
+            + Sentinel Chain  Released-By: SENC
+            + Sether  Released-By: SETH
+            + Sharpe Platform Token  Released-By: SHP
+            + ShipChain  Released-By: SHIP
+            + Signal Token  Released-By: SIG
+            + Slimcoin  Released-By: SLM
+            + SpherePay  Released-By: SAY
+            + StarterCoin  Released-By: STAC
+            + Stipend  Released-By: SPD
+            + StockChain  Released-By: SCC
+            + Storiqa  Released-By: STQ
+            + Switcheo  Released-By: SWH
+            + TE-FOOD  Released-By: TFD
+            + The Cypherfunks  Released-By: FUNK
+            + Titanium BAR  Released-By: TBAR
+            + Tokenomy  Released-By: TEN
+            + TomoChain  Released-By: TOMO
+            + True USD  Released-By: TUSD
+            + UpToken  Released-By: UP
+            + Wanchain  Released-By: WAN
 
           - Removed coins:
-            + Agoras Tokens (AGRS)
-            + AgrolifeCoin (AGLC)
-            + Ammo Reloaded (AMMO)
-            + B3Coin (KB3)
-            + Bitcoin White (BTW)
-            + CoinDash (CDT)
-            + Colossuscoin V2 (CV2)
-            + ColossusCoinXT (COLX)
-            + Crypto Bullion (CBX)
-            + EOT Token (EOT)
-            + FireFlyCoin (FFC)
-            + GXShares (GXS)
-            + HTML5COIN (HTML5)
-            + MoneyCoin (MONEY)
-            + Rebellious (REBL)
-            + Rupaya [OLD] (RUPXOLD)
-            + Simple Token (OST)
-            + TheGCCcoin (GCC)
-            + Voxels (VOX)
-            + Yescoin (YES)
+            + Agoras Tokens  Released-By: AGRS
+            + AgrolifeCoin  Released-By: AGLC
+            + Ammo Reloaded  Released-By: AMMO
+            + B3Coin  Released-By: KB3
+            + Bitcoin White  Released-By: BTW
+            + CoinDash  Released-By: CDT
+            + Colossuscoin V2  Released-By: CV2
+            + ColossusCoinXT  Released-By: COLX
+            + Crypto Bullion  Released-By: CBX
+            + EOT Token  Released-By: EOT
+            + FireFlyCoin  Released-By: FFC
+            + GXShares  Released-By: GXS
+            + HTML5COIN  Released-By: HTML5
+            + MoneyCoin  Released-By: MONEY
+            + Rebellious  Released-By: REBL
+            + Rupaya [OLD]  Released-By: RUPXOLD
+            + Simple Token  Released-By: OST
+            + TheGCCcoin  Released-By: GCC
+            + Voxels  Released-By: VOX
+            + Yescoin  Released-By: YES
 
           - Changed coins:
             + COPYTRACK (CPY) changed name from Copytrack
@@ -1810,70 +1810,70 @@
             + Pundi X (NPXS) changed code from PXS
             + YEE (YEE) changed name from Yee
 
-          - Total coins now 1599 (from 1527)
+          - Total coins now 1599  Released-By: from 1527
 
 
-20180312  2018-03-12 (PERLANCAR)
+20180312  2018-03-12  Released-By: PERLANCAR
 
           - New coins:
-            + Ammo Reloaded (AMMO)
-            + Astro (ASTRO)
-            + BABB (BAX)
-            + Bee Token (BEE)
-            + Bitcoin Private (BTCP)
-            + BitWhite (BTW)
-            + Blox (CDT)
-            + CoinPoker (CHP)
-            + Credits (CS)
-            + Cube (AUTO)
-            + DATx (DATX)
-            + Education Ecosystem (LEDU)
-            + Electrify.Asia (ELEC)
-            + EZToken (EZT)
-            + Graft (GRFT)
-            + GXChain (GXS)
-            + HOQU (HQX)
-            + IHT Real Estate Protocol (IHT)
-            + Insights Network (INSTAR)
-            + Interplanetary Broadcast Coin (IPBC)
-            + JET8 (J8T)
-            + Lympo (LYM)
-            + Network Token (NTWK)
-            + Ontology (ONT)
-            + Ravencoin (RVN)
-            + Refereum (RFR)
-            + Sether (SETH)
-            + ShipChain (SHIP)
-            + SpherePay (SAY)
-            + StarterCoin (STAC)
-            + TE-FOOD (TFD)
-            + Tokenomy (TEN)
-            + TomoChain (TOMO)
-            + True USD (TUSD)
+            + Ammo Reloaded  Released-By: AMMO
+            + Astro  Released-By: ASTRO
+            + BABB  Released-By: BAX
+            + Bee Token  Released-By: BEE
+            + Bitcoin Private  Released-By: BTCP
+            + BitWhite  Released-By: BTW
+            + Blox  Released-By: CDT
+            + CoinPoker  Released-By: CHP
+            + Credits  Released-By: CS
+            + Cube  Released-By: AUTO
+            + DATx  Released-By: DATX
+            + Education Ecosystem  Released-By: LEDU
+            + Electrify.Asia  Released-By: ELEC
+            + EZToken  Released-By: EZT
+            + Graft  Released-By: GRFT
+            + GXChain  Released-By: GXS
+            + HOQU  Released-By: HQX
+            + IHT Real Estate Protocol  Released-By: IHT
+            + Insights Network  Released-By: INSTAR
+            + Interplanetary Broadcast Coin  Released-By: IPBC
+            + JET8  Released-By: J8T
+            + Lympo  Released-By: LYM
+            + Network Token  Released-By: NTWK
+            + Ontology  Released-By: ONT
+            + Ravencoin  Released-By: RVN
+            + Refereum  Released-By: RFR
+            + Sether  Released-By: SETH
+            + ShipChain  Released-By: SHIP
+            + SpherePay  Released-By: SAY
+            + StarterCoin  Released-By: STAC
+            + TE-FOOD  Released-By: TFD
+            + Tokenomy  Released-By: TEN
+            + TomoChain  Released-By: TOMO
+            + True USD  Released-By: TUSD
 
           - Removed coins:
-            + Ammo Reloaded (AMMO)
-            + Bitcoin White (BTW)
-            + CoinDash (CDT)
-            + GXShares (GXS)
-            + Rupaya [OLD] (RUPXOLD)
+            + Ammo Reloaded  Released-By: AMMO
+            + Bitcoin White  Released-By: BTW
+            + CoinDash  Released-By: CDT
+            + GXShares  Released-By: GXS
+            + Rupaya [OLD]  Released-By: RUPXOLD
 
           - Changed coins:
             + COPYTRACK (CPY) changed name from Copytrack
             + NavCoin (NAV) changed name from NAV Coin
             + PACcoin ($PAC) changed code from PAC
 
-          - Total coins now 1556 (from 1527)
+          - Total coins now 1556  Released-By: from 1527
 
 
-20180308.1.0  2018-03-08 (PERLANCAR)
+20180308.1.0  2018-03-08  Released-By: PERLANCAR
 
           - No functional changes.
 
           - Fix Changes.
 
 
-20180308  2018-03-08 (PERLANCAR)
+20180308  2018-03-08  Released-By: PERLANCAR
 
           - [Incompatible change] Rename 'symbol' to 'code', this applies to
             method names (by_symbol -> by_code) as well as key returned (symbol
@@ -1882,130 +1882,130 @@
           - Update to CMC 2018-03-08 (no new/removed/changed coins).
 
 
-20180301  2018-03-01 (PERLANCAR)
+20180301  2018-03-01  Released-By: PERLANCAR
 
           - Update to CMC 2018-03-01.
 
           - New coins:
-            + ACChain (ACCHAIN)
-            + Alphacat (ACAT)
-            + Animation Vision Cash (AVH)
-            + Arcblock (ABT)
-            + BatCoin (BATCOIN)
-            + Bezop (BEZ)
-            + BioCoin (BIO)
-            + MUSE (MUSE)
-            + Bitswift (SWIFT)
-            + BoostCoin (BOST)
-            + Cashaa (CAS)
-            + Copytrack (CPY)
-            + DADI (DADI)
-            + Datacoin (DTC)
-            + Dether (DTH)
-            + Envion (EVN)
-            + Etherecash (ECH)
-            + Experty (EXY)
-            + Fusion (FSN)
-            + Gems  (GEM)
-            + GeoCoin (GEO)
-            + GET Protocol (GET)
-            + Gladius Token (GLA)
-            + Peerguess (GUESS)
-            + Hi Mutual Society (HIMUTUAL)
-            + Hive Project (HVN)
-            + Indicoin (INDI)
-            + Ink Protocol (XNK)
-            + Jesus Coin (JC)
-            + Karbo (KRB)
-            + LeafCoin (LEAF)
-            + Levocoin (LEVO)
-            + Litecoin Cash (LCC)
-            + LOCIcoin (LOCI)
-            + Manna (MANNA)
-            + MktCoin (MLM)
-            + Nano (NANO)
-            + Neurotoken (NTK)
-            + Nucleus Vision (NCASH)
-            + OCOW (OCOW)
-            + POA Network (POA)
-            + Polcoin (POLCOIN)
-            + Remme (REM)
-            + Republic Protocol (REN)
-            + Restart Energy MWAT (MWAT)
-            + Rock (RKT)
-            + RoyalCoin (ROYAL)
-            + Shekel (JEW)
-            + SJWCoin (SJW)
-            + Slothcoin (SLOTH)
-            + Smoke (SMOKE)
-            + Sociall (SCL)
-            + Superior Coin (SUP)
-            + SureRemit (RMT)
-            + SwapToken (TOKEN)
-            + Tidex Token (TDX)
-            + Ties.DB (TIE)
-            + Tigereum (TIG)
-            + Uniform Fiscal Object (UFO)
-            + Universa (UTNP)
-            + W3Coin (W3C)
-            + Waltonchain (WTC)
-            + XPA (XPA)
-            + YashCoin (YASH)
+            + ACChain  Released-By: ACCHAIN
+            + Alphacat  Released-By: ACAT
+            + Animation Vision Cash  Released-By: AVH
+            + Arcblock  Released-By: ABT
+            + BatCoin  Released-By: BATCOIN
+            + Bezop  Released-By: BEZ
+            + BioCoin  Released-By: BIO
+            + MUSE  Released-By: MUSE
+            + Bitswift  Released-By: SWIFT
+            + BoostCoin  Released-By: BOST
+            + Cashaa  Released-By: CAS
+            + Copytrack  Released-By: CPY
+            + DADI  Released-By: DADI
+            + Datacoin  Released-By: DTC
+            + Dether  Released-By: DTH
+            + Envion  Released-By: EVN
+            + Etherecash  Released-By: ECH
+            + Experty  Released-By: EXY
+            + Fusion  Released-By: FSN
+            + Gems   Released-By: GEM
+            + GeoCoin  Released-By: GEO
+            + GET Protocol  Released-By: GET
+            + Gladius Token  Released-By: GLA
+            + Peerguess  Released-By: GUESS
+            + Hi Mutual Society  Released-By: HIMUTUAL
+            + Hive Project  Released-By: HVN
+            + Indicoin  Released-By: INDI
+            + Ink Protocol  Released-By: XNK
+            + Jesus Coin  Released-By: JC
+            + Karbo  Released-By: KRB
+            + LeafCoin  Released-By: LEAF
+            + Levocoin  Released-By: LEVO
+            + Litecoin Cash  Released-By: LCC
+            + LOCIcoin  Released-By: LOCI
+            + Manna  Released-By: MANNA
+            + MktCoin  Released-By: MLM
+            + Nano  Released-By: NANO
+            + Neurotoken  Released-By: NTK
+            + Nucleus Vision  Released-By: NCASH
+            + OCOW  Released-By: OCOW
+            + POA Network  Released-By: POA
+            + Polcoin  Released-By: POLCOIN
+            + Remme  Released-By: REM
+            + Republic Protocol  Released-By: REN
+            + Restart Energy MWAT  Released-By: MWAT
+            + Rock  Released-By: RKT
+            + RoyalCoin  Released-By: ROYAL
+            + Shekel  Released-By: JEW
+            + SJWCoin  Released-By: SJW
+            + Slothcoin  Released-By: SLOTH
+            + Smoke  Released-By: SMOKE
+            + Sociall  Released-By: SCL
+            + Superior Coin  Released-By: SUP
+            + SureRemit  Released-By: RMT
+            + SwapToken  Released-By: TOKEN
+            + Tidex Token  Released-By: TDX
+            + Ties.DB  Released-By: TIE
+            + Tigereum  Released-By: TIG
+            + Uniform Fiscal Object  Released-By: UFO
+            + Universa  Released-By: UTNP
+            + W3Coin  Released-By: W3C
+            + Waltonchain  Released-By: WTC
+            + XPA  Released-By: XPA
+            + YashCoin  Released-By: YASH
 
           - Removed coins:
-            + 10M Token (10MT)
-            + Adelphoi (ADL)
-            + AppleCoin (APW)
-            + Astro (ASTRO)
-            + BCAP (BCAP)
-            + Bitcoin Lightning (BTCL)
-            + Bitcoin Silver (BTCSILVER)
-            + Bitcoin2x (BTC2X)
-            + Blockchain Index (BLX)
-            + BTSR (BTSR)
-            + Cash Poker Pro (CASHPOKERPRO)
-            + Corethum (CRTM)
-            + CybCSec (XCS)
-            + Decentralized Universal Basic Income (DUBI)
-            + eBIT (EBIT)
-            + eLTC (ELTC2)
-            + eREAL (EREAL)
-            + EtherDelta Token (EDT)
-            + ETHGAS (EGAS)
-            + eUSD (EUSD)
-            + Faceblock (FBL)
-            + Facecoin (FC)
-            + Gimli (GIM)
-            + GET Protocol (GET)
-            + Health Mutual Society (HMSC)
-            + Hive (HVN)
-            + Hyper TV (HYTV)
-            + iBTC (IBTC)
-            + Infinity Pay (IPY)
-            + Janus (JNS)
-            + Jinn (JINN)
-            + Karbo (KRB)
-            + LiteCoin Gold (LTG)
-            + Network Token (NTWK)
-            + Nimfamoney (NIMFA)
-            + Paypex (PAYX)
-            + Peacecoin (PEC)
-            + PeopleCoin (MEN)
-            + Nano (XRB)
-            + Rasputin Online Coin (ROC)
-            + Smart Investment Fund Token (SIFT)
-            + SmartBillions (SMARTBILLIONS)
-            + Social (SCL)
-            + Swapcoin (SWP)
-            + TeraCoin (TERA)
-            + TIES Network (TIE)
-            + UAHPay (UAHPAY)
-            + UFO Coin (UFO)
-            + UtaCoin (UTA)
-            + Walton (WTC)
-            + XDE II (XDE2)
-            + XPlay (XPA)
-            + Yellow Token (YEL)
+            + 10M Token  Released-By: 10MT
+            + Adelphoi  Released-By: ADL
+            + AppleCoin  Released-By: APW
+            + Astro  Released-By: ASTRO
+            + BCAP  Released-By: BCAP
+            + Bitcoin Lightning  Released-By: BTCL
+            + Bitcoin Silver  Released-By: BTCSILVER
+            + Bitcoin2x  Released-By: BTC2X
+            + Blockchain Index  Released-By: BLX
+            + BTSR  Released-By: BTSR
+            + Cash Poker Pro  Released-By: CASHPOKERPRO
+            + Corethum  Released-By: CRTM
+            + CybCSec  Released-By: XCS
+            + Decentralized Universal Basic Income  Released-By: DUBI
+            + eBIT  Released-By: EBIT
+            + eLTC  Released-By: ELTC2
+            + eREAL  Released-By: EREAL
+            + EtherDelta Token  Released-By: EDT
+            + ETHGAS  Released-By: EGAS
+            + eUSD  Released-By: EUSD
+            + Faceblock  Released-By: FBL
+            + Facecoin  Released-By: FC
+            + Gimli  Released-By: GIM
+            + GET Protocol  Released-By: GET
+            + Health Mutual Society  Released-By: HMSC
+            + Hive  Released-By: HVN
+            + Hyper TV  Released-By: HYTV
+            + iBTC  Released-By: IBTC
+            + Infinity Pay  Released-By: IPY
+            + Janus  Released-By: JNS
+            + Jinn  Released-By: JINN
+            + Karbo  Released-By: KRB
+            + LiteCoin Gold  Released-By: LTG
+            + Network Token  Released-By: NTWK
+            + Nimfamoney  Released-By: NIMFA
+            + Paypex  Released-By: PAYX
+            + Peacecoin  Released-By: PEC
+            + PeopleCoin  Released-By: MEN
+            + Nano  Released-By: XRB
+            + Rasputin Online Coin  Released-By: ROC
+            + Smart Investment Fund Token  Released-By: SIFT
+            + SmartBillions  Released-By: SMARTBILLIONS
+            + Social  Released-By: SCL
+            + Swapcoin  Released-By: SWP
+            + TeraCoin  Released-By: TERA
+            + TIES Network  Released-By: TIE
+            + UAHPay  Released-By: UAHPAY
+            + UFO Coin  Released-By: UFO
+            + UtaCoin  Released-By: UTA
+            + Walton  Released-By: WTC
+            + XDE II  Released-By: XDE2
+            + XPlay  Released-By: XPA
+            + Yellow Token  Released-By: YEL
 
           - Changed coins:
             + B2BX (B2B) changed name from B2B
@@ -2013,120 +2013,120 @@
             + LATOKEN (LA) changed name from LAToken
             + Polymath (POLY) changed name from Polymath Network
 
-          - Total coins now 1527 (from 1516)
+          - Total coins now 1527  Released-By: from 1516
 
 
-20180210  2018-02-10 (PERLANCAR)
+20180210  2018-02-10  Released-By: PERLANCAR
 
           - Update to CMC 2018-02-10.
 
           - New coins:
-            + adbank (ADB)
-            + BlazeCoin (BLAZE)
-            + Bluzelle (BLZ)
-            + CargoX (CXO)
-            + Datawallet (DXT)
-            + DMarket (DMT)
-            + DRP Utility (DRPU)
-            + Elastos (ELA)
-            + EtherSportz (ESZ)
-            + GanjaCoin (MRJA)
-            + GoldMint (MNTP)
-            + GrandCoin (GDC)
-            + Huobi Token (HT)
-            + Iungo (ING)
-            + Jibrel Network (JNT)
-            + KlondikeCoin (KDC)
-            + Medicalchain (MTN)
-            + Monero Gold (XMRG)
-            + Pareto Network (PARETO)
-            + Polymath Network (POLY)
-            + Sense (SENSE)
-            + SportyCo (SPF)
-            + STK (STK)
-            + Swarm (SWM)
-            + SwissBorg (CHSB)
-            + THEKEY (TKY)
-            + Travelflex (TRF)
-            + U.CASH (UCASH)
-            + WePower (WPR)
-            + Zilla (ZLA)
+            + adbank  Released-By: ADB
+            + BlazeCoin  Released-By: BLAZE
+            + Bluzelle  Released-By: BLZ
+            + CargoX  Released-By: CXO
+            + Datawallet  Released-By: DXT
+            + DMarket  Released-By: DMT
+            + DRP Utility  Released-By: DRPU
+            + Elastos  Released-By: ELA
+            + EtherSportz  Released-By: ESZ
+            + GanjaCoin  Released-By: MRJA
+            + GoldMint  Released-By: MNTP
+            + GrandCoin  Released-By: GDC
+            + Huobi Token  Released-By: HT
+            + Iungo  Released-By: ING
+            + Jibrel Network  Released-By: JNT
+            + KlondikeCoin  Released-By: KDC
+            + Medicalchain  Released-By: MTN
+            + Monero Gold  Released-By: XMRG
+            + Pareto Network  Released-By: PARETO
+            + Polymath Network  Released-By: POLY
+            + Sense  Released-By: SENSE
+            + SportyCo  Released-By: SPF
+            + STK  Released-By: STK
+            + Swarm  Released-By: SWM
+            + SwissBorg  Released-By: CHSB
+            + THEKEY  Released-By: TKY
+            + Travelflex  Released-By: TRF
+            + U.CASH  Released-By: UCASH
+            + WePower  Released-By: WPR
+            + Zilla  Released-By: ZLA
 
           - Removed coins:
-            + BeaverCoin (BVC)
-            + BT1 [CST] (BT1)
-            + BurstOcean (OCEAN)
-            + Casino (CASINO)
-            + CBD Crystals (CBD)
-            + CryptCoin (CRYPT)
-            + FlavorCoin (FLVR)
-            + GameBet Coin (GBT)
-            + GoldUnionCoin (GUC)
-            + Grantcoin (GRT)
-            + Peerguess (GUESS)
-            + Leek Coin (LEEK)
-            + Lex4All (LEX)
-            + OCOW (OCOW)
-            + RoyalCoin (ROYAL)
-            + Sling (SLING)
-            + SportyFi (SPF)
-            + Stress (STS)
-            + WMCoin (WMC)
-            + YashCoin (YASH)
+            + BeaverCoin  Released-By: BVC
+            + BT1 [CST]  Released-By: BT1
+            + BurstOcean  Released-By: OCEAN
+            + Casino  Released-By: CASINO
+            + CBD Crystals  Released-By: CBD
+            + CryptCoin  Released-By: CRYPT
+            + FlavorCoin  Released-By: FLVR
+            + GameBet Coin  Released-By: GBT
+            + GoldUnionCoin  Released-By: GUC
+            + Grantcoin  Released-By: GRT
+            + Peerguess  Released-By: GUESS
+            + Leek Coin  Released-By: LEEK
+            + Lex4All  Released-By: LEX
+            + OCOW  Released-By: OCOW
+            + RoyalCoin  Released-By: ROYAL
+            + Sling  Released-By: SLING
+            + SportyFi  Released-By: SPF
+            + Stress  Released-By: STS
+            + WMCoin  Released-By: WMC
+            + YashCoin  Released-By: YASH
 
           - Changed coins:
             + MAZA (MZC) changed name from MazaCoin
             + Nano (XRB) changed name from RaiBlocks
 
-          - Total coins now 1516 (from 1506)
+          - Total coins now 1516  Released-By: from 1506
 
 
-20180131  2018-01-31 (PERLANCAR)
+20180131  2018-01-31  Released-By: PERLANCAR
 
           - [ux] Make by_name() case-insensitive.
 
           - Update to CMC 2018-01-31.
 
           - New coins:
-            + All Sports (SOC)
-            + Bitcoin White (BTW)
-            + Blackmoon (BMC)
-            + Candy (CANDY)
-            + CoinFi (COFI)
-            + CoinMeet (MEE)
-            + CPChain (CPCHAIN)
-            + Electronic PK Chain (EPC)
-            + Equal (EQL)
-            + Fortuna (FOTA)
-            + Garlicoin (GRLC)
-            + GCN Coin (GCN)
-            + HalalChain (HLC)
-            + Health Mutual Society (HMSC)
-            + Matrix AI Network (MAN)
-            + Nework (NKC)
-            + OceanChain (OC)
-            + Photon (PHO)
-            + Pundi X (PXS)
-            + Royalties (XRY)
-            + Ruff (RUFF)
-            + Smartlands (SLT)
-            + Speed Mining Service (SMS)
-            + ValueChain (VLC)
-            + Zeepin (ZPT)
-            + Zilliqa (ZIL)
+            + All Sports  Released-By: SOC
+            + Bitcoin White  Released-By: BTW
+            + Blackmoon  Released-By: BMC
+            + Candy  Released-By: CANDY
+            + CoinFi  Released-By: COFI
+            + CoinMeet  Released-By: MEE
+            + CPChain  Released-By: CPCHAIN
+            + Electronic PK Chain  Released-By: EPC
+            + Equal  Released-By: EQL
+            + Fortuna  Released-By: FOTA
+            + Garlicoin  Released-By: GRLC
+            + GCN Coin  Released-By: GCN
+            + HalalChain  Released-By: HLC
+            + Health Mutual Society  Released-By: HMSC
+            + Matrix AI Network  Released-By: MAN
+            + Nework  Released-By: NKC
+            + OceanChain  Released-By: OC
+            + Photon  Released-By: PHO
+            + Pundi X  Released-By: PXS
+            + Royalties  Released-By: XRY
+            + Ruff  Released-By: RUFF
+            + Smartlands  Released-By: SLT
+            + Speed Mining Service  Released-By: SMS
+            + ValueChain  Released-By: VLC
+            + Zeepin  Released-By: ZPT
+            + Zilliqa  Released-By: ZIL
 
           - Removed coins:
-            + Arcade Token (ARCADE)
-            + Blackmoon (BMC)
-            + CorgiCoin (CORG)
-            + DimonCoin (FUDD)
-            + GCN Coin (GCN)
-            + GeoCoin (GEO)
-            + Global Business Revolution (GBRC)
-            + KemCredit (KMC)
-            + Mavro (MAVRO)
-            + Purpose (PRPS)
-            + USDe (USDE)
+            + Arcade Token  Released-By: ARCADE
+            + Blackmoon  Released-By: BMC
+            + CorgiCoin  Released-By: CORG
+            + DimonCoin  Released-By: FUDD
+            + GCN Coin  Released-By: GCN
+            + GeoCoin  Released-By: GEO
+            + Global Business Revolution  Released-By: GBRC
+            + KemCredit  Released-By: KMC
+            + Mavro  Released-By: MAVRO
+            + Purpose  Released-By: PRPS
+            + USDe  Released-By: USDE
 
           - Changed coins:
             + Elite (1337) changed name from 1337
@@ -2134,99 +2134,99 @@
             + Bitcoin Atom (BCA) changed name from Bitcoin Atom [Futures]
             + Peerguess (GUESS) changed name from GUESS
 
-          - Total coins now 1506 (from 1491)
+          - Total coins now 1506  Released-By: from 1491
 
 
-20180125  2018-01-25 (PERLANCAR)
+20180125  2018-01-25  Released-By: PERLANCAR
 
           - Update to CMC 2018-01-25.
 
           - New coins:
-            + Acute Angle Cloud (AAC)
-            + AidCoin (AID)
-            + ArbitrageCT (ARCT)
-            + Aurora DAO (AURA)
-            + aXpire (AXP)
-            + Bitcoin Lightning (BTCL)
-            + Block Array (ARY)
-            + Blockport (BPT)
-            + CRYPTO20 (C20)
-            + carVertical (CV)
-            + CasinoCoin (CSC)
-            + ChatCoin (CHAT)
-            + Covesting (COV)
-            + Crypterium (CRPT)
-            + DATA (DTA)
-            + Decentralized Universal Basic Income (DUBI)
-            + Devery (EVE)
-            + EDUCare (EKT)
-            + Ethorse (HORSE)
-            + Galactrum (ORE)
-            + Gatcoin (GAT)
-            + GUESS (GUESS)
-            + Harvest Masternode Coin (HC)
-            + Hydro Protocol (HOT)
-            + IDEX Membership (IDXM)
-            + indaHash (IDH)
-            + InsurePal (IPL)
-            + IPChain (IPC)
-            + Jiyo (JIYO)
-            + LightChain (LIGHT)
-            + LinkEye (LET)
-            + Maggie (MAGGIE)
-            + Maverick Chain (MVC)
-            + Mobius (MOBI)
-            + Molecular Future (MOF)
-            + Nitro (NOX)
-            + Odyssey (OCN)
-            + OFCOIN (OF)
-            + OriginTrail (TRAC)
-            + Oyster (PRL)
-            + PressOne (PRS)
-            + Profile Utility Token (PUTOKEN)
-            + Purpose (PRPS)
-            + Qbic (QBIC)
-            + Read (READ)
-            + RealChain (RCT)
-            + RefToken (REF)
-            + Scry.info (DDD)
-            + SelfSell (SSC)
-            + ShareX (SEXC)
-            + SingularityNET (AGI)
-            + SpaceChain (SPC)
-            + Sparks (SPK)
-            + StarChain (STC)
-            + Theta Token (THETA)
-            + TimesCoin (TMC)
-            + Titanium Blockchain (BAR)
-            + Tokenbox (TBX)
-            + Trinity Network Credit (TNC)
-            + True Chain (TRUE)
-            + UnlimitedIP (UIP)
-            + Yee (YEE)
+            + Acute Angle Cloud  Released-By: AAC
+            + AidCoin  Released-By: AID
+            + ArbitrageCT  Released-By: ARCT
+            + Aurora DAO  Released-By: AURA
+            + aXpire  Released-By: AXP
+            + Bitcoin Lightning  Released-By: BTCL
+            + Block Array  Released-By: ARY
+            + Blockport  Released-By: BPT
+            + CRYPTO20  Released-By: C20
+            + carVertical  Released-By: CV
+            + CasinoCoin  Released-By: CSC
+            + ChatCoin  Released-By: CHAT
+            + Covesting  Released-By: COV
+            + Crypterium  Released-By: CRPT
+            + DATA  Released-By: DTA
+            + Decentralized Universal Basic Income  Released-By: DUBI
+            + Devery  Released-By: EVE
+            + EDUCare  Released-By: EKT
+            + Ethorse  Released-By: HORSE
+            + Galactrum  Released-By: ORE
+            + Gatcoin  Released-By: GAT
+            + GUESS  Released-By: GUESS
+            + Harvest Masternode Coin  Released-By: HC
+            + Hydro Protocol  Released-By: HOT
+            + IDEX Membership  Released-By: IDXM
+            + indaHash  Released-By: IDH
+            + InsurePal  Released-By: IPL
+            + IPChain  Released-By: IPC
+            + Jiyo  Released-By: JIYO
+            + LightChain  Released-By: LIGHT
+            + LinkEye  Released-By: LET
+            + Maggie  Released-By: MAGGIE
+            + Maverick Chain  Released-By: MVC
+            + Mobius  Released-By: MOBI
+            + Molecular Future  Released-By: MOF
+            + Nitro  Released-By: NOX
+            + Odyssey  Released-By: OCN
+            + OFCOIN  Released-By: OF
+            + OriginTrail  Released-By: TRAC
+            + Oyster  Released-By: PRL
+            + PressOne  Released-By: PRS
+            + Profile Utility Token  Released-By: PUTOKEN
+            + Purpose  Released-By: PRPS
+            + Qbic  Released-By: QBIC
+            + Read  Released-By: READ
+            + RealChain  Released-By: RCT
+            + RefToken  Released-By: REF
+            + Scry.info  Released-By: DDD
+            + SelfSell  Released-By: SSC
+            + ShareX  Released-By: SEXC
+            + SingularityNET  Released-By: AGI
+            + SpaceChain  Released-By: SPC
+            + Sparks  Released-By: SPK
+            + StarChain  Released-By: STC
+            + Theta Token  Released-By: THETA
+            + TimesCoin  Released-By: TMC
+            + Titanium Blockchain  Released-By: BAR
+            + Tokenbox  Released-By: TBX
+            + Trinity Network Credit  Released-By: TNC
+            + True Chain  Released-By: TRUE
+            + UnlimitedIP  Released-By: UIP
+            + Yee  Released-By: YEE
 
           - Removed coins:
-            + 9COIN (9COIN)
-            + BatCoin (BATCOIN)
-            + Bitswift (SWIFT)
-            + BlazeCoin (BLZ)
-            + BoostCoin (BOST)
-            + E4ROW (E4ROW)
-            + Frazcoin (FRAZ)
-            + GanjaCoin (MRJA)
-            + Interzone (ITZ)
-            + LottoCoin (LOT)
-            + MorningStar (MRNG)
-            + MTMGaming (MTM)
-            + Mutual Coin (MUT)
-            + Oyster (PRL)
-            + Photon (PHO)
-            + Qibuck Asset (QBK)
-            + Royalties (XRY)
-            + Santa Coin (STC)
-            + SwapToken (TOKEN)
-            + The Cypherfunks (FUNK)
-            + XYLO (XYLO)
+            + 9COIN  Released-By: 9COIN
+            + BatCoin  Released-By: BATCOIN
+            + Bitswift  Released-By: SWIFT
+            + BlazeCoin  Released-By: BLZ
+            + BoostCoin  Released-By: BOST
+            + E4ROW  Released-By: E4ROW
+            + Frazcoin  Released-By: FRAZ
+            + GanjaCoin  Released-By: MRJA
+            + Interzone  Released-By: ITZ
+            + LottoCoin  Released-By: LOT
+            + MorningStar  Released-By: MRNG
+            + MTMGaming  Released-By: MTM
+            + Mutual Coin  Released-By: MUT
+            + Oyster  Released-By: PRL
+            + Photon  Released-By: PHO
+            + Qibuck Asset  Released-By: QBK
+            + Royalties  Released-By: XRY
+            + Santa Coin  Released-By: STC
+            + SwapToken  Released-By: TOKEN
+            + The Cypherfunks  Released-By: FUNK
+            + XYLO  Released-By: XYLO
 
           - Changed coins:
             + B3Coin (KB3) changed symbol from B3
@@ -2235,95 +2235,95 @@
             + GCN Coin (GCN) changed name from GCoin
             + Presearch (PRE) changed symbol from PRS
 
-          - Total coins now 1491 (from 1450)
+          - Total coins now 1491  Released-By: from 1450
 
 
-20180116  2018-01-16 (PERLANCAR)
+20180116  2018-01-16  Released-By: PERLANCAR
 
           - Update to CMC 2018-01-16.
 
           - New coins:
-            + AICHAIN (AIT)
-            + AI Doctor (AIDOC)
-            + Aigang (AIX)
-            + ATN (ATN)
-            + AWARE (AWR)
-            + Bankex (BKX)
-            + Bean Cash (BITB)
-            + Bitcoin Atom [Futures] (BCA)
-            + Bitcoin God (GOD)
-            + BitDegree (BDG)
-            + Bloom (BLT)
-            + Bottos (BTO)
-            + CFun (CFUN)
-            + Cloud (CLD)
-            + CoffeeCoin (CFC)
-            + Coinlancer (CL)
-            + Commodity Ad Network (CDX)
-            + Content and AD Network (CANETWORK)
-            + CryptopiaFeeShares (CEFS)
-            + EchoLink (EKO)
-            + EtherDelta Token (EDT)
-            + FairGame (FAIRGAME)
-            + GameChain System (GCS)
-            + Global Jobcoin (GJC)
-            + GET Protocol (GET)
-            + Hacken (HKN)
-            + Hackspace Capital (HAC)
-            + High Performance Blockchain (HPB)
-            + Ignition (IC)
-            + INS Ecosystem (INS)
-            + Internet Node Token (INT)
-            + InvestDigital (IDT)
-            + IOStoken (IOST)
-            + Jingtum Tech (SWTC)
-            + Karma (KRM)
-            + Kcash (KCASH)
-            + KemCredit (KMC)
-            + Kzcash (KZC)
-            + Leek Coin (LEEK)
-            + LendConnect (LCT)
-            + Leverj (LEV)
-            + Measurable Data Token (MDT)
-            + Mixin (MIXIN)
-            + MOAC (MOAC)
-            + Nimfamoney (NIMFA)
-            + Numus (NMS)
-            + NumusCash (NUMUS)
-            + OneRoot Network (RNT)
-            + OP Coin (OPC)
-            + Polis (POLIS)
-            + Qube (QUBE)
-            + QunQun (QUN)
-            + Rebellious (REBL)
-            + Selfkey (KEY)
-            + Show (SHOW)
-            + Spectre.ai Dividend Token (SXDT)
-            + Spectre.ai Utility (SXUT)
-            + Steneum Coin (STN)
-            + SwftCoin (SWFTC)
-            + Swisscoin (SIC)
-            + Telcoin (TEL)
-            + TokenClub (TCT)
-            + TOKYO (TOKC)
-            + TopChain (TOPC)
-            + Trade Token (TIO)
-            + ugChain (UGC)
-            + United Traders Token (UTT)
-            + Vezt (VZT)
-            + WaykiChain (WAYKI)
-            + WETH (WETH)
-            + Zap (ZAP)
+            + AICHAIN  Released-By: AIT
+            + AI Doctor  Released-By: AIDOC
+            + Aigang  Released-By: AIX
+            + ATN  Released-By: ATN
+            + AWARE  Released-By: AWR
+            + Bankex  Released-By: BKX
+            + Bean Cash  Released-By: BITB
+            + Bitcoin Atom [Futures]  Released-By: BCA
+            + Bitcoin God  Released-By: GOD
+            + BitDegree  Released-By: BDG
+            + Bloom  Released-By: BLT
+            + Bottos  Released-By: BTO
+            + CFun  Released-By: CFUN
+            + Cloud  Released-By: CLD
+            + CoffeeCoin  Released-By: CFC
+            + Coinlancer  Released-By: CL
+            + Commodity Ad Network  Released-By: CDX
+            + Content and AD Network  Released-By: CANETWORK
+            + CryptopiaFeeShares  Released-By: CEFS
+            + EchoLink  Released-By: EKO
+            + EtherDelta Token  Released-By: EDT
+            + FairGame  Released-By: FAIRGAME
+            + GameChain System  Released-By: GCS
+            + Global Jobcoin  Released-By: GJC
+            + GET Protocol  Released-By: GET
+            + Hacken  Released-By: HKN
+            + Hackspace Capital  Released-By: HAC
+            + High Performance Blockchain  Released-By: HPB
+            + Ignition  Released-By: IC
+            + INS Ecosystem  Released-By: INS
+            + Internet Node Token  Released-By: INT
+            + InvestDigital  Released-By: IDT
+            + IOStoken  Released-By: IOST
+            + Jingtum Tech  Released-By: SWTC
+            + Karma  Released-By: KRM
+            + Kcash  Released-By: KCASH
+            + KemCredit  Released-By: KMC
+            + Kzcash  Released-By: KZC
+            + Leek Coin  Released-By: LEEK
+            + LendConnect  Released-By: LCT
+            + Leverj  Released-By: LEV
+            + Measurable Data Token  Released-By: MDT
+            + Mixin  Released-By: MIXIN
+            + MOAC  Released-By: MOAC
+            + Nimfamoney  Released-By: NIMFA
+            + Numus  Released-By: NMS
+            + NumusCash  Released-By: NUMUS
+            + OneRoot Network  Released-By: RNT
+            + OP Coin  Released-By: OPC
+            + Polis  Released-By: POLIS
+            + Qube  Released-By: QUBE
+            + QunQun  Released-By: QUN
+            + Rebellious  Released-By: REBL
+            + Selfkey  Released-By: KEY
+            + Show  Released-By: SHOW
+            + Spectre.ai Dividend Token  Released-By: SXDT
+            + Spectre.ai Utility  Released-By: SXUT
+            + Steneum Coin  Released-By: STN
+            + SwftCoin  Released-By: SWFTC
+            + Swisscoin  Released-By: SIC
+            + Telcoin  Released-By: TEL
+            + TokenClub  Released-By: TCT
+            + TOKYO  Released-By: TOKC
+            + TopChain  Released-By: TOPC
+            + Trade Token  Released-By: TIO
+            + ugChain  Released-By: UGC
+            + United Traders Token  Released-By: UTT
+            + Vezt  Released-By: VZT
+            + WaykiChain  Released-By: WAYKI
+            + WETH  Released-By: WETH
+            + Zap  Released-By: ZAP
 
           - Removed coins:
-            + BitBean (BITB)
-            + Bitcoin Unlimited (BTU)
-            + Bongger (BGR)
-            + CasinoCoin (CSC)
-            + EmberCoin (EMB)
-            + Kittehcoin (MEOW)
-            + QCash (QC)
-            + Wyvern (WYV)
+            + BitBean  Released-By: BITB
+            + Bitcoin Unlimited  Released-By: BTU
+            + Bongger  Released-By: BGR
+            + CasinoCoin  Released-By: CSC
+            + EmberCoin  Released-By: EMB
+            + Kittehcoin  Released-By: MEOW
+            + QCash  Released-By: QC
+            + Wyvern  Released-By: WYV
 
           - Changed coins:
             + BitcoinX (BCX) changed name from BitcoinX [Futures]
@@ -2334,10 +2334,10 @@
             + SegWit2x (B2X) changed name from Segwit2x [Futures]
             + Simple Token (OST) changed symbol from ST
 
-          - Total coins now 1450 (from 1387)
+          - Total coins now 1450  Released-By: from 1387
 
 
-20180109  2018-01-09 (PERLANCAR)
+20180109  2018-01-09  Released-By: PERLANCAR
 
 	  - Update to CMC 2018-01-09 (new coins: AppCoins (APPC), CanYaCoin
 	    (CAN), Lamden (TAU)).
@@ -2347,6 +2347,6 @@
 	  - [doc] Mention CryptoExchange::Catalog.
 
 
-20180106   2018-01-06 (PERLANCAR)
+20180106   2018-01-06  Released-By: PERLANCAR
 
         - First release.
